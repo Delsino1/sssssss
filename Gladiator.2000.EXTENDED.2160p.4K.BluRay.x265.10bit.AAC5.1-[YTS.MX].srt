@@ -1,25 +1,24 @@
 1
 00:01:00,815 --> 00:01:04,765
-www.NapiProjekt.pl - nowa jakoœæ napisów.
-Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.
+
 
 2
 00:01:04,815 --> 00:01:09,444
-"U szczytu swojej potêgi,
-Cesarstwo Rzymskie by³o ogromne...
+"U szczytu swojej potÄ™gi,
+Cesarstwo Rzymskie byÅ‚o ogromne...
 
 3
 00:01:09,528 --> 00:01:14,116
-rozci¹gaj¹c siê od pustyñ Afryki
-po granice Pó³nocnej Anglii.
+rozciÄ…gajÄ…c siÄ™ od pustyÅ„ Afryki
+po granice PÃ³Å‚nocnej Anglii.
 
 4
 00:01:14,157 --> 00:01:17,703
-Ponad æwieræ ludnoœci œwiata ¿y³a i umiera³a...
+Ponad Ä‡wierÄ‡ ludnoÅ›ci Å›wiata Å¼yÅ‚a i umieraÅ‚a...
 
 5
 00:01:17,744 --> 00:01:20,706
-pod rz¹dami Cezarów.
+pod rzÄ…dami CezarÃ³w.
 
 6
 00:01:22,291 --> 00:01:26,170
@@ -28,17 +27,17 @@ Cezara Marka Aureliusza...
 
 7
 00:01:26,211 --> 00:01:30,007
-przeciwko plemionom barbarzyñców
-w Germanii dobiega³a koñca.
+przeciwko plemionom barbarzyÅ„cÃ³w
+w Germanii dobiegaÅ‚a koÅ„ca.
 
 8
 00:01:30,048 --> 00:01:34,303
-Na drodze do zwyciêstwa Rzymu
+Na drodze do zwyciÄ™stwa Rzymu
 i pokoju w Cesarstwie...
 
 9
 00:01:34,344 --> 00:01:38,098
-sta³a jeszcze tylko jedna forteca."
+staÅ‚a jeszcze tylko jedna forteca."
 
 10
 00:03:18,282 --> 00:03:21,785
@@ -51,7 +50,7 @@ Panie generale.
 
 12
 00:03:47,811 --> 00:03:50,606
-Chudzi i g³odni.
+Chudzi i gÅ‚odni.
 
 13
 00:03:52,482 --> 00:03:55,444
@@ -60,61 +59,61 @@ Chudzi i g³odni.
 
 14
 00:03:55,485 --> 00:03:59,698
-- Ile go ju¿ nie ma?
+- Ile go juÅ¼ nie ma?
 - Prawie dwie godziny.
 
 15
 00:04:01,408 --> 00:04:04,453
-- Bêd¹ z nami walczyæ?
-- Wkrótce siê oka¿e.
+- BÄ™dÄ… z nami walczyÄ‡?
+- WkrÃ³tce siÄ™ okaÅ¼e.
 
 16
 00:04:04,494 --> 00:04:07,206
-¯o³nierzu, kaza³em ci przesun¹æ
+Å»oÅ‚nierzu, kazaÅ‚em ci przesunÄ…Ä‡
 katapulty do przodu.
 
 17
 00:04:07,247 --> 00:04:10,751
-- S¹ poza zasiêgiem.
-- Zasiêg jest dobry.
+- SÄ… poza zasiÄ™giem.
+- ZasiÄ™g jest dobry.
 
 18
 00:04:10,792 --> 00:04:16,298
-- Niebezpieczeñstwo dla kawalerii...
+- NiebezpieczeÅ„stwo dla kawalerii...
 - Jest do zaakceptowania. Zgoda?
 
 19
 00:04:24,389 --> 00:04:26,892
-Odmawiaj¹.
+OdmawiajÄ….
 
 20
 00:04:35,108 --> 00:04:37,694
-Stój! Stój!
+StÃ³j! StÃ³j!
 
 21
 00:04:51,291 --> 00:04:55,420
-Ludzie powinni wiedzieæ kiedy s¹ pokonani.
+Ludzie powinni wiedzieÄ‡ kiedy sÄ… pokonani.
 
 22
 00:05:04,513 --> 00:05:07,349
-Wiedzia³byœ Quintusie?
+WiedziaÅ‚byÅ› Quintusie?
 
 23
 00:05:07,391 --> 00:05:10,185
-A czy ja bym wiedzia³?
+A czy ja bym wiedziaÅ‚?
 
 24
 00:05:24,992 --> 00:05:28,620
-- Si³a i honor.
-- Si³a i honor.
+- SiÅ‚a i honor.
+- SiÅ‚a i honor.
 
 25
 00:05:33,584 --> 00:05:37,004
-Na mój znak, wywo³aj piek³o.
+Na mÃ³j znak, wywoÅ‚aj piekÅ‚o.
 
 26
 00:05:59,318 --> 00:06:01,862
-Za³adowaæ katapulty.
+ZaÅ‚adowaÄ‡ katapulty.
 
 27
 00:06:01,904 --> 00:06:05,073
@@ -122,13 +121,13 @@ Piechota gotowa do ataku.
 
 28
 00:06:05,115 --> 00:06:07,618
-- £ucznicy gotowi.
-- £ucznicy!
+- Åucznicy gotowi.
+- Åucznicy!
 
 29
 00:06:07,659 --> 00:06:10,913
-- Naci¹gn¹æ!
-- Naci¹gn¹æ!
+- NaciÄ…gnÄ…Ä‡!
+- NaciÄ…gnÄ…Ä‡!
 
 30
 00:06:33,101 --> 00:06:35,020
@@ -140,33 +139,33 @@ Maximus!
 
 32
 00:06:37,606 --> 00:06:41,485
-Za trzy tygodnie, bêdê zbiera³ ¿niwa.
+Za trzy tygodnie, bÄ™dÄ™ zbieraÅ‚ Å¼niwa.
 
 33
 00:06:41,818 --> 00:06:46,698
-WyobraŸcie sobie co wy bêdziecie robiæ,
-i tak siê stanie.
+WyobraÅºcie sobie co wy bÄ™dziecie robiÄ‡,
+i tak siÄ™ stanie.
 
 34
 00:06:47,199 --> 00:06:50,285
-Wyrównaæ! Trzymajcie siê blisko mnie!
+WyrÃ³wnaÄ‡! Trzymajcie siÄ™ blisko mnie!
 
 35
 00:06:50,369 --> 00:06:53,372
-Jeœli znajdziecie siê sami...
+JeÅ›li znajdziecie siÄ™ sami...
 
 36
 00:06:53,413 --> 00:06:57,709
-jad¹cy po zielonych polach ze s³oñcem
-pal¹cym w twarz...
+jadÄ…cy po zielonych polach ze sÅ‚oÅ„cem
+palÄ…cym w twarz...
 
 37
 00:06:57,751 --> 00:07:00,546
-nie martwcie siê.
+nie martwcie siÄ™.
 
 38
 00:07:00,587 --> 00:07:05,008
-Jesteœcie po prostu w Raju i jesteœcie martwi!
+JesteÅ›cie po prostu w Raju i jesteÅ›cie martwi!
 
 39
 00:07:06,593 --> 00:07:09,096
@@ -174,19 +173,19 @@ Bracia...
 
 40
 00:07:09,513 --> 00:07:12,683
-czego dokonujemy w ¿yciu...
+czego dokonujemy w Å¼yciu...
 
 41
 00:07:12,766 --> 00:07:15,894
-odzwierciedla siê w wiecznoœci.
+odzwierciedla siÄ™ w wiecznoÅ›ci.
 
 42
 00:07:22,317 --> 00:07:24,695
-Ci¹gnij!
+CiÄ…gnij!
 
 43
 00:07:31,410 --> 00:07:34,288
-Ci¹gnij! Ci¹gnij!
+CiÄ…gnij! CiÄ…gnij!
 
 44
 00:07:39,209 --> 00:07:42,087
@@ -194,106 +193,106 @@ Katapulty gotowe!
 
 45
 00:07:52,181 --> 00:07:54,933
-£ucznicy, zapalajcie!
+Åucznicy, zapalajcie!
 
 46
 00:07:54,975 --> 00:07:57,686
-- Zapalaæ!
-- Zapalaæ!
+- ZapalaÄ‡!
+- ZapalaÄ‡!
 
 47
 00:08:02,900 --> 00:08:05,819
-£ucznicy, naci¹gaæ!
+Åucznicy, naciÄ…gaÄ‡!
 
 48
 00:08:08,405 --> 00:08:10,782
-Strzelaæ!
+StrzelaÄ‡!
 
 49
 00:08:11,909 --> 00:08:14,286
-Strzelaæ!
+StrzelaÄ‡!
 
 50
 00:08:39,603 --> 00:08:42,981
-W porz¹dku, wszyscy gotowi!
+W porzÄ…dku, wszyscy gotowi!
 
 51
 00:08:47,611 --> 00:08:50,113
-Wyrównaæ!
+WyrÃ³wnaÄ‡!
 
 52
 00:08:55,202 --> 00:08:57,663
-Naci¹gaæ! Strzelaæ!
+NaciÄ…gaÄ‡! StrzelaÄ‡!
 
 53
 00:08:57,704 --> 00:09:00,082
-Strzelaæ! Strzelaæ!
+StrzelaÄ‡! StrzelaÄ‡!
 
 54
 00:09:00,123 --> 00:09:02,584
-Naci¹gaæ!
+NaciÄ…gaÄ‡!
 
 55
 00:09:06,588 --> 00:09:08,674
-Wyrównaæ!
+WyrÃ³wnaÄ‡!
 
 56
 00:09:08,715 --> 00:09:11,718
-Naci¹gaæ! Strzelaæ!
+NaciÄ…gaÄ‡! StrzelaÄ‡!
 
 57
 00:09:13,595 --> 00:09:16,682
-Trzymajcie siê blisko!
+Trzymajcie siÄ™ blisko!
 
 58
 00:09:20,686 --> 00:09:23,689
-Trzymajcie siê mnie!
+Trzymajcie siÄ™ mnie!
 
 59
 00:09:50,716 --> 00:09:53,385
-Rzym zwyciê¿y!
+Rzym zwyciÄ™Å¼y!
 
 60
 00:12:26,788 --> 00:12:29,499
-Rzym zwyciê¿y!
+Rzym zwyciÄ™Å¼y!
 
 61
 00:13:10,415 --> 00:13:14,002
-Czy naprawdê myœlisz, ¿e umiera?
+Czy naprawdÄ™ myÅ›lisz, Å¼e umiera?
 
 62
 00:13:14,503 --> 00:13:17,965
-Umiera ju¿ od dziesiêciu lat.
+Umiera juÅ¼ od dziesiÄ™ciu lat.
 
 63
 00:13:18,006 --> 00:13:21,009
-Gdyby nie umiera³ naprawdê,
-nie pos³a³by po nas.
+Gdyby nie umieraÅ‚ naprawdÄ™,
+nie posÅ‚aÅ‚by po nas.
 
 64
 00:13:21,051 --> 00:13:23,053
-Mo¿e za nami têskni.
+MoÅ¼e za nami tÄ™skni.
 
 65
 00:13:23,095 --> 00:13:26,014
-A senatorzy? Nie wzywa³by ich gdyby...
+A senatorzy? Nie wzywaÅ‚by ich gdyby...
 
 66
 00:13:26,056 --> 00:13:27,057
-Uspokój siê, Commodusie.
+UspokÃ³j siÄ™, Commodusie.
 
 67
 00:13:27,099 --> 00:13:32,020
-Po dwutygodniowej podró¿y,
-pêka mi g³owa od twoich knowañ.
+Po dwutygodniowej podrÃ³Å¼y,
+pÄ™ka mi gÅ‚owa od twoich knowaÅ„.
 
 68
 00:13:37,818 --> 00:13:40,404
-Podj¹³ decyzjê.
+PodjÄ…Å‚ decyzjÄ™.
 
 69
 00:13:40,445 --> 00:13:42,990
-Oznajmi j¹ wkrótce.
+Oznajmi jÄ… wkrÃ³tce.
 
 70
 00:13:45,617 --> 00:13:48,287
@@ -301,7 +300,7 @@ Mnie wybierze.
 
 71
 00:13:50,205 --> 00:13:53,208
-Pierwsz¹ rzecz¹ jak¹ uczyniê...
+PierwszÄ… rzeczÄ… jakÄ… uczyniÄ™...
 
 72
 00:13:53,250 --> 00:13:55,502
@@ -309,20 +308,20 @@ gdy...
 
 73
 00:13:56,920 --> 00:14:00,549
-uczczê go igrzyskami wartymi Jego Wysokoœci.
+uczczÄ™ go igrzyskami wartymi Jego WysokoÅ›ci.
 
 74
 00:14:00,591 --> 00:14:05,095
 Tymczasem ja powinnam sobie
-sprawiæ gor¹c¹ k¹piel.
+sprawiÄ‡ gorÄ…cÄ… kÄ…piel.
 
 75
 00:14:06,805 --> 00:14:09,516
-Wasza Wysokoœæ?
+Wasza WysokoÅ›Ä‡?
 
 76
 00:14:12,019 --> 00:14:15,397
-Prawie jesteœmy na miejscu.
+Prawie jesteÅ›my na miejscu.
 
 77
 00:14:20,611 --> 00:14:22,571
@@ -332,11 +331,11 @@ Prawie jesteœmy na miejscu.
 78
 00:14:22,613 --> 00:14:25,782
 Tam z przodu, Panie.
-Nie by³o ich przez 19 dni.
+Nie byÅ‚o ich przez 19 dni.
 
 79
 00:14:25,824 --> 00:14:28,702
-Ranni nadal zje¿d¿aj¹.
+Ranni nadal zjeÅ¼dÅ¼ajÄ….
 
 80
 00:14:28,744 --> 00:14:30,996
@@ -344,7 +343,7 @@ Daj mi konia.
 
 81
 00:14:31,038 --> 00:14:33,207
-Mój Panie.
+MÃ³j Panie.
 
 82
 00:14:35,209 --> 00:14:37,586
@@ -352,27 +351,27 @@ Buziaki?
 
 83
 00:15:12,704 --> 00:15:17,000
-I tym razem dowiod³eœ swego mêstwa Maximusie.
+I tym razem dowiodÅ‚eÅ› swego mÄ™stwa Maximusie.
 
 84
 00:15:18,502 --> 00:15:21,255
-Miejmy nadziejê, ¿e to ostatni raz.
+Miejmy nadziejÄ™, Å¼e to ostatni raz.
 
 85
 00:15:21,296 --> 00:15:24,007
-Nie ma ju¿ z kim walczyæ, Panie.
+Nie ma juÅ¼ z kim walczyÄ‡, Panie.
 
 86
 00:15:24,049 --> 00:15:26,677
-Zawsze jest z kim walczyæ.
+Zawsze jest z kim walczyÄ‡.
 
 87
 00:15:26,718 --> 00:15:31,098
-Jak mogê wynagrodziæ najlepszego genera³a Rzymu?
+Jak mogÄ™ wynagrodziÄ‡ najlepszego generaÅ‚a Rzymu?
 
 88
 00:15:34,685 --> 00:15:37,688
-Pozwól mi wróciæ do domu.
+PozwÃ³l mi wrÃ³ciÄ‡ do domu.
 
 89
 00:15:37,729 --> 00:15:40,107
@@ -380,20 +379,20 @@ Do domu.
 
 90
 00:15:58,917 --> 00:16:01,503
-Oddaj¹ ci czeœæ Cezarze.
+OddajÄ… ci czeÅ›Ä‡ Cezarze.
 
 91
 00:16:01,545 --> 00:16:04,089
-To tobie oddaj¹, Maximusie.
+To tobie oddajÄ…, Maximusie.
 
 92
 00:16:26,486 --> 00:16:30,407
-SpóŸni³em siê?
-SpóŸni³em siê na bitwê?
+SpÃ³ÅºniÅ‚em siÄ™?
+SpÃ³ÅºniÅ‚em siÄ™ na bitwÄ™?
 
 93
 00:16:30,908 --> 00:16:32,910
-SpóŸni³eœ siê na wojnê.
+SpÃ³ÅºniÅ‚eÅ› siÄ™ na wojnÄ™.
 
 94
 00:16:32,951 --> 00:16:35,162
@@ -401,8 +400,8 @@ Ojcze, gratulacje.
 
 95
 00:16:35,204 --> 00:16:37,497
-Z³o¿ê w ofierze sto byków na czeœæ
-twego zwyciêstwa.
+ZÅ‚oÅ¼Ä™ w ofierze sto bykÃ³w na czeÅ›Ä‡
+twego zwyciÄ™stwa.
 
 96
 00:16:37,539 --> 00:16:39,541
@@ -410,81 +409,81 @@ Ocal byki.
 
 97
 00:16:39,583 --> 00:16:42,711
-Zaszczyt nale¿y siê Maximusowi.
-On wygra³ bitwê.
+Zaszczyt naleÅ¼y siÄ™ Maximusowi.
+On wygraÅ‚ bitwÄ™.
 
 98
 00:16:42,753 --> 00:16:45,839
 - Generale.
-- Wasza Wysokoœæ.
+- Wasza WysokoÅ›Ä‡.
 
 99
 00:16:45,881 --> 00:16:48,759
-Rzym chyli g³owê, a ja traktujê ciê jak brata.
+Rzym chyli gÅ‚owÄ™, a ja traktujÄ™ ciÄ™ jak brata.
 
 100
 00:16:48,800 --> 00:16:51,595
-Za d³ugo to wszystko trwa³o, mój przyjacielu.
+Za dÅ‚ugo to wszystko trwaÅ‚o, mÃ³j przyjacielu.
 
 101
 00:16:51,637 --> 00:16:53,805
-- Wasza Wysokoœæ.
-- Proszê, Ojcze.
+- Wasza WysokoÅ›Ä‡.
+- ProszÄ™, Ojcze.
 
 102
 00:16:53,847 --> 00:16:56,600
-WeŸ mnie za rêkê.
+WeÅº mnie za rÄ™kÄ™.
 
 103
 00:16:57,309 --> 00:17:00,103
-Na mnie ju¿ czas.
+Na mnie juÅ¼ czas.
 
 104
 00:17:14,910 --> 00:17:18,205
-I tyle nam z chwa³y Rzymu.
+I tyle nam z chwaÅ‚y Rzymu.
 
 105
 00:18:48,420 --> 00:18:51,215
-Wspania³a walka.
+WspaniaÅ‚a walka.
 
 106
 00:19:13,820 --> 00:19:15,864
 - Generale.
-- Wci¹¿ ¿ywy?
+- WciÄ…Å¼ Å¼ywy?
 
 107
 00:19:15,906 --> 00:19:18,992
-- Wci¹¿ ¿ywy.
-- Bogowie musz¹ mieæ poczucie humoru.
+- WciÄ…Å¼ Å¼ywy.
+- Bogowie muszÄ… mieÄ‡ poczucie humoru.
 
 108
 00:19:19,034 --> 00:19:21,662
-- Bogowie musz¹ ciê kochaæ.
+- Bogowie muszÄ… ciÄ™ kochaÄ‡.
 - Waleriusz.
 
 109
 00:19:21,703 --> 00:19:24,289
-Generale, powrót do koszarów?
+Generale, powrÃ³t do koszarÃ³w?
 Czy do Rzymu?
 
 110
 00:19:24,331 --> 00:19:27,918
-Do domu. Mojej ¿ony, syna, ¿niw.
+Do domu. Mojej Å¼ony, syna, Å¼niw.
 
 111
 00:19:28,293 --> 00:19:31,880
 Maximus rolnik.
-Nadal trudno mi sobie to wyobraziæ.
+Nadal trudno mi sobie to wyobraziÄ‡.
 
 112
 00:19:31,964 --> 00:19:35,509
-Quintusie, ³atwiej oczyœciæ z siebie
-brud ni¿ krew.
+Quintusie, Å‚atwiej oczyÅ›ciÄ‡ z siebie
+brud niÅ¼ krew.
 
 113
 00:19:35,551 --> 00:19:37,636
 - Oto i on.
-- Wasza Wysokoœæ.
+- Wasza WysokoÅ›Ä‡.
 
 114
 00:19:37,678 --> 00:19:39,638
@@ -492,24 +491,24 @@ Senator Gaius, Senator Falco.
 
 115
 00:19:39,680 --> 00:19:43,141
-Strze¿ siê Gaiusa. Naleje ci trucizny do ucha...
+StrzeÅ¼ siÄ™ Gaiusa. Naleje ci trucizny do ucha...
 
 116
 00:19:43,183 --> 00:19:46,019
-i jak siê pewnego dnia przebudzisz,
+i jak siÄ™ pewnego dnia przebudzisz,
 powiesz, "Republika, Republika."
 
 117
 00:19:46,061 --> 00:19:49,106
-A dlaczego nie? Rzym powsta³ z republiki.
+A dlaczego nie? Rzym powstaÅ‚ z republiki.
 
 118
 00:19:49,147 --> 00:19:52,067
-Tak, a w republice senat jest przy w³adzy.
+Tak, a w republice senat jest przy wÅ‚adzy.
 
 119
 00:19:52,109 --> 00:19:54,695
-Ale to oczywiœcie nie ma znaczenia
+Ale to oczywiÅ›cie nie ma znaczenia
 dla senatora Gaiusa.
 
 120
@@ -519,7 +518,7 @@ Cezara czy senatu?
 
 121
 00:19:57,322 --> 00:19:59,575
-¯o³nierz ma mo¿liwoœæ...
+Å»oÅ‚nierz ma moÅ¼liwoÅ›Ä‡...
 
 122
 00:19:59,616 --> 00:20:02,661
@@ -528,13 +527,13 @@ prosto w oczy Senatorze.
 
 123
 00:20:02,703 --> 00:20:07,249
-No có¿, z ca³¹ armi¹ za sob¹
-móg³byœ byæ politycznie nastawiony.
+No cÃ³Å¼, z caÅ‚Ä… armiÄ… za sobÄ…
+mÃ³gÅ‚byÅ› byÄ‡ politycznie nastawiony.
 
 124
 00:20:07,291 --> 00:20:11,795
-Ostrzeg³em ciê. Teraz muszê ciê ocaliæ.
-Senatorowie wybacz¹.
+OstrzegÅ‚em ciÄ™. Teraz muszÄ™ ciÄ™ ocaliÄ‡.
+Senatorowie wybaczÄ….
 
 125
 00:20:19,386 --> 00:20:21,763
@@ -542,68 +541,68 @@ Maximus.
 
 126
 00:20:21,805 --> 00:20:26,101
-Bêdê potrzebowa³ dobrych ludzi, takich jak ty.
+BÄ™dÄ™ potrzebowaÅ‚ dobrych ludzi, takich jak ty.
 
 127
 00:20:26,602 --> 00:20:29,479
-Czym mogê s³u¿yæ Wasza Wysokoœæ?
+Czym mogÄ™ sÅ‚uÅ¼yÄ‡ Wasza WysokoÅ›Ä‡?
 
 128
 00:20:29,521 --> 00:20:32,274
-Wiesz co to znaczy dowodziæ ludŸmi.
+Wiesz co to znaczy dowodziÄ‡ ludÅºmi.
 
 129
 00:20:32,316 --> 00:20:36,403
 Wydajesz rozkazy, wszyscy ich
-s³uchaj¹ i bitwa wygrana.
+sÅ‚uchajÄ… i bitwa wygrana.
 
 130
 00:20:36,445 --> 00:20:40,282
-A senatorzy tylko knuj¹, k³óc¹ siê,
-pochlebiaj¹ i oszukuj¹.
+A senatorzy tylko knujÄ…, kÅ‚Ã³cÄ… siÄ™,
+pochlebiajÄ… i oszukujÄ….
 
 131
 00:20:40,324 --> 00:20:44,119
-Maximusie, mój przyjacielu,
-musimy ocaliæ Rzym od polityków.
+Maximusie, mÃ³j przyjacielu,
+musimy ocaliÄ‡ Rzym od politykÃ³w.
 
 132
 00:20:44,161 --> 00:20:48,290
-Czy mogê na ciebie liczyæ jak nadejdzie czas?
+Czy mogÄ™ na ciebie liczyÄ‡ jak nadejdzie czas?
 
 133
 00:20:53,295 --> 00:20:56,798
-Jak tylko pañski ojciec mnie zwolni,
-zamierzam powróciæ do domu.
+Jak tylko paÅ„ski ojciec mnie zwolni,
+zamierzam powrÃ³ciÄ‡ do domu.
 
 134
 00:20:56,840 --> 00:21:00,969
-Có¿, nikt bardziej sobie na to nie zas³u¿y³.
+CÃ³Å¼, nikt bardziej sobie na to nie zasÅ‚uÅ¼yÅ‚.
 
 135
 00:21:01,011 --> 00:21:05,807
-Nie ciesz siê za bardzo.
-Mogê ciê nied³ugo potrzebowaæ.
+Nie ciesz siÄ™ za bardzo.
+MogÄ™ ciÄ™ niedÅ‚ugo potrzebowaÄ‡.
 
 136
 00:21:06,683 --> 00:21:09,895
-Lucilla jest tutaj. Wiedzia³eœ?
+Lucilla jest tutaj. WiedziaÅ‚eÅ›?
 
 137
 00:21:09,937 --> 00:21:12,940
-Nie zapomnia³a o tobie.
+Nie zapomniaÅ‚a o tobie.
 
 138
 00:21:12,981 --> 00:21:16,693
-Teraz jesteœ wielkim cz³owiekiem.
+Teraz jesteÅ› wielkim czÅ‚owiekiem.
 
 139
 00:21:27,412 --> 00:21:31,208
-Gdybyœ tylko urodzi³a siê mê¿czyzn¹.
+GdybyÅ› tylko urodziÅ‚a siÄ™ mÄ™Å¼czyznÄ….
 
 140
 00:21:31,291 --> 00:21:34,795
-By³by z ciebie wspania³y Cezar!
+ByÅ‚by z ciebie wspaniaÅ‚y Cezar!
 
 141
 00:21:35,295 --> 00:21:37,589
@@ -619,30 +618,30 @@ Ciekawe czy sprawiedliwy?
 
 144
 00:21:47,891 --> 00:21:51,687
-By³abym takim jakim mnie nauczy³eœ.
+ByÅ‚abym takim jakim mnie nauczyÅ‚eÅ›.
 
 145
 00:21:53,188 --> 00:21:55,065
-Jak minê³a podró¿?
+Jak minÄ™Å‚a podrÃ³Å¼?
 
 146
 00:21:55,107 --> 00:21:58,569
-D³uga. Niewygodna.
-Dlaczego po mnie wezwa³eœ?
+DÅ‚uga. Niewygodna.
+Dlaczego po mnie wezwaÅ‚eÅ›?
 
 147
 00:21:58,610 --> 00:22:01,989
-Potrzbujê twojej pomocy.
+PotrzbujÄ™ twojej pomocy.
 Chodzi o twojego brata.
 
 148
 00:22:02,030 --> 00:22:04,157
-Oczywiœcie.
+OczywiÅ›cie.
 
 149
 00:22:04,199 --> 00:22:07,286
-On ciê kocha.
-Zawsze ciê kocha³.
+On ciÄ™ kocha.
+Zawsze ciÄ™ kochaÅ‚.
 
 150
 00:22:07,327 --> 00:22:09,496
@@ -650,8 +649,8 @@ I...
 
 151
 00:22:10,289 --> 00:22:15,002
-teraz bêdzie ciê potrzebowa³
-bardziej ni¿ kiedykolwiek.
+teraz bÄ™dzie ciÄ™ potrzebowaÅ‚
+bardziej niÅ¼ kiedykolwiek.
 
 152
 00:22:18,505 --> 00:22:20,465
@@ -659,7 +658,7 @@ Ale wystarczy tej polityki.
 
 153
 00:22:20,507 --> 00:22:24,219
-Poudajmy, ¿e jesteœ kochaj¹c¹ córk¹...
+Poudajmy, Å¼e jesteÅ› kochajÄ…cÄ… cÃ³rkÄ…...
 
 154
 00:22:24,261 --> 00:22:27,097
@@ -667,15 +666,15 @@ a ja dobrym ojcem.
 
 155
 00:22:32,186 --> 00:22:35,898
-To przyjemne mrzonki, nieprawda¿?
+To przyjemne mrzonki, nieprawdaÅ¼?
 
 156
 00:22:47,993 --> 00:22:50,621
-Dzieñ dobry.
+DzieÅ„ dobry.
 
 157
 00:23:02,591 --> 00:23:06,094
-Potrzebujê jeszcze trzech koni.
+PotrzebujÄ™ jeszcze trzech koni.
 
 158
 00:23:14,895 --> 00:23:17,105
@@ -691,7 +690,7 @@ Jeden! Dwa!
 
 161
 00:23:37,709 --> 00:23:40,879
-Wzywa³eœ mnie, Cezarze?
+WzywaÅ‚eÅ› mnie, Cezarze?
 
 162
 00:23:44,299 --> 00:23:48,095
@@ -700,11 +699,11 @@ Wzywa³eœ mnie, Cezarze?
 
 163
 00:23:48,387 --> 00:23:51,390
-Dlaczego tutaj jesteœmy?
+Dlaczego tutaj jesteÅ›my?
 
 164
 00:23:51,431 --> 00:23:54,393
-Dla chwa³y Imperium, Panie.
+Dla chwaÅ‚y Imperium, Panie.
 
 165
 00:23:54,434 --> 00:23:56,687
@@ -712,15 +711,15 @@ A tak.
 
 166
 00:23:57,521 --> 00:24:00,315
-A tak, pamiêtam.
+A tak, pamiÄ™tam.
 
 167
 00:24:02,484 --> 00:24:05,404
-Widzisz tê mapê Maximusie?
+Widzisz tÄ™ mapÄ™ Maximusie?
 
 168
 00:24:05,445 --> 00:24:08,282
-To œwiat, który stworzy³em.
+To Å›wiat, ktÃ³ry stworzyÅ‚em.
 
 169
 00:24:09,116 --> 00:24:11,451
@@ -728,17 +727,17 @@ Przez 25 lat...
 
 170
 00:24:11,493 --> 00:24:15,998
-podbija³em, rozlewa³em krew,
-poszerza³em Imperium.
+podbijaÅ‚em, rozlewaÅ‚em krew,
+poszerzaÅ‚em Imperium.
 
 171
 00:24:16,415 --> 00:24:20,419
 Od czasu jak jestem Cezarem,
-by³y tylko 4 lata bez wojen.
+byÅ‚y tylko 4 lata bez wojen.
 
 172
 00:24:20,460 --> 00:24:22,796
-Cztery lata w ci¹gu dwudziestu.
+Cztery lata w ciÄ…gu dwudziestu.
 
 173
 00:24:22,838 --> 00:24:25,799
@@ -746,20 +745,20 @@ I po co to wszystko?
 
 174
 00:24:32,097 --> 00:24:35,809
-Przynios³em same wojny.
-Nic wiêcej.
+PrzyniosÅ‚em same wojny.
+Nic wiÄ™cej.
 
 175
 00:24:36,894 --> 00:24:38,353
-Cezarze, twoje ¿ycie...
+Cezarze, twoje Å¼ycie...
 
 176
 00:24:38,395 --> 00:24:41,607
-Proszê. Zapomnij o tytu³ach.
+ProszÄ™. Zapomnij o tytuÅ‚ach.
 
 177
 00:24:41,648 --> 00:24:43,984
-ChodŸ tu.
+ChodÅº tu.
 
 178
 00:24:44,484 --> 00:24:46,653
@@ -771,36 +770,36 @@ Porozmawiajmy sobie teraz...
 
 180
 00:24:50,199 --> 00:24:53,785
-tak zwyczajnie... jak mê¿czyŸni.
+tak zwyczajnie... jak mÄ™Å¼czyÅºni.
 
 181
 00:24:53,994 --> 00:24:56,788
-Maximusie, mów.
+Maximusie, mÃ³w.
 
 182
 00:25:01,418 --> 00:25:04,296
-Piêæ tysiêcy moich ludzi marznie tam
-po kolana w b³ocie.
+PiÄ™Ä‡ tysiÄ™cy moich ludzi marznie tam
+po kolana w bÅ‚ocie.
 
 183
 00:25:04,338 --> 00:25:06,757
-trzy tysi¹ce z nich krwawi¹cy i poranieni.
+trzy tysiÄ…ce z nich krwawiÄ…cy i poranieni.
 
 184
 00:25:06,798 --> 00:25:09,092
-Dwa tysi¹ce z nich nigdy nie wyjdzie st¹d ¿ywa.
+Dwa tysiÄ…ce z nich nigdy nie wyjdzie stÄ…d Å¼ywa.
 
 185
 00:25:09,134 --> 00:25:11,386
-Nie uwierzê w to, ¿e walczyli i polegli za nic.
+Nie uwierzÄ™ w to, Å¼e walczyli i polegli za nic.
 
 186
 00:25:11,428 --> 00:25:13,347
-A w co byœ uwierzy³?
+A w co byÅ› uwierzyÅ‚?
 
 187
 00:25:13,388 --> 00:25:16,808
-¯e walczyli za ciebie i Rzym.
+Å»e walczyli za ciebie i Rzym.
 
 188
 00:25:16,850 --> 00:25:19,603
@@ -808,20 +807,20 @@ A czym jest Rzym?
 
 189
 00:25:20,687 --> 00:25:23,148
-Widzia³em kawa³ œwiata.
+WidziaÅ‚em kawaÅ‚ Å›wiata.
 
 190
 00:25:23,190 --> 00:25:27,319
-Jest brutalny, okrutny i smêtny.
-Rzym jest œwiat³em.
+Jest brutalny, okrutny i smÄ™tny.
+Rzym jest Å›wiatÅ‚em.
 
 191
 00:25:27,361 --> 00:25:29,655
-Ale nigdy tam nie by³eœ.
+Ale nigdy tam nie byÅ‚eÅ›.
 
 192
 00:25:29,696 --> 00:25:31,907
-Nie widzia³eœ czym siê sta³.
+Nie widziaÅ‚eÅ› czym siÄ™ staÅ‚.
 
 193
 00:25:31,949 --> 00:25:34,785
@@ -829,19 +828,19 @@ Umieram Maximusie.
 
 194
 00:25:34,993 --> 00:25:36,954
-Jak cz³owiek zbli¿a siê ku koñcowi...
+Jak czÅ‚owiek zbliÅ¼a siÄ™ ku koÅ„cowi...
 
 195
 00:25:36,995 --> 00:25:40,624
-chce wierzyæ, ¿e w jego ¿yciu by³ jakiœ cel.
+chce wierzyÄ‡, Å¼e w jego Å¼yciu byÅ‚ jakiÅ› cel.
 
 196
 00:25:40,707 --> 00:25:44,294
-Jak œwiat bêdzie o mnie mówi³ za parê lat?
+Jak Å›wiat bÄ™dzie o mnie mÃ³wiÅ‚ za parÄ™ lat?
 
 197
 00:25:44,336 --> 00:25:46,713
-Czy bêd¹ mnie uwa¿aæ za filozofa?
+Czy bÄ™dÄ… mnie uwaÅ¼aÄ‡ za filozofa?
 
 198
 00:25:46,755 --> 00:25:48,674
@@ -853,28 +852,28 @@ Tyrana?
 
 200
 00:25:51,385 --> 00:25:56,014
-Czy te¿ Cezara, który odda³ Rzymowi
-jego to¿samoœæ?
+Czy teÅ¼ Cezara, ktÃ³ry oddaÅ‚ Rzymowi
+jego toÅ¼samoÅ›Ä‡?
 
 201
 00:25:57,182 --> 00:25:59,852
-Rzym by³ kiedyœ marzeniem.
+Rzym byÅ‚ kiedyÅ› marzeniem.
 
 202
 00:25:59,893 --> 00:26:02,479
-Mog³eœ tylko o nim szeptaæ.
+MogÅ‚eÅ› tylko o nim szeptaÄ‡.
 
 203
 00:26:02,521 --> 00:26:05,482
-Podniós³byœ g³os, i byœ go zdmuchn¹³...
+PodniÃ³sÅ‚byÅ› gÅ‚os, i byÅ› go zdmuchnÄ…Å‚...
 
 204
 00:26:05,524 --> 00:26:07,776
-taki by³ delikatny.
+taki byÅ‚ delikatny.
 
 205
 00:26:07,818 --> 00:26:11,613
-I obawiam siê, ¿e nie przetrwa zimy.
+I obawiam siÄ™, Å¼e nie przetrwa zimy.
 
 206
 00:26:12,990 --> 00:26:15,367
@@ -898,57 +897,57 @@ Opowiedz mi o swoim domu.
 
 211
 00:26:32,217 --> 00:26:37,014
-Mój dom le¿y na wzgórzach nad Truchillo.
-Zwyk³e miejsce.
+MÃ³j dom leÅ¼y na wzgÃ³rzach nad Truchillo.
+ZwykÅ‚e miejsce.
 
 212
 00:26:38,599 --> 00:26:41,560
-Ró¿owe kamienie, wygrzewaj¹ siê na s³oñcu.
+RÃ³Å¼owe kamienie, wygrzewajÄ… siÄ™ na sÅ‚oÅ„cu.
 
 213
 00:26:41,602 --> 00:26:45,689
-Kuchenny ogród, który pachnie zio³ami w dzieñ...
+Kuchenny ogrÃ³d, ktÃ³ry pachnie zioÅ‚ami w dzieÅ„...
 
 214
 00:26:45,731 --> 00:26:48,817
-a jaœminem wieczorem.
+a jaÅ›minem wieczorem.
 
 215
 00:26:49,193 --> 00:26:52,321
-Przez bramê widaæ olbrzymi¹ topolê.
+Przez bramÄ™ widaÄ‡ olbrzymiÄ… topolÄ™.
 
 216
 00:26:52,362 --> 00:26:55,157
-Figi, jab³onie, grusze.
+Figi, jabÅ‚onie, grusze.
 
 217
 00:26:55,199 --> 00:26:59,995
 Gleba, Marcusie... czarna.
-Czarna jak w³osy mojej ¿ony.
+Czarna jak wÅ‚osy mojej Å¼ony.
 
 218
 00:27:00,120 --> 00:27:02,372
-Winogrona na po³udniowym stoku,
-oliwki na pó³nocnym.
+Winogrona na poÅ‚udniowym stoku,
+oliwki na pÃ³Å‚nocnym.
 
 219
 00:27:02,414 --> 00:27:07,252
-Dzikie Ÿrebaki bawi¹ siê w pobli¿u.
-Zaczepiaj¹ synka. On chce byæ jak one.
+Dzikie Åºrebaki bawiÄ… siÄ™ w pobliÅ¼u.
+ZaczepiajÄ… synka. On chce byÄ‡ jak one.
 
 220
 00:27:07,294 --> 00:27:12,090
-- Pamiêtasz kiedy ostatnio by³eœ w domu?
+- PamiÄ™tasz kiedy ostatnio byÅ‚eÅ› w domu?
 - Dwa lata, 264 dni dzisiaj mija.
 
 221
 00:27:12,883 --> 00:27:15,344
-Zazdroszczê ci, Maximusie.
+ZazdroszczÄ™ ci, Maximusie.
 
 222
 00:27:15,385 --> 00:27:20,015
-Wygl¹da mi na wspania³y dom.
-Warto o niego walczyæ.
+WyglÄ…da mi na wspaniaÅ‚y dom.
+Warto o niego walczyÄ‡.
 
 223
 00:27:22,392 --> 00:27:25,145
@@ -960,32 +959,32 @@ dla ciebie, zanim pojedziesz do domu.
 
 225
 00:27:29,816 --> 00:27:32,069
-Cezarze, czego sobie ode mnie ¿yczysz?
+Cezarze, czego sobie ode mnie Å¼yczysz?
 
 226
 00:27:32,110 --> 00:27:36,907
-Chcia³bym, abyœ zaopiekowa³ siê Rzymem
-po mojej œmierci.
+ChciaÅ‚bym, abyÅ› zaopiekowaÅ‚ siÄ™ Rzymem
+po mojej Å›mierci.
 
 227
 00:27:36,949 --> 00:27:39,952
-Powierzê ci jedno tylko zadanie...
+PowierzÄ™ ci jedno tylko zadanie...
 
 228
 00:27:39,993 --> 00:27:43,914
-abyœ odda³ w³adzê mieszkañcom Rzymu...
+abyÅ› oddaÅ‚ wÅ‚adzÄ™ mieszkaÅ„com Rzymu...
 
 229
 00:27:44,289 --> 00:27:48,418
-i zakoñczy³ korupcjê, która siê tu wdar³a.
+i zakoÅ„czyÅ‚ korupcjÄ™, ktÃ³ra siÄ™ tu wdarÅ‚a.
 
 230
 00:27:53,590 --> 00:27:58,011
-Czy zaakceptujesz ten zaszczyt, który ci oferujê?
+Czy zaakceptujesz ten zaszczyt, ktÃ³ry ci oferujÄ™?
 
 231
 00:27:58,804 --> 00:28:01,807
-Z ca³ego serca, nie.
+Z caÅ‚ego serca, nie.
 
 232
 00:28:03,100 --> 00:28:05,352
@@ -993,19 +992,19 @@ Maximusie...
 
 233
 00:28:05,394 --> 00:28:07,938
-oto dlaczego to musisz byæ ty.
+oto dlaczego to musisz byÄ‡ ty.
 
 234
 00:28:07,980 --> 00:28:10,440
-To musi byæ ktoœ jak senator...
+To musi byÄ‡ ktoÅ› jak senator...
 
 235
 00:28:10,482 --> 00:28:14,111
-ktoœ kto zna miasto, rozumie jego politykê.
+ktoÅ› kto zna miasto, rozumie jego politykÄ™.
 
 236
 00:28:14,152 --> 00:28:17,698
-Ale ty nie jesteœ skorumpowany jego polityk¹.
+Ale ty nie jesteÅ› skorumpowany jego politykÄ….
 
 237
 00:28:21,410 --> 00:28:25,497
@@ -1018,27 +1017,27 @@ Wiesz o tym od dawna.
 
 239
 00:28:28,083 --> 00:28:30,711
-Commodus nie mo¿e przej¹æ w³adzy.
+Commodus nie moÅ¼e przejÄ…Ä‡ wÅ‚adzy.
 
 240
 00:28:30,752 --> 00:28:33,213
-Nie mo¿e.
+Nie moÅ¼e.
 
 241
 00:28:34,381 --> 00:28:38,719
-Ty jesteœ synem, którego powinienem by³ mieæ.
+Ty jesteÅ› synem, ktÃ³rego powinienem byÅ‚ mieÄ‡.
 
 242
 00:28:40,012 --> 00:28:43,807
-Commodus pogodzi siê z moj¹ decyzj¹.
+Commodus pogodzi siÄ™ z mojÄ… decyzjÄ….
 
 243
 00:28:45,184 --> 00:28:49,021
-On wie, ¿e wojsko jest tobie oddane.
+On wie, Å¼e wojsko jest tobie oddane.
 
 244
 00:28:54,693 --> 00:28:56,612
-Potrzebujê trochê czasu, Panie.
+PotrzebujÄ™ trochÄ™ czasu, Panie.
 
 245
 00:28:56,653 --> 00:28:58,071
@@ -1046,11 +1045,11 @@ Dobrze.
 
 246
 00:28:58,113 --> 00:29:02,492
-Mam nadziejê, ¿e siê zgodzisz do zachodu s³oñca.
+Mam nadziejÄ™, Å¼e siÄ™ zgodzisz do zachodu sÅ‚oÅ„ca.
 
 247
 00:29:02,701 --> 00:29:05,621
-B¹dŸ dobrym synem.
+BÄ…dÅº dobrym synem.
 
 248
 00:29:08,290 --> 00:29:12,211
@@ -1058,13 +1057,13 @@ I podaj staruszkowi jeszcze jeden koc.
 
 249
 00:29:27,100 --> 00:29:30,521
-- Jesteœ ulubieñcem mojego ojca.
+- JesteÅ› ulubieÅ„cem mojego ojca.
 - Moja Pani.
 
 250
 00:29:30,604 --> 00:29:33,982
-- Nie zawsze tak by³o.
-- Wiele siê zmieni³o.
+- Nie zawsze tak byÅ‚o.
+- Wiele siÄ™ zmieniÅ‚o.
 
 251
 00:29:34,024 --> 00:29:37,194
@@ -1076,50 +1075,50 @@ Maximus, zaczekaj.
 
 253
 00:29:44,910 --> 00:29:47,913
-Poka¿ mi sw¹ twarz.
+PokaÅ¼ mi swÄ… twarz.
 
 254
 00:29:49,414 --> 00:29:53,085
-- Wygl¹dasz na zaniepokojonego.
-- Straci³em wielu ¿o³nierzy.
+- WyglÄ…dasz na zaniepokojonego.
+- StraciÅ‚em wielu Å¼oÅ‚nierzy.
 
 255
 00:29:53,126 --> 00:29:56,255
-Czego chcia³ od ciebie mój ojciec?
+Czego chciaÅ‚ od ciebie mÃ³j ojciec?
 
 256
 00:29:56,296 --> 00:29:59,508
-Chcia³ mi ¿yczyæ powodzenia zanim wyjadê do domu.
+ChciaÅ‚ mi Å¼yczyÄ‡ powodzenia zanim wyjadÄ™ do domu.
 
 257
 00:29:59,550 --> 00:30:01,552
-K³amiesz.
+KÅ‚amiesz.
 
 258
 00:30:01,593 --> 00:30:05,180
-Zawsze wiedzia³am kiedy k³amiesz,
-bo nigdy nie by³eœ w tym dobry.
+Zawsze wiedziaÅ‚am kiedy kÅ‚amiesz,
+bo nigdy nie byÅ‚eÅ› w tym dobry.
 
 259
 00:30:05,222 --> 00:30:07,808
-- Nie przychodzi mi tak ³atwo jak tobie.
+- Nie przychodzi mi tak Å‚atwo jak tobie.
 - To prawda.
 
 260
 00:30:07,850 --> 00:30:10,477
-Nigdy nie musia³eœ k³amaæ.
+Nigdy nie musiaÅ‚eÅ› kÅ‚amaÄ‡.
 
 261
 00:30:10,519 --> 00:30:14,398
-¯ycie ¿o³nierza jest o wiele prostsze.
+Å»ycie Å¼oÅ‚nierza jest o wiele prostsze.
 
 262
 00:30:14,982 --> 00:30:18,277
-A mo¿e myœlisz, ¿e jestem bez serca?
+A moÅ¼e myÅ›lisz, Å¼e jestem bez serca?
 
 263
 00:30:18,318 --> 00:30:22,281
-Myœlê, ¿e masz zdolnoœci do przetrwania.
+MyÅ›lÄ™, Å¼e masz zdolnoÅ›ci do przetrwania.
 
 264
 00:30:26,994 --> 00:30:29,913
@@ -1127,12 +1126,12 @@ Maximus, zaczekaj.
 
 265
 00:30:30,080 --> 00:30:33,083
-Czy to naprawdê takie straszne,
-¿e znowu siê widzimy?
+Czy to naprawdÄ™ takie straszne,
+Å¼e znowu siÄ™ widzimy?
 
 266
 00:30:33,125 --> 00:30:36,920
-Nie. Jestem tylko zmêczony po bitwie.
+Nie. Jestem tylko zmÄ™czony po bitwie.
 
 267
 00:30:36,962 --> 00:30:40,716
@@ -1140,17 +1139,17 @@ Cierpisz z powodu stanu mojego ojca.
 
 268
 00:30:42,885 --> 00:30:48,307
-Commodus oczekuje, ¿e ojciec lada dzieñ
-wyznaczy go swoim nastêpc¹.
+Commodus oczekuje, Å¼e ojciec lada dzieÅ„
+wyznaczy go swoim nastÄ™pcÄ….
 
 269
 00:30:48,390 --> 00:30:53,520
-Czy bêdziesz s³u¿y³ mojemu bratu
-tak jak s³u¿y³eœ mojemu ojcu?
+Czy bÄ™dziesz sÅ‚uÅ¼yÅ‚ mojemu bratu
+tak jak sÅ‚uÅ¼yÅ‚eÅ› mojemu ojcu?
 
 270
 00:30:54,021 --> 00:30:57,316
-Zawsze bêdê s³u¿y³ Rzymowi.
+Zawsze bÄ™dÄ™ sÅ‚uÅ¼yÅ‚ Rzymowi.
 
 271
 00:30:57,983 --> 00:30:59,943
@@ -1158,21 +1157,21 @@ Wiesz...
 
 272
 00:30:59,985 --> 00:31:03,280
-nadal siê o ciebie modlê.
+nadal siÄ™ o ciebie modlÄ™.
 
 273
 00:31:03,488 --> 00:31:06,491
-A tak. Modlê siê.
+A tak. ModlÄ™ siÄ™.
 
 274
 00:31:10,996 --> 00:31:15,709
-Przykro mi z powodu œmierci
-twojego mê¿a. Op³akujê go.
+Przykro mi z powodu Å›mierci
+twojego mÄ™Å¼a. OpÅ‚akujÄ™ go.
 
 275
 00:31:16,210 --> 00:31:20,088
-- Dziêkujê.
-- S³ysza³em, ¿e masz syna.
+- DziÄ™kujÄ™.
+- SÅ‚yszaÅ‚em, Å¼e masz syna.
 
 276
 00:31:20,714 --> 00:31:23,383
@@ -1184,39 +1183,39 @@ Ma prawie osiem lat.
 
 278
 00:31:26,512 --> 00:31:29,890
-Mój syn te¿ ma prawie osiem.
+MÃ³j syn teÅ¼ ma prawie osiem.
 
 279
 00:31:31,683 --> 00:31:35,187
-Dziêkujê ci za twoje modlitwy.
+DziÄ™kujÄ™ ci za twoje modlitwy.
 
 280
 00:31:41,693 --> 00:31:45,280
-Przodkowie, proszê was o poradê.
+Przodkowie, proszÄ™ was o poradÄ™.
 
 281
 00:31:45,697 --> 00:31:50,452
-Matko B³ogos³awiona, poka¿ mi
-co Bóg dla mnie ma w zanadrzu.
+Matko BÅ‚ogosÅ‚awiona, pokaÅ¼ mi
+co BÃ³g dla mnie ma w zanadrzu.
 
 282
 00:31:50,494 --> 00:31:55,207
-Ojcze B³ogos³awiony, sprawuj opiekê
-nad moj¹ ¿on¹ i synem.
+Ojcze BÅ‚ogosÅ‚awiony, sprawuj opiekÄ™
+nad mojÄ… Å¼onÄ… i synem.
 
 283
 00:31:55,791 --> 00:31:59,711
-Powiedz im, ¿e ¿yjê tylko po to,
-aby ich znowu przytuliæ.
+Powiedz im, Å¼e Å¼yjÄ™ tylko po to,
+aby ich znowu przytuliÄ‡.
 
 284
 00:31:59,753 --> 00:32:03,173
-Przodkowie, oddajê wam czeœæ...
+Przodkowie, oddajÄ™ wam czeÅ›Ä‡...
 
 285
 00:32:03,215 --> 00:32:08,220
-i bêdê stara³ siê ¿yæ z godnoœci¹,
-której mnie nauczyliœcie.
+i bÄ™dÄ™ staraÅ‚ siÄ™ Å¼yÄ‡ z godnoÅ›ciÄ…,
+ktÃ³rej mnie nauczyliÅ›cie.
 
 286
 00:32:29,283 --> 00:32:31,618
@@ -1228,40 +1227,40 @@ Generale.
 
 288
 00:32:39,918 --> 00:32:43,505
-S³u¿ba nie sprawia ci trudnoœci?
+SÅ‚uÅ¼ba nie sprawia ci trudnoÅ›ci?
 
 289
 00:32:46,008 --> 00:32:49,261
-Czasmi robiê to na co mam ochotê.
+Czasmi robiÄ™ to na co mam ochotÄ™.
 
 290
 00:32:49,303 --> 00:32:53,599
-A resztê czasu poœwiêcam na to co muszê robiæ.
+A resztÄ™ czasu poÅ›wiÄ™cam na to co muszÄ™ robiÄ‡.
 
 291
 00:32:54,892 --> 00:32:59,021
-Wygl¹da na to, ¿e nie pojedziemy do domu.
+WyglÄ…da na to, Å¼e nie pojedziemy do domu.
 
 292
 00:33:48,487 --> 00:33:51,907
-Gotów jesteœ s³u¿yæ Rzymowi?
+GotÃ³w jesteÅ› sÅ‚uÅ¼yÄ‡ Rzymowi?
 
 293
 00:33:54,493 --> 00:33:57,246
-Oczywiœcie, Ojcze.
+OczywiÅ›cie, Ojcze.
 
 294
 00:33:57,287 --> 00:33:59,998
-Nie bêdziesz Cezarem.
+Nie bÄ™dziesz Cezarem.
 
 295
 00:34:02,292 --> 00:34:04,795
-A kim jest ten m¹drzejszy, starszy
-mê¿czyzna, który nim zostanie?
+A kim jest ten mÄ…drzejszy, starszy
+mÄ™Å¼czyzna, ktÃ³ry nim zostanie?
 
 296
 00:34:04,837 --> 00:34:08,215
-Moj¹ w³adzê powierzam Maximusowi...
+MojÄ… wÅ‚adzÄ™ powierzam Maximusowi...
 
 297
 00:34:08,257 --> 00:34:10,467
@@ -1269,12 +1268,12 @@ w zaufaniu...
 
 298
 00:34:10,509 --> 00:34:15,097
-do czasu, kiedy to senat bêdzie gotowy
-na ponowne rz¹dy.
+do czasu, kiedy to senat bÄ™dzie gotowy
+na ponowne rzÄ…dy.
 
 299
 00:34:15,138 --> 00:34:18,684
-Rzym bêdzie ponownie republik¹.
+Rzym bÄ™dzie ponownie republikÄ….
 
 300
 00:34:21,186 --> 00:34:23,981
@@ -1283,11 +1282,11 @@ Rzym bêdzie ponownie republik¹.
 
 301
 00:34:29,820 --> 00:34:33,490
-Jesteœ rozczarowany moj¹ decyzj¹?
+JesteÅ› rozczarowany mojÄ… decyzjÄ…?
 
 302
 00:34:35,701 --> 00:34:39,204
-Opisa³eœ mi kiedyœ w liœcie...
+OpisaÅ‚eÅ› mi kiedyÅ› w liÅ›cie...
 
 303
 00:34:39,580 --> 00:34:42,583
@@ -1295,7 +1294,7 @@ cztery zalety wodza.
 
 304
 00:34:43,584 --> 00:34:46,795
-M¹droœæ, sprawiedliwoœæ...
+MÄ…droÅ›Ä‡, sprawiedliwoÅ›Ä‡...
 
 305
 00:34:46,837 --> 00:34:48,463
@@ -1303,11 +1302,11 @@ hart ducha...
 
 306
 00:34:48,505 --> 00:34:51,383
-i wstrzemiêŸliwoœæ.
+i wstrzemiÄ™ÅºliwoÅ›Ä‡.
 
 307
 00:34:52,593 --> 00:34:56,680
-Czytaj¹c wiedzia³em, ¿e nie mia³em ¿adnej z nich.
+CzytajÄ…c wiedziaÅ‚em, Å¼e nie miaÅ‚em Å¼adnej z nich.
 
 308
 00:34:56,722 --> 00:35:00,017
@@ -1319,16 +1318,16 @@ Ambicja.
 
 310
 00:35:03,020 --> 00:35:07,316
-To mo¿e byæ zalet¹ jeœli pomaga nam d¹¿yæ
-do doskona³oœci.
+To moÅ¼e byÄ‡ zaletÄ… jeÅ›li pomaga nam dÄ…Å¼yÄ‡
+do doskonaÅ‚oÅ›ci.
 
 311
 00:35:07,357 --> 00:35:10,194
-Zaradnoœæ. Odwaga.
+ZaradnoÅ›Ä‡. Odwaga.
 
 312
 00:35:10,694 --> 00:35:13,989
-No mo¿e nie na polu walki, ale...
+No moÅ¼e nie na polu walki, ale...
 
 313
 00:35:14,031 --> 00:35:17,284
@@ -1336,7 +1335,7 @@ istnieje wiele form odwagi.
 
 314
 00:35:17,409 --> 00:35:20,704
-Poœwiêcenie mojej rodzinie...
+PoÅ›wiÄ™cenie mojej rodzinie...
 
 315
 00:35:20,746 --> 00:35:23,081
@@ -1344,51 +1343,51 @@ i tobie.
 
 316
 00:35:24,499 --> 00:35:29,463
-Ale ¿adne z moich zalet nie znajdowa³y siê
-na twojej liœcie.
+Ale Å¼adne z moich zalet nie znajdowaÅ‚y siÄ™
+na twojej liÅ›cie.
 
 317
 00:35:29,505 --> 00:35:34,801
-Nawet wtedy wygl¹da³o na to, ¿e nie chcia³eœ,
-abym by³ twoim synem.
+Nawet wtedy wyglÄ…daÅ‚o na to, Å¼e nie chciaÅ‚eÅ›,
+abym byÅ‚ twoim synem.
 
 318
 00:35:35,093 --> 00:35:37,846
-Za daleko siê posuwasz.
+Za daleko siÄ™ posuwasz.
 
 319
 00:35:37,888 --> 00:35:41,475
-W twarzach bogów poszukiwa³em metod...
+W twarzach bogÃ³w poszukiwaÅ‚em metod...
 
 320
 00:35:41,517 --> 00:35:45,812
-aby ciê zadowoliæ, abyœ móg³ byæ ze mnie dumny.
+aby ciÄ™ zadowoliÄ‡, abyÅ› mÃ³gÅ‚ byÄ‡ ze mnie dumny.
 
 321
 00:35:46,396 --> 00:35:48,774
-Jedno dobre s³owo...
+Jedno dobre sÅ‚owo...
 
 322
 00:35:48,857 --> 00:35:51,151
-jeden pe³ny uœcisk...
+jeden peÅ‚ny uÅ›cisk...
 
 323
 00:35:51,193 --> 00:35:54,905
-przytulenie do piersi i objêcie...
+przytulenie do piersi i objÄ™cie...
 
 324
 00:35:56,114 --> 00:36:00,994
-by³yby dla mnie jak gdyby s³oñce
-zamieszka³o w moim sercu.
+byÅ‚yby dla mnie jak gdyby sÅ‚oÅ„ce
+zamieszkaÅ‚o w moim sercu.
 
 325
 00:36:02,204 --> 00:36:07,000
 Co we mnie takiego jest,
-¿e mnie tak bardzo nienawidzisz?
+Å¼e mnie tak bardzo nienawidzisz?
 
 326
 00:36:07,292 --> 00:36:09,545
-Zawsze chcia³em ¿yæ...
+Zawsze chciaÅ‚em Å¼yÄ‡...
 
 327
 00:36:09,586 --> 00:36:13,507
@@ -1405,11 +1404,11 @@ Twoja wina jako syna...
 
 330
 00:36:25,310 --> 00:36:29,189
-le¿y w moim braku zdolnoœci jako ojca.
+leÅ¼y w moim braku zdolnoÅ›ci jako ojca.
 
 331
 00:36:39,283 --> 00:36:41,994
-ChodŸ do mnie.
+ChodÅº do mnie.
 
 332
 00:36:44,496 --> 00:36:46,790
@@ -1417,32 +1416,32 @@ Ojcze.
 
 333
 00:37:01,180 --> 00:37:04,433
-Wyr¿n¹³bym ca³y œwiat...
+WyrÅ¼nÄ…Å‚bym caÅ‚y Å›wiat...
 
 334
 00:37:04,474 --> 00:37:07,686
-gdybyœ mnie tylko kocha³!
+gdybyÅ› mnie tylko kochaÅ‚!
 
 335
 00:37:44,306 --> 00:37:48,519
-Maximusie, Cezar ciê wzywa. To bardzo wa¿ne.
+Maximusie, Cezar ciÄ™ wzywa. To bardzo waÅ¼ne.
 
 336
 00:37:53,190 --> 00:37:58,320
-P³acz wraz ze mn¹ mój bracie.
-Nasz wspania³y ojciec nie ¿yje.
+PÅ‚acz wraz ze mnÄ… mÃ³j bracie.
+Nasz wspaniaÅ‚y ojciec nie Å¼yje.
 
 337
 00:38:24,680 --> 00:38:27,182
-Jak zmar³?
+Jak zmarÅ‚?
 
 338
 00:38:27,599 --> 00:38:30,394
-Lekarze mówi¹, ¿e œmieræ by³a bezbolesna.
+Lekarze mÃ³wiÄ…, Å¼e Å›mierÄ‡ byÅ‚a bezbolesna.
 
 339
 00:38:30,435 --> 00:38:33,814
-Przesta³ oddychaæ jak spa³.
+PrzestaÅ‚ oddychaÄ‡ jak spaÅ‚.
 
 340
 00:38:42,114 --> 00:38:44,408
@@ -1450,15 +1449,15 @@ Ojcze.
 
 341
 00:38:45,993 --> 00:38:50,205
-Maksimusie, twój w³adca prosi o twoje oddanie.
+Maksimusie, twÃ³j wÅ‚adca prosi o twoje oddanie.
 
 342
 00:38:50,247 --> 00:38:53,083
-Uœciœnij moj¹ rêkê.
+UÅ›ciÅ›nij mojÄ… rÄ™kÄ™.
 
 343
 00:38:54,501 --> 00:38:57,421
-Oferujê tylko raz.
+OferujÄ™ tylko raz.
 
 344
 00:39:10,601 --> 00:39:13,020
@@ -1466,67 +1465,67 @@ Quintus.
 
 345
 00:40:01,985 --> 00:40:04,363
-Niech ¿yje Cezar.
+Niech Å¼yje Cezar.
 
 346
 00:40:04,404 --> 00:40:07,199
-Muszê porozmawiaæ z senatorami.
-Potrzebujê ich porady.
+MuszÄ™ porozmawiaÄ‡ z senatorami.
+PotrzebujÄ™ ich porady.
 
 347
 00:40:07,241 --> 00:40:10,118
-ObudŸ Gaiusa i Falco.
+ObudÅº Gaiusa i Falco.
 
 348
 00:40:10,160 --> 00:40:12,996
-- Mój miecz.
+- MÃ³j miecz.
 - Miecz.
 
 349
 00:40:14,498 --> 00:40:17,501
-Maximusie uwa¿aj na siebie.
-To nie by³o roztropne.
+Maximusie uwaÅ¼aj na siebie.
+To nie byÅ‚o roztropne.
 
 350
 00:40:17,543 --> 00:40:20,587
-Roztropne? Cezar zosta³ zamordowany.
+Roztropne? Cezar zostaÅ‚ zamordowany.
 
 351
 00:40:20,629 --> 00:40:24,216
-Cezar zmar³ œmierci¹ naturaln¹.
+Cezar zmarÅ‚ Å›mierciÄ… naturalnÄ….
 
 352
 00:40:25,008 --> 00:40:29,304
-- Quintusie dlaczego jesteœ uzbrojony?
-- Stra¿!
+- Quintusie dlaczego jesteÅ› uzbrojony?
+- StraÅ¼!
 
 353
 00:40:30,389 --> 00:40:33,600
-Maximusie nie opieraj siê proszê.
+Maximusie nie opieraj siÄ™ proszÄ™.
 
 354
 00:40:33,642 --> 00:40:36,728
-Przepraszam... ale Cezar kaza³.
+Przepraszam... ale Cezar kazaÅ‚.
 
 355
 00:40:36,770 --> 00:40:39,815
-JedŸcie a¿ œwit was zastanie...
+JedÅºcie aÅ¼ Å›wit was zastanie...
 
 356
 00:40:39,857 --> 00:40:41,358
-a potem skoñczcie z nim.
+a potem skoÅ„czcie z nim.
 
 357
 00:40:41,400 --> 00:40:43,944
-Quintus, pos³uchaj. Spójrz na mnie!
+Quintus, posÅ‚uchaj. SpÃ³jrz na mnie!
 
 358
 00:40:43,986 --> 00:40:48,282
-Obiecaj mi, ¿e zaopiekujesz siê moj¹ rodzin¹.
+Obiecaj mi, Å¼e zaopiekujesz siÄ™ mojÄ… rodzinÄ….
 
 359
 00:40:48,490 --> 00:40:52,286
-Z rodzin¹ spotkasz siê w zaœwiatach.
+Z rodzinÄ… spotkasz siÄ™ w zaÅ›wiatach.
 
 360
 00:41:16,185 --> 00:41:18,687
@@ -1534,25 +1533,25 @@ Na kolana.
 
 361
 00:41:20,981 --> 00:41:24,693
-Ojcze B³ogos³awiony, sprawuj opiekê
-nad moj¹ ¿on¹ i synem.
+Ojcze BÅ‚ogosÅ‚awiony, sprawuj opiekÄ™
+nad mojÄ… Å¼onÄ… i synem.
 
 362
 00:41:24,735 --> 00:41:28,405
-Powiedz im, ¿e ¿yjê tylko po to,
-aby ich znowu przytuliæ.
+Powiedz im, Å¼e Å¼yjÄ™ tylko po to,
+aby ich znowu przytuliÄ‡.
 
 363
 00:41:28,488 --> 00:41:32,201
-Przynajmniej daj mi czyst¹ œmieræ.
+Przynajmniej daj mi czystÄ… Å›mierÄ‡.
 
 364
 00:41:32,910 --> 00:41:35,787
-Œmieræ ¿o³nierza.
+ÅšmierÄ‡ Å¼oÅ‚nierza.
 
 365
 00:41:56,892 --> 00:42:01,313
-Mróz czasami sprawia, ¿e klinga siê zacina.
+MrÃ³z czasami sprawia, Å¼e klinga siÄ™ zacina.
 
 366
 00:42:19,790 --> 00:42:22,417
@@ -1560,23 +1559,23 @@ Pretorianie!
 
 367
 00:43:41,079 --> 00:43:46,418
-- Kiedy ostatni raz by³eœ w domu?
+- Kiedy ostatni raz byÅ‚eÅ› w domu?
 - Dwa lata, 264 dni mija dzisiaj.
 
 368
 00:43:47,794 --> 00:43:52,299
-Ojcze B³ogos³awiony, sprawuj opiekê
-nad moj¹ ¿on¹ i synem.
+Ojcze BÅ‚ogosÅ‚awiony, sprawuj opiekÄ™
+nad mojÄ… Å¼onÄ… i synem.
 
 369
 00:43:52,341 --> 00:43:56,386
-Powiedz im, ¿e ¿yjê tylko po to,
-aby ich znowu przytuliæ.
+Powiedz im, Å¼e Å¼yjÄ™ tylko po to,
+aby ich znowu przytuliÄ‡.
 
 370
 00:43:56,428 --> 00:44:00,390
-Powiedz im, ¿e ¿yjê tylko po to,
-aby ich znowu przytuliæ...
+Powiedz im, Å¼e Å¼yjÄ™ tylko po to,
+aby ich znowu przytuliÄ‡...
 
 371
 00:44:00,432 --> 00:44:04,102
@@ -1592,7 +1591,7 @@ Nie umieraj.
 
 374
 00:47:57,002 --> 00:48:00,380
-Spotkasz siê z nimi ponownie.
+Spotkasz siÄ™ z nimi ponownie.
 
 375
 00:48:01,006 --> 00:48:04,092
@@ -1600,7 +1599,7 @@ Ale jeszcze nie teraz.
 
 376
 00:48:10,516 --> 00:48:14,311
-Nie ruszaj. Oczyszcz¹ to, zobaczysz.
+Nie ruszaj. OczyszczÄ… to, zobaczysz.
 
 377
 00:48:48,512 --> 00:48:50,556
@@ -1608,11 +1607,11 @@ Nie umieraj.
 
 378
 00:48:50,597 --> 00:48:53,100
-Albo rzuc¹ ciê na po¿arcie lwom.
+Albo rzucÄ… ciÄ™ na poÅ¼arcie lwom.
 
 379
 00:48:53,141 --> 00:48:56,395
-One s¹ warte wiêcej ni¿ my.
+One sÄ… warte wiÄ™cej niÅ¼ my.
 
 380
 00:49:05,612 --> 00:49:08,156
@@ -1633,49 +1632,49 @@ Proximo!
 
 384
 00:49:42,399 --> 00:49:44,943
-Mój drogi przyjacielu.
+MÃ³j drogi przyjacielu.
 
 385
 00:49:44,985 --> 00:49:48,363
-Ka¿dy dzieñ gdy ciê widzê jest wspania³y...
+KaÅ¼dy dzieÅ„ gdy ciÄ™ widzÄ™ jest wspaniaÅ‚y...
 
 386
 00:49:48,405 --> 00:49:52,910
-ale dzisiejszy dzieñ bêdzie twoim
+ale dzisiejszy dzieÅ„ bÄ™dzie twoim
 najwspanialszym.
 
 387
 00:49:55,287 --> 00:49:57,998
-Te ¿yrafy, które mi sprzeda³eœ...
+Te Å¼yrafy, ktÃ³re mi sprzedaÅ‚eÅ›...
 
 388
 00:49:58,040 --> 00:50:00,334
-nie nadaj¹ siê do rozrodu.
+nie nadajÄ… siÄ™ do rozrodu.
 
 389
 00:50:00,375 --> 00:50:02,586
-One tylko chodz¹ i jedz¹...
+One tylko chodzÄ… i jedzÄ…...
 
 390
 00:50:02,628 --> 00:50:04,796
-ale siê nie rozmna¿aj¹.
+ale siÄ™ nie rozmnaÅ¼ajÄ….
 
 391
 00:50:04,838 --> 00:50:06,465
-Sprzeda³eœ mi...
+SprzedaÅ‚eÅ› mi...
 
 392
 00:50:06,507 --> 00:50:08,050
-spedalone ¿yrafy.
+spedalone Å¼yrafy.
 
 393
 00:50:08,091 --> 00:50:12,012
-- ¯¹dam zwrotu pieniêdzy.
-- Niemo¿liwe.
+- Å»Ä…dam zwrotu pieniÄ™dzy.
+- NiemoÅ¼liwe.
 
 394
 00:50:14,515 --> 00:50:16,517
-Dam ci œwietn¹ cenê.
+Dam ci Å›wietnÄ… cenÄ™.
 
 395
 00:50:16,558 --> 00:50:18,810
@@ -1683,37 +1682,37 @@ Na co?
 
 396
 00:50:19,895 --> 00:50:24,691
-Widzia³eœ mój nowy ³adunek?
-ChodŸ i obejrzyj ich sobie.
+WidziaÅ‚eÅ› mÃ³j nowy Å‚adunek?
+ChodÅº i obejrzyj ich sobie.
 
 397
 00:50:36,787 --> 00:50:39,748
-Czy umiej¹ walczyæ?
-Nied³ugo mam walki.
+Czy umiejÄ… walczyÄ‡?
+NiedÅ‚ugo mam walki.
 
 398
 00:50:39,790 --> 00:50:42,501
-Niektórzy nadaj¹ siê do walki inni do umierania.
+NiektÃ³rzy nadajÄ… siÄ™ do walki inni do umierania.
 
 399
 00:50:42,543 --> 00:50:44,503
-Myœlê, ¿e potrzebujesz obu.
+MyÅ›lÄ™, Å¼e potrzebujesz obu.
 
 400
 00:50:44,545 --> 00:50:46,797
-Wstañ.
+WstaÅ„.
 
 401
 00:50:53,804 --> 00:50:56,181
-Jaki masz zawód?
+Jaki masz zawÃ³d?
 
 402
 00:50:56,265 --> 00:50:58,559
-By³em myœliwym.
+ByÅ‚em myÅ›liwym.
 
 403
 00:50:58,600 --> 00:51:01,812
-Kupi³em go z kopalni soli.
+KupiÅ‚em go z kopalni soli.
 
 404
 00:51:01,854 --> 00:51:04,189
@@ -1726,25 +1725,25 @@ Znak legionu?
 406
 00:51:10,112 --> 00:51:13,282
 - Dezerter.
-- Byæ mo¿e. Ale czy to wa¿ne?
+- ByÄ‡ moÅ¼e. Ale czy to waÅ¼ne?
 
 407
 00:51:13,323 --> 00:51:15,492
 - Jest Hiszpanem.
-- Wezmê szeœciu.
+- WezmÄ™ szeÅ›ciu.
 
 408
 00:51:15,534 --> 00:51:17,452
-- Za tysi¹c.
-- Tysi¹c?
+- Za tysiÄ…c.
+- TysiÄ…c?
 
 409
 00:51:17,494 --> 00:51:19,788
-Sam Numidian jest wart 2 tysi¹ce.
+Sam Numidian jest wart 2 tysiÄ…ce.
 
 410
 00:51:19,830 --> 00:51:22,332
-Ci niewolnicy s¹ zgnili.
+Ci niewolnicy sÄ… zgnili.
 
 411
 00:51:22,374 --> 00:51:24,751
@@ -1756,58 +1755,58 @@ Zaczekaj, zaczekaj. Zaczekaj!
 
 413
 00:51:26,128 --> 00:51:28,630
-Mo¿emy pohandlowaæ.
+MoÅ¼emy pohandlowaÄ‡.
 
 414
 00:51:28,672 --> 00:51:30,924
-Dam ci 2 tysi¹ce...
+Dam ci 2 tysiÄ…ce...
 
 415
 00:51:31,008 --> 00:51:33,177
-i 4 za zwierzynê.
+i 4 za zwierzynÄ™.
 
 416
 00:51:33,218 --> 00:51:36,805
-To bêdzie 5 po starej znajomoœci.
+To bÄ™dzie 5 po starej znajomoÅ›ci.
 
 417
 00:51:52,613 --> 00:51:56,491
-Poœpiesz siê, jak d³ugo ma mi zabraæ
+PoÅ›piesz siÄ™, jak dÅ‚ugo ma mi zabraÄ‡
 jazda do domu?
 
 418
 00:51:56,533 --> 00:51:58,452
-Nazywam siê Proximo.
+Nazywam siÄ™ Proximo.
 
 419
 00:51:58,493 --> 00:52:01,455
-Bêdê wam bli¿szy przez nastêpne parê dni...
+BÄ™dÄ™ wam bliÅ¼szy przez nastÄ™pne parÄ™ dni...
 
 420
 00:52:01,496 --> 00:52:03,957
-które bêd¹ ostatnimi dniami
-waszego nêdznego ¿ycia...
+ktÃ³re bÄ™dÄ… ostatnimi dniami
+waszego nÄ™dznego Å¼ycia...
 
 421
 00:52:03,999 --> 00:52:08,212
-ni¿ ta dziwka matka, która przynios³a was
-dr¹cych siê na œwiat.
+niÅ¼ ta dziwka matka, ktÃ³ra przyniosÅ‚a was
+drÄ…cych siÄ™ na Å›wiat.
 
 422
 00:52:08,253 --> 00:52:12,299
-Nie zap³aci³em s³ono za wasze towarzystwo.
+Nie zapÅ‚aciÅ‚em sÅ‚ono za wasze towarzystwo.
 
 423
 00:52:13,008 --> 00:52:17,387
-Zap³aci³em, abym mog³ zarobiæ na waszej œmierci.
+ZapÅ‚aciÅ‚em, abym mogÅ‚ zarobiÄ‡ na waszej Å›mierci.
 
 424
 00:52:17,596 --> 00:52:21,391
-I tak jak wasza matka by³a z wami na pocz¹tku...
+I tak jak wasza matka byÅ‚a z wami na poczÄ…tku...
 
 425
 00:52:21,433 --> 00:52:25,103
-ja bêdê z wami przy waszym koñcu.
+ja bÄ™dÄ™ z wami przy waszym koÅ„cu.
 
 426
 00:52:25,896 --> 00:52:29,900
@@ -1815,7 +1814,7 @@ A jak zginiecie, a zginiecie na pewno...
 
 427
 00:52:29,983 --> 00:52:33,904
-przejdziecie na drug¹ stronê s³ysz¹c...
+przejdziecie na drugÄ… stronÄ™ sÅ‚yszÄ…c...
 
 428
 00:52:37,491 --> 00:52:40,118
@@ -1823,7 +1822,7 @@ Gladiatorzy...
 
 429
 00:52:40,202 --> 00:52:42,788
-k³aniam siê wam.
+kÅ‚aniam siÄ™ wam.
 
 430
 00:52:45,415 --> 00:52:48,585
@@ -1832,11 +1831,11 @@ k³aniam siê wam.
 
 431
 00:52:51,004 --> 00:52:53,298
-¯ó³ty.
+Å»Ã³Å‚ty.
 
 432
 00:52:53,590 --> 00:52:55,884
-¯ó³ty.
+Å»Ã³Å‚ty.
 
 433
 00:53:05,519 --> 00:53:07,271
@@ -1861,7 +1860,7 @@ Nadejdzie jego czas.
 
 438
 00:53:55,986 --> 00:53:58,405
-Nastêpny.
+NastÄ™pny.
 
 439
 00:54:10,083 --> 00:54:12,169
@@ -1873,20 +1872,20 @@ Dlaczego nie walczysz?
 
 441
 00:54:14,546 --> 00:54:16,798
-Wszyscy musimy walczyæ.
+Wszyscy musimy walczyÄ‡.
 
 442
 00:54:16,840 --> 00:54:19,259
-Ja nie walczê.
+Ja nie walczÄ™.
 
 443
 00:54:19,301 --> 00:54:22,596
-Nie powinienem tu byæ.
-Jestem skryb¹. Spisujê s³owa.
+Nie powinienem tu byÄ‡.
+Jestem skrybÄ…. SpisujÄ™ sÅ‚owa.
 
 444
 00:54:22,638 --> 00:54:24,181
-Mówiê siedmioma jêzykami.
+MÃ³wiÄ™ siedmioma jÄ™zykami.
 
 445
 00:54:24,223 --> 00:54:26,350
@@ -1894,20 +1893,20 @@ To dobrze.
 
 446
 00:54:26,391 --> 00:54:30,812
-Jutro bêdziesz móg³ krzyczeæ w siedmiu jêzykach.
+Jutro bÄ™dziesz mÃ³gÅ‚ krzyczeÄ‡ w siedmiu jÄ™zykach.
 
 447
 00:54:37,903 --> 00:54:41,990
-Mo¿e skryba bêdzie tym, który wygra
-swoj¹ wolnoœæ.
+MoÅ¼e skryba bÄ™dzie tym, ktÃ³ry wygra
+swojÄ… wolnoÅ›Ä‡.
 
 448
 00:54:42,032 --> 00:54:45,285
-Wolnoœæ? Co muszê zrobiæ?
+WolnoÅ›Ä‡? Co muszÄ™ zrobiÄ‡?
 
 449
 00:54:46,787 --> 00:54:50,791
-Wyjœæ na arenê i zabiæ mnie... i jego...
+WyjÅ›Ä‡ na arenÄ™ i zabiÄ‡ mnie... i jego...
 
 450
 00:54:51,500 --> 00:54:53,669
@@ -1923,12 +1922,12 @@ I 100 innych.
 
 453
 00:54:58,215 --> 00:55:01,510
-Kiedy nie bêdziesz mia³ ju¿ z kim walczyæ,
-bêdziesz wolny.
+Kiedy nie bÄ™dziesz miaÅ‚ juÅ¼ z kim walczyÄ‡,
+bÄ™dziesz wolny.
 
 454
 00:55:01,552 --> 00:55:04,304
-Nie mogê tego zrobiæ.
+Nie mogÄ™ tego zrobiÄ‡.
 
 455
 00:55:04,346 --> 00:55:06,515
@@ -1936,27 +1935,27 @@ Nie?
 
 456
 00:55:11,687 --> 00:55:14,314
-Ale ja mogê.
+Ale ja mogÄ™.
 
 457
 00:55:28,620 --> 00:55:31,790
-Czy to znak twoich bogów?
+Czy to znak twoich bogÃ³w?
 
 458
 00:55:35,794 --> 00:55:39,006
-Czy to ich nie zez³oœci?
+Czy to ich nie zezÅ‚oÅ›ci?
 
 459
 00:55:59,193 --> 00:56:01,361
-Jesteœ ich faworytem.
+JesteÅ› ich faworytem.
 
 460
 00:56:01,403 --> 00:56:04,781
-Czerwieñ jest kolorem bogów.
+CzerwieÅ„ jest kolorem bogÃ³w.
 
 461
 00:56:04,907 --> 00:56:08,785
-Dziœ bêdziesz potrzebowa³ ich pomocy.
+DziÅ› bÄ™dziesz potrzebowaÅ‚ ich pomocy.
 
 462
 00:56:53,205 --> 00:56:55,791
@@ -1964,15 +1963,15 @@ Ciagle prowadzi ich Niemiec, co?
 
 463
 00:56:55,832 --> 00:56:58,252
-T³um kocha barbarzyñców.
+TÅ‚um kocha barbarzyÅ„cÃ³w.
 
 464
 00:56:58,293 --> 00:57:01,004
-Poza tym wzbogaci³em siê na nim.
+Poza tym wzbogaciÅ‚em siÄ™ na nim.
 
 465
 00:57:01,046 --> 00:57:03,715
-Czy ten Numidyjczyk ju¿ tu walczy³?
+Czy ten Numidyjczyk juÅ¼ tu walczyÅ‚?
 
 466
 00:57:03,757 --> 00:57:05,551
@@ -1980,7 +1979,7 @@ Nie. To pierwszy raz.
 
 467
 00:57:05,592 --> 00:57:08,804
-A ten? Robotnik? ¯o³nierz?
+A ten? Robotnik? Å»oÅ‚nierz?
 
 468
 00:57:08,846 --> 00:57:10,264
@@ -1988,21 +1987,21 @@ To Hiszpan.
 
 469
 00:57:10,305 --> 00:57:14,476
-Równie dobrze mo¿e byæ eunuchem
-po tym co pokaza³ na arenie.
+RÃ³wnie dobrze moÅ¼e byÄ‡ eunuchem
+po tym co pokazaÅ‚ na arenie.
 
 470
 00:57:14,560 --> 00:57:18,689
-500 sestercji, ¿e w parze
-z Numidyjczykiem przejd¹ dalej.
+500 sestercji, Å¼e w parze
+z Numidyjczykiem przejdÄ… dalej.
 
 471
 00:57:18,730 --> 00:57:22,609
-I 1000 jeœli Numidyjczyk przejdzie sam.
+I 1000 jeÅ›li Numidyjczyk przejdzie sam.
 
 472
 00:57:23,694 --> 00:57:27,990
-Mówisz, ¿ebym stawia³ przeciwko swoim ludziom?
+MÃ³wisz, Å¼ebym stawiaÅ‚ przeciwko swoim ludziom?
 
 473
 00:57:28,699 --> 00:57:30,158
@@ -2010,28 +2009,28 @@ To nieetyczne.
 
 474
 00:57:30,200 --> 00:57:33,287
-A jeœli to bêdzie 2000?
+A jeÅ›li to bÄ™dzie 2000?
 
 475
 00:57:46,508 --> 00:57:50,804
-Niektórym z was wydaje siê,
-¿e nie bêd¹ walczyæ...
+NiektÃ³rym z was wydaje siÄ™,
+Å¼e nie bÄ™dÄ… walczyÄ‡...
 
 476
 00:57:50,846 --> 00:57:53,807
-niektórym, ¿e po prostu nie umiej¹.
+niektÃ³rym, Å¼e po prostu nie umiejÄ….
 
 477
 00:57:53,849 --> 00:57:56,685
-Wszystkim siê tak wydaje...
+Wszystkim siÄ™ tak wydaje...
 
 478
 00:57:56,727 --> 00:57:59,479
-dopóki siê tam nie znajd¹.
+dopÃ³ki siÄ™ tam nie znajdÄ….
 
 479
 00:57:59,980 --> 00:58:01,565
-Pos³uchajcie.
+PosÅ‚uchajcie.
 
 480
 00:58:01,607 --> 00:58:04,610
@@ -2039,11 +2038,11 @@ Zabij! Zabij! Zabij!
 
 481
 00:58:11,283 --> 00:58:14,369
-Wbijcie to w cia³o przeciwnika.
+Wbijcie to w ciaÅ‚o przeciwnika.
 
 482
 00:58:14,411 --> 00:58:16,914
-Lud bêdzie was za to uwielbiaæ i biæ brawa.
+Lud bÄ™dzie was za to uwielbiaÄ‡ i biÄ‡ brawa.
 
 483
 00:58:16,955 --> 00:58:19,291
@@ -2051,7 +2050,7 @@ A wy...
 
 484
 00:58:20,584 --> 00:58:24,379
-byæ mo¿e zaczniecie kochaæ za to ich.
+byÄ‡ moÅ¼e zaczniecie kochaÄ‡ za to ich.
 
 485
 00:58:28,800 --> 00:58:31,428
@@ -2063,20 +2062,20 @@ wszyscy umrzemy.
 
 487
 00:58:34,681 --> 00:58:38,477
-Niestety, nie mo¿emy wybraæ jak, ale...
+Niestety, nie moÅ¼emy wybraÄ‡ jak, ale...
 
 488
 00:58:38,519 --> 00:58:41,980
-mo¿emy zadecydowaæ w jaki sposób
-spotkamy siê z naszym koñcem...
+moÅ¼emy zadecydowaÄ‡ w jaki sposÃ³b
+spotkamy siÄ™ z naszym koÅ„cem...
 
 489
 00:58:42,022 --> 00:58:45,108
-¿eby nas pamiêtano...
+Å¼eby nas pamiÄ™tano...
 
 490
 00:58:46,401 --> 00:58:49,112
-jako mê¿czyzn.
+jako mÄ™Å¼czyzn.
 
 491
 00:58:51,698 --> 00:58:54,493
@@ -2092,34 +2091,34 @@ Zabij! Zabij! Zabij!
 
 494
 00:59:01,500 --> 00:59:05,420
-Ustaw ich w pary... czerwoni z ¿ó³tymi.
+Ustaw ich w pary... czerwoni z Å¼Ã³Å‚tymi.
 
 495
 00:59:08,590 --> 00:59:11,009
-Nastêpny!
+NastÄ™pny!
 
 496
 00:59:14,888 --> 00:59:17,516
-Ruszaæ siê!
+RuszaÄ‡ siÄ™!
 
 497
 01:02:58,111 --> 01:03:02,407
-- Wynoœ siê!
-- Nigdy nie bêdziesz nami rz¹dzi³!
+- WynoÅ› siÄ™!
+- Nigdy nie bÄ™dziesz nami rzÄ…dziÅ‚!
 
 498
 01:03:31,019 --> 01:03:36,316
-Wkracza do Rzymu jak zwyciêski
-bohater. Ale co on takiego pokona³?
+Wkracza do Rzymu jak zwyciÄ™ski
+bohater. Ale co on takiego pokonaÅ‚?
 
 499
 01:03:36,358 --> 01:03:39,403
-Daj mu trochê czasu Gracchusie.
-Jest m³ody.
+Daj mu trochÄ™ czasu Gracchusie.
+Jest mÅ‚ody.
 
 500
 01:03:39,444 --> 01:03:41,405
-Myœlê, ¿e mo¿e zrobiæ wiele dobrego.
+MyÅ›lÄ™, Å¼e moÅ¼e zrobiÄ‡ wiele dobrego.
 
 501
 01:03:41,446 --> 01:03:44,700
@@ -2127,7 +2126,7 @@ Dla Rzymu czy dla ciebie?
 
 502
 01:03:49,413 --> 01:03:53,083
-IdŸ do mamy Luciusz. Ucieszy siê.
+IdÅº do mamy Luciusz. Ucieszy siÄ™.
 
 503
 01:03:58,797 --> 01:04:00,757
@@ -2139,7 +2138,7 @@ Mamo!
 
 505
 01:04:03,594 --> 01:04:05,220
-Niech ¿yje Cezar.
+Niech Å¼yje Cezar.
 
 506
 01:04:05,262 --> 01:04:07,806
@@ -2147,20 +2146,20 @@ Senatorowie.
 
 507
 01:04:10,392 --> 01:04:13,270
-Rzym wita swego nowego w³adcê.
+Rzym wita swego nowego wÅ‚adcÄ™.
 
 508
 01:04:13,312 --> 01:04:16,899
-Twoi lojalni poddani witaj¹ ciê Wasza Wysokoœæ.
+Twoi lojalni poddani witajÄ… ciÄ™ Wasza WysokoÅ›Ä‡.
 
 509
 01:04:16,940 --> 01:04:18,859
-Dziêkujê Falco.
+DziÄ™kujÄ™ Falco.
 
 510
 01:04:18,901 --> 01:04:22,988
-A jeœli chodzi o lojalnych poddanych,
-mam nadziejê, ¿e nie byli zbyt drodzy.
+A jeÅ›li chodzi o lojalnych poddanych,
+mam nadziejÄ™, Å¼e nie byli zbyt drodzy.
 
 511
 01:04:23,030 --> 01:04:25,157
@@ -2169,40 +2168,40 @@ mam nadziejê, ¿e nie byli zbyt drodzy.
 
 512
 01:04:25,199 --> 01:04:28,535
-Ca³y Rzym cieszy siê twoim powrotem Cezarze.
+CaÅ‚y Rzym cieszy siÄ™ twoim powrotem Cezarze.
 
 513
 01:04:28,619 --> 01:04:31,914
-Jest wiele rzeczy, które wymagaj¹ twojej uwagi.
+Jest wiele rzeczy, ktÃ³re wymagajÄ… twojej uwagi.
 
 514
 01:04:33,916 --> 01:04:36,960
-Proszê o ciszê!
+ProszÄ™ o ciszÄ™!
 Cisza!
 
 515
 01:04:37,002 --> 01:04:41,798
-Do twego wgl¹du Cezarze,
-senat przygotowa³ szereg protoko³ów...
+Do twego wglÄ…du Cezarze,
+senat przygotowaÅ‚ szereg protokoÅ‚Ã³w...
 
 516
 01:04:41,840 --> 01:04:45,719
-w celu zwrócenia uwagi
-na wiele problemów w mieœcie...
+w celu zwrÃ³cenia uwagi
+na wiele problemÃ³w w mieÅ›cie...
 
 517
 01:04:45,761 --> 01:04:49,598
-poczynaj¹c od warunków sanitarnych
+poczynajÄ…c od warunkÃ³w sanitarnych
 w dzielnicy greckiej...
 
 518
 01:04:49,640 --> 01:04:52,684
 po zwalczanie zarazy,
-która siê tu rozprzestszenia.
+ktÃ³ra siÄ™ tu rozprzestszenia.
 
 519
 01:04:52,726 --> 01:04:55,604
-Wiêc jeœli Cezar...
+WiÄ™c jeÅ›li Cezar...
 
 520
 01:04:57,105 --> 01:05:00,317
@@ -2210,20 +2209,20 @@ Nie rozumiesz Gracchusie?
 
 521
 01:05:00,400 --> 01:05:02,653
-Na tym w³aœnie polega problem, nieprawda¿?
+Na tym wÅ‚aÅ›nie polega problem, nieprawdaÅ¼?
 
 522
 01:05:02,694 --> 01:05:07,115
-Mój ojciec poœwiêci³ wiêkszoœæ czasu na naukê...
+MÃ³j ojciec poÅ›wiÄ™ciÅ‚ wiÄ™kszoÅ›Ä‡ czasu na naukÄ™...
 
 523
 01:05:07,616 --> 01:05:10,619
-ksi¹¿ki i filozofiê.
+ksiÄ…Å¼ki i filozofiÄ™.
 
 524
 01:05:11,495 --> 01:05:16,208
-Siedzia³ do zmroku czytaj¹c zwoje
-protoko³ów z senatu.
+SiedziaÅ‚ do zmroku czytajÄ…c zwoje
+protokoÅ‚Ã³w z senatu.
 
 525
 01:05:16,291 --> 01:05:20,295
@@ -2231,38 +2230,38 @@ A ludzie tymczasem poszli w zapomnienie.
 
 526
 01:05:21,088 --> 01:05:23,048
-Ale przecie¿ senat to ludzie, Panie,...
+Ale przecieÅ¼ senat to ludzie, Panie,...
 
 527
 01:05:23,090 --> 01:05:27,135
-którzy zostali wybrani spoœrod ludu
-w celu bronienia interesów mas.
+ktÃ³rzy zostali wybrani spoÅ›rod ludu
+w celu bronienia interesÃ³w mas.
 
 528
 01:05:27,177 --> 01:05:31,181
-Nie s¹dzê, ¿e wiêkszoœæ ludu
+Nie sÄ…dzÄ™, Å¼e wiÄ™kszoÅ›Ä‡ ludu
 je tak dobrze jak ty Gracchusie...
 
 529
 01:05:31,223 --> 01:05:33,100
-lub ma tak¹ wspania³¹ kochankê jak ty Gaiusie.
+lub ma takÄ… wspaniaÅ‚Ä… kochankÄ™ jak ty Gaiusie.
 
 530
 01:05:33,141 --> 01:05:36,061
-Uwa¿am, ¿e rozumiem swoich ludzi.
+UwaÅ¼am, Å¼e rozumiem swoich ludzi.
 
 531
 01:05:36,103 --> 01:05:40,148
-Wiêc mo¿e Cezar bêdzie tak ³askawy i
+WiÄ™c moÅ¼e Cezar bÄ™dzie tak Å‚askawy i
 pouczy nas...
 
 532
 01:05:40,190 --> 01:05:44,194
-opieraj¹c siê na swoim ogromnym doœwiadczeniu.
+opierajÄ…c siÄ™ na swoim ogromnym doÅ›wiadczeniu.
 
 533
 01:05:46,196 --> 01:05:48,198
-Nazywam to mi³oœci¹.
+Nazywam to miÅ‚oÅ›ciÄ….
 
 534
 01:05:48,240 --> 01:05:50,158
@@ -2274,28 +2273,28 @@ Lud jest moim potomstwem.
 
 536
 01:05:52,202 --> 01:05:54,162
-Przytulê ich do ³ona swego i otoczê opiek¹.
+PrzytulÄ™ ich do Å‚ona swego i otoczÄ™ opiekÄ….
 
 537
 01:05:54,204 --> 01:05:59,084
-Czy przytuli³eœ kiedyœ kogoœ
-umieraj¹cego na zarazê, Panie?
+Czy przytuliÅ‚eÅ› kiedyÅ› kogoÅ›
+umierajÄ…cego na zarazÄ™, Panie?
 
 538
 01:06:04,089 --> 01:06:06,842
-Nie, ale jeœli bêdziesz mi przerywa³...
+Nie, ale jeÅ›li bÄ™dziesz mi przerywaÅ‚...
 
 539
 01:06:06,884 --> 01:06:09,553
-to zapewniam ciê, ¿e ty przytulisz.
+to zapewniam ciÄ™, Å¼e ty przytulisz.
 
 540
 01:06:09,595 --> 01:06:12,598
-Senatorze, mój brat jest bardzo zmêczony.
+Senatorze, mÃ³j brat jest bardzo zmÄ™czony.
 
 541
 01:06:12,639 --> 01:06:15,142
-Proszê mi daæ swoj¹ listê.
+ProszÄ™ mi daÄ‡ swojÄ… listÄ™.
 
 542
 01:06:15,184 --> 01:06:17,895
@@ -2307,11 +2306,11 @@ Moja Pani, jak zwykle...
 
 544
 01:06:20,105 --> 01:06:24,193
-twoja delikatnoœæ nakazuje pos³uszeñstwo.
+twoja delikatnoÅ›Ä‡ nakazuje posÅ‚uszeÅ„stwo.
 
 545
 01:06:29,907 --> 01:06:32,534
-Kto siê wa¿y mnie pouczaæ?
+Kto siÄ™ waÅ¼y mnie pouczaÄ‡?
 
 546
 01:06:32,618 --> 01:06:35,162
@@ -2319,11 +2318,11 @@ Senat ma swoje zalety.
 
 547
 01:06:35,204 --> 01:06:38,582
-Jakie zalety? Tylko paplaj¹.
+Jakie zalety? Tylko paplajÄ….
 
 548
 01:06:39,416 --> 01:06:41,418
-Wystarczy³oby tylko...
+WystarczyÅ‚oby tylko...
 
 549
 01:06:41,460 --> 01:06:42,628
@@ -2335,27 +2334,27 @@ i Rzym.
 
 551
 01:06:43,795 --> 01:06:45,756
-Nawet o tym nie myœl.
+Nawet o tym nie myÅ›l.
 
 552
 01:06:45,797 --> 01:06:47,674
-Senat by³ tu od zawsze.
+Senat byÅ‚ tu od zawsze.
 
 553
 01:06:47,716 --> 01:06:49,468
-W Rzymie zasz³y zmiany.
+W Rzymie zaszÅ‚y zmiany.
 
 554
 01:06:49,510 --> 01:06:52,012
-Potrzebny jest imperator, aby w³adaæ Imperium.
+Potrzebny jest imperator, aby wÅ‚adaÄ‡ Imperium.
 
 555
 01:06:52,054 --> 01:06:54,890
-Oczywiœcie, ale zostaw ludziom ich...
+OczywiÅ›cie, ale zostaw ludziom ich...
 
 556
 01:06:54,932 --> 01:06:57,392
-Z³udzenia?
+ZÅ‚udzenia?
 
 557
 01:06:57,601 --> 01:07:00,020
@@ -2363,16 +2362,16 @@ Tradycje.
 
 558
 01:07:00,103 --> 01:07:03,440
-Wojna mojego ojca przeciw barbarzyñcom...
+Wojna mojego ojca przeciw barbarzyÅ„com...
 
 559
 01:07:03,482 --> 01:07:07,110
-jak sam mówi³, niczego nie dokona³a.
+jak sam mÃ³wiÅ‚, niczego nie dokonaÅ‚a.
 Ale ludzie go kochali.
 
 560
 01:07:07,152 --> 01:07:09,404
-Ludzie zawsze kochaj¹ zwyciêstwa.
+Ludzie zawsze kochajÄ… zwyciÄ™stwa.
 
 561
 01:07:09,446 --> 01:07:11,156
@@ -2380,19 +2379,19 @@ Dlaczego?
 
 562
 01:07:11,198 --> 01:07:13,659
-Nie widzieli przecie¿ walk.
+Nie widzieli przecieÅ¼ walk.
 
 563
 01:07:13,700 --> 01:07:16,203
-Myœlisz, ¿e zale¿a³o im na Germanii?
+MyÅ›lisz, Å¼e zaleÅ¼aÅ‚o im na Germanii?
 
 564
 01:07:16,245 --> 01:07:18,205
-Zale¿y im na wielkoœci Rzymu.
+ZaleÅ¼y im na wielkoÅ›ci Rzymu.
 
 565
 01:07:18,247 --> 01:07:20,916
-Wielkoœæ Rzymu.
+WielkoÅ›Ä‡ Rzymu.
 
 566
 01:07:22,501 --> 01:07:25,295
@@ -2404,38 +2403,38 @@ To idea...
 
 568
 01:07:29,132 --> 01:07:31,301
-wielkoœæ.
+wielkoÅ›Ä‡.
 
 569
 01:07:33,887 --> 01:07:36,139
-Wielkoœæ jest wizj¹.
+WielkoÅ›Ä‡ jest wizjÄ….
 
 570
 01:07:36,181 --> 01:07:38,392
-Dok³adnie. Wizj¹.
+DokÅ‚adnie. WizjÄ….
 
 571
 01:07:39,518 --> 01:07:42,813
-Czy¿ nie rozumiesz Lucillo?
+CzyÅ¼ nie rozumiesz Lucillo?
 
 572
 01:07:43,105 --> 01:07:47,442
-Dam ludziom wizjê Rzymu,
-a oni bêd¹ mnie za to kochaæ.
+Dam ludziom wizjÄ™ Rzymu,
+a oni bÄ™dÄ… mnie za to kochaÄ‡.
 
 573
 01:07:47,484 --> 01:07:52,698
-I wkrótce zapomn¹ o nudnych
-tradycjach kilku usch³ych staruchów.
+I wkrÃ³tce zapomnÄ… o nudnych
+tradycjach kilku uschÅ‚ych staruchÃ³w.
 
 574
 01:08:03,792 --> 01:08:08,797
-Dam ludziom najwspanialsz¹ wizjê
-jak¹ kiedykolwiek widzieli.
+Dam ludziom najwspanialszÄ… wizjÄ™
+jakÄ… kiedykolwiek widzieli.
 
 575
 01:08:57,888 --> 01:09:02,017
-Bia³e i czerwone wino do waszej dyspozycji!
+BiaÅ‚e i czerwone wino do waszej dyspozycji!
 
 576
 01:09:08,899 --> 01:09:11,318
@@ -2443,11 +2442,11 @@ Igrzyska.
 
 577
 01:09:12,402 --> 01:09:14,988
-Sto piêædziesi¹t dni igrzysk.
+Sto piÄ™Ä‡dziesiÄ…t dni igrzysk.
 
 578
 01:09:15,072 --> 01:09:17,616
-Jest sprytniejszy ni¿ myœla³em.
+Jest sprytniejszy niÅ¼ myÅ›laÅ‚em.
 
 579
 01:09:17,658 --> 01:09:18,951
@@ -2455,40 +2454,40 @@ Sprytny.
 
 580
 01:09:18,992 --> 01:09:22,246
-Ca³y Rzym œmia³by siê z niego...
+CaÅ‚y Rzym Å›miaÅ‚by siÄ™ z niego...
 
 581
 01:09:22,287 --> 01:09:24,665
-gdyby siê tak nie bali jego Pretorian.
+gdyby siÄ™ tak nie bali jego Pretorian.
 
 582
 01:09:24,706 --> 01:09:27,876
-Strach i podziw... co za wspania³e po³¹czenie.
+Strach i podziw... co za wspaniaÅ‚e poÅ‚Ä…czenie.
 
 583
 01:09:27,960 --> 01:09:31,088
-Naprawdê uwa¿asz, ¿e ludzie siê tym pokusz¹?
+NaprawdÄ™ uwaÅ¼asz, Å¼e ludzie siÄ™ tym pokuszÄ…?
 
 584
 01:09:31,129 --> 01:09:33,590
-Myœlê, ¿e on zna Rzym.
+MyÅ›lÄ™, Å¼e on zna Rzym.
 
 585
 01:09:33,632 --> 01:09:35,342
-Rzym jest t³umem.
+Rzym jest tÅ‚umem.
 
 586
 01:09:35,384 --> 01:09:39,096
-Poka¿ im sztuczki magiczne,
-a ich uwaga zostanie odwrócona.
+PokaÅ¼ im sztuczki magiczne,
+a ich uwaga zostanie odwrÃ³cona.
 
 587
 01:09:39,137 --> 01:09:42,891
-Odbierz im wolnoœæ, a dalej bed¹ wrzaski.
+Odbierz im wolnoÅ›Ä‡, a dalej bedÄ… wrzaski.
 
 588
 01:09:42,933 --> 01:09:45,227
-Bij¹ce serce Rzymu...
+BijÄ…ce serce Rzymu...
 
 589
 01:09:45,269 --> 01:09:47,938
@@ -2500,11 +2499,11 @@ Jest piaskiem Koloseum.
 
 591
 01:09:51,608 --> 01:09:54,903
-On przyniesie im œmieræ...
+On przyniesie im Å›mierÄ‡...
 
 592
 01:09:55,112 --> 01:09:58,490
-a oni bêd¹ go za to kochaæ.
+a oni bÄ™dÄ… go za to kochaÄ‡.
 
 593
 01:10:20,387 --> 01:10:22,764
@@ -2512,19 +2511,19 @@ Tylko zabijasz, zabijasz i zabijasz.
 
 594
 01:10:22,848 --> 01:10:25,184
-T³um chce bohatera, a nie rzeŸnika.
+TÅ‚um chce bohatera, a nie rzeÅºnika.
 
 595
 01:10:25,225 --> 01:10:27,269
-Chcesz ¿eby wracali...
+Chcesz Å¼eby wracali...
 
 596
 01:10:27,311 --> 01:10:29,897
-wiêc nie r¿nij ich tylko na kawa³ki.
+wiÄ™c nie rÅ¼nij ich tylko na kawaÅ‚ki.
 
 597
 01:10:29,938 --> 01:10:32,816
-Masz ich zabawiæ.
+Masz ich zabawiÄ‡.
 
 598
 01:10:35,986 --> 01:10:38,488
@@ -2532,19 +2531,19 @@ Hiszpanie.
 
 599
 01:10:43,118 --> 01:10:45,913
-Wiêc ich zabaw!
+WiÄ™c ich zabaw!
 
 600
 01:11:49,601 --> 01:11:52,187
-Dobrze siê bawicie?
+Dobrze siÄ™ bawicie?
 
 601
 01:11:52,271 --> 01:11:54,815
-Dobrze siê bawicie?
+Dobrze siÄ™ bawicie?
 
 602
 01:11:55,899 --> 01:11:59,486
-Czy¿ nie dlatego tutaj jesteœcie?
+CzyÅ¼ nie dlatego tutaj jesteÅ›cie?
 
 603
 01:12:02,906 --> 01:12:05,784
@@ -2556,15 +2555,15 @@ Czego chcesz?
 
 605
 01:12:27,389 --> 01:12:29,474
-Dziewczynê?
+DziewczynÄ™?
 
 606
 01:12:29,558 --> 01:12:31,560
-Ch³opca?
+ChÅ‚opca?
 
 607
 01:12:31,602 --> 01:12:33,103
-Wzywa³eœ mnie.
+WzywaÅ‚eÅ› mnie.
 
 608
 01:12:33,145 --> 01:12:35,063
@@ -2572,15 +2571,15 @@ Tak.
 
 609
 01:12:35,105 --> 01:12:37,900
-Jesteœ dobry Hiszpanie, ale nie tak dobry.
+JesteÅ› dobry Hiszpanie, ale nie tak dobry.
 
 610
 01:12:37,941 --> 01:12:39,568
-Mo¿esz byæ wspania³y.
+MoÅ¼esz byÄ‡ wspaniaÅ‚y.
 
 611
 01:12:39,610 --> 01:12:42,112
-Chc¹, ¿ebym zabija³ to zabijam.
+ChcÄ…, Å¼ebym zabijaÅ‚ to zabijam.
 
 612
 01:12:42,154 --> 01:12:43,655
@@ -2592,15 +2591,15 @@ To wystarczy dla prowincji, ale nie dla Rzymu.
 
 614
 01:12:50,412 --> 01:12:51,872
-M³ody Cezar...
+MÅ‚ody Cezar...
 
 615
 01:12:51,914 --> 01:12:54,249
-przygotowa³ szereg widowisk...
+przygotowaÅ‚ szereg widowisk...
 
 616
 01:12:54,291 --> 01:12:56,585
-aby uczciæ pamiêæ swego ojca...
+aby uczciÄ‡ pamiÄ™Ä‡ swego ojca...
 
 617
 01:12:56,627 --> 01:12:59,046
@@ -2612,19 +2611,19 @@ Jest to bardzo zabawne...
 
 619
 01:13:01,298 --> 01:13:03,342
-gdy¿ to w³aœnie Marek Aureliusz...
+gdyÅ¼ to wÅ‚aÅ›nie Marek Aureliusz...
 
 620
 01:13:03,383 --> 01:13:06,220
-m¹dry, wszechwiedz¹cy Marek Aureliusz...
+mÄ…dry, wszechwiedzÄ…cy Marek Aureliusz...
 
 621
 01:13:06,261 --> 01:13:09,306
-kaza³ z tym skoñczyæ.
+kazaÅ‚ z tym skoÅ„czyÄ‡.
 
 622
 01:13:11,016 --> 01:13:15,187
-Nareszcie wiêc po piêciu latach próby przetrwania
+Nareszcie wiÄ™c po piÄ™ciu latach prÃ³by przetrwania
 
 623
 01:13:15,229 --> 01:13:17,773
@@ -2632,7 +2631,7 @@ w zawszawionych wiochach...
 
 624
 01:13:17,814 --> 01:13:21,193
-wracamy tam gdzie powinniœmy byæ...
+wracamy tam gdzie powinniÅ›my byÄ‡...
 
 625
 01:13:21,235 --> 01:13:23,820
@@ -2640,23 +2639,23 @@ do Koloseum.
 
 626
 01:13:25,280 --> 01:13:28,784
-Musisz zobaczyæ Koloseum Hiszpanie.
+Musisz zobaczyÄ‡ Koloseum Hiszpanie.
 
 627
 01:13:28,825 --> 01:13:32,246
-Piêædziesi¹t tysiêcy Rzymian...
+PiÄ™Ä‡dziesiÄ…t tysiÄ™cy Rzymian...
 
 628
 01:13:32,287 --> 01:13:36,708
-wpatruj¹cych siê w ka¿dy ruch twojego miecza...
+wpatrujÄ…cych siÄ™ w kaÅ¼dy ruch twojego miecza...
 
 629
 01:13:37,501 --> 01:13:41,088
-który ma zadaæ œmiertelny cios.
+ktÃ³ry ma zadaÄ‡ Å›miertelny cios.
 
 630
 01:13:41,213 --> 01:13:43,715
-Ta cisza zanim kogoœ zatniesz...
+Ta cisza zanim kogoÅ› zatniesz...
 
 631
 01:13:43,757 --> 01:13:45,801
@@ -2664,11 +2663,11 @@ i okrzyki zaraz potem.
 
 632
 01:13:45,843 --> 01:13:47,469
-Wznosz¹ siê.
+WznoszÄ… siÄ™.
 
 633
 01:13:47,511 --> 01:13:50,389
-Potê¿niej¹ jak...
+PotÄ™Å¼niejÄ… jak...
 
 634
 01:13:51,014 --> 01:13:53,058
@@ -2676,19 +2675,19 @@ jak burza...
 
 635
 01:13:53,100 --> 01:13:55,185
-tak jakbyœ to ty sam by³ bogiem piorunów.
+tak jakbyÅ› to ty sam byÅ‚ bogiem piorunÃ³w.
 
 636
 01:13:55,227 --> 01:13:57,187
-Ty te¿ by³eœ gladiatorem?
+Ty teÅ¼ byÅ‚eÅ› gladiatorem?
 
 637
 01:13:57,229 --> 01:13:59,815
-Tak, by³em.
+Tak, byÅ‚em.
 
 638
 01:14:05,112 --> 01:14:07,406
-Wywalczy³eœ swoj¹ wolnoœæ?
+WywalczyÅ‚eÅ› swojÄ… wolnoÅ›Ä‡?
 
 639
 01:14:07,447 --> 01:14:10,409
@@ -2696,7 +2695,7 @@ Dawno temu, Cezar...
 
 640
 01:14:11,410 --> 01:14:13,579
-poda³ mi "rudis".
+podaÅ‚ mi "rudis".
 
 641
 01:14:13,620 --> 01:14:16,790
@@ -2704,28 +2703,28 @@ To taki drewniany miecz.
 
 642
 01:14:18,083 --> 01:14:20,919
-Symbol wolnoœci.
+Symbol wolnoÅ›ci.
 
 643
 01:14:22,296 --> 01:14:26,300
-Dotkn¹³ nim mego ramienia i by³em wolny.
+DotknÄ…Å‚ nim mego ramienia i byÅ‚em wolny.
 
 644
 01:14:26,884 --> 01:14:29,052
-Zna³eœ Marka Aureliusza?
+ZnaÅ‚eÅ› Marka Aureliusza?
 
 645
 01:14:29,094 --> 01:14:34,308
-Nie powiedzia³em, ¿e go zna³em.
-Powiedzia³em, ¿e dotkn¹³ mego ramienia.
+Nie powiedziaÅ‚em, Å¼e go znaÅ‚em.
+PowiedziaÅ‚em, Å¼e dotknÄ…Å‚ mego ramienia.
 
 646
 01:14:34,349 --> 01:14:37,394
-Pyta³eœ czego ja chcê.
+PytaÅ‚eÅ› czego ja chcÄ™.
 
 647
 01:14:37,811 --> 01:14:41,607
-Ja te¿ chcê stan¹æ przed Cezarem...
+Ja teÅ¼ chcÄ™ stanÄ…Ä‡ przed Cezarem...
 
 648
 01:14:41,899 --> 01:14:43,358
@@ -2733,35 +2732,35 @@ tak jak ty.
 
 649
 01:14:43,400 --> 01:14:45,485
-Wiêc pos³uchaj mnie.
+WiÄ™c posÅ‚uchaj mnie.
 
 650
 01:14:45,569 --> 01:14:47,571
-Ucz siê ode mnie.
+Ucz siÄ™ ode mnie.
 
 651
 01:14:47,613 --> 01:14:51,617
-Nie by³em najlepszy bo szybko zabija³em.
+Nie byÅ‚em najlepszy bo szybko zabijaÅ‚em.
 
 652
 01:14:51,992 --> 01:14:55,621
-By³em najlepszy bo t³um mnie uwielbia³.
+ByÅ‚em najlepszy bo tÅ‚um mnie uwielbiaÅ‚.
 
 653
 01:14:55,662 --> 01:14:58,248
-Zjednaj sobie t³um...
+Zjednaj sobie tÅ‚um...
 
 654
 01:14:58,290 --> 01:15:00,792
-a wygrasz swoj¹ wolnoœæ.
+a wygrasz swojÄ… wolnoÅ›Ä‡.
 
 655
 01:15:03,295 --> 01:15:06,298
-Zjednam sobie t³um.
+Zjednam sobie tÅ‚um.
 
 656
 01:15:07,591 --> 01:15:11,720
-Poka¿ê im coœ czego jeszcze nie widzieli.
+PokaÅ¼Ä™ im coÅ› czego jeszcze nie widzieli.
 
 657
 01:15:12,012 --> 01:15:15,599
@@ -2773,12 +2772,12 @@ po krwawe przygody...
 
 659
 01:15:17,684 --> 01:15:19,645
-gdzie bêdziemy ssaæ krew...
+gdzie bÄ™dziemy ssaÄ‡ krew...
 
 660
 01:15:19,686 --> 01:15:22,189
-a¿ bêdziemy t³uœci i szczêœliwi,
-i a¿ nam bêdzie uszami wychodziæ.
+aÅ¼ bÄ™dziemy tÅ‚uÅ›ci i szczÄ™Å›liwi,
+i aÅ¼ nam bÄ™dzie uszami wychodziÄ‡.
 
 661
 01:15:22,231 --> 01:15:24,691
@@ -2786,39 +2785,39 @@ A potem...
 
 662
 01:15:24,900 --> 01:15:28,570
-jak ju¿ wystarczaj¹co wielu zginie...
+jak juÅ¼ wystarczajÄ…co wielu zginie...
 
 663
 01:15:28,654 --> 01:15:32,282
-byæ mo¿e odzyskasz swoj¹ wolnoœæ.
+byÄ‡ moÅ¼e odzyskasz swojÄ… wolnoÅ›Ä‡.
 
 664
 01:15:35,786 --> 01:15:38,705
-Trzymaj. W³ó¿ to.
+Trzymaj. WÅ‚Ã³Å¼ to.
 
 665
 01:16:01,895 --> 01:16:04,189
-Tam gdzieœ jest...
+Tam gdzieÅ› jest...
 
 666
 01:16:04,231 --> 01:16:06,483
-mój kraj...
+mÃ³j kraj...
 
 667
 01:16:06,525 --> 01:16:08,694
-mój dom.
+mÃ³j dom.
 
 668
 01:16:08,902 --> 01:16:11,864
-¯ona przygotowuje posi³ek.
+Å»ona przygotowuje posiÅ‚ek.
 
 669
 01:16:11,905 --> 01:16:15,325
-Moje córki nosz¹ wodê z rzeki.
+Moje cÃ³rki noszÄ… wodÄ™ z rzeki.
 
 670
 01:16:15,409 --> 01:16:18,787
-Czy jeszcze je kiedyœ ujrzê?
+Czy jeszcze je kiedyÅ› ujrzÄ™?
 
 671
 01:16:18,996 --> 01:16:20,956
@@ -2826,7 +2825,7 @@ Chyba nie.
 
 672
 01:16:20,998 --> 01:16:23,000
-Czy wierzysz, ¿e zobaczysz je po œmierci?
+Czy wierzysz, Å¼e zobaczysz je po Å›mierci?
 
 673
 01:16:23,041 --> 01:16:25,210
@@ -2838,19 +2837,19 @@ Ale ja...
 
 675
 01:16:27,421 --> 01:16:30,090
-wkrótce zginê.
+wkrÃ³tce zginÄ™.
 
 676
 01:16:30,299 --> 01:16:33,510
-A one jeszcze d³ugo bêd¹ ¿yæ.
+A one jeszcze dÅ‚ugo bÄ™dÄ… Å¼yÄ‡.
 
 677
 01:16:33,552 --> 01:16:35,262
-Muszê poczekaæ.
+MuszÄ™ poczekaÄ‡.
 
 678
 01:16:35,304 --> 01:16:37,806
-Ale chcia³byœ poczekaæ?
+Ale chciaÅ‚byÅ› poczekaÄ‡?
 
 679
 01:16:37,848 --> 01:16:40,184
@@ -2862,15 +2861,15 @@ Widzisz...
 
 681
 01:16:44,021 --> 01:16:46,607
-moja ¿ona...
+moja Å¼ona...
 
 682
 01:16:46,815 --> 01:16:48,859
-i mój syn...
+i mÃ³j syn...
 
 683
 01:16:48,901 --> 01:16:51,445
-ju¿ na mnie czekaj¹.
+juÅ¼ na mnie czekajÄ….
 
 684
 01:16:51,486 --> 01:16:53,989
@@ -2882,7 +2881,7 @@ Ale jeszcze nie teraz.
 
 686
 01:16:59,620 --> 01:17:02,789
-Jeszcze nie teraz, chyba ¿e...
+Jeszcze nie teraz, chyba Å¼e...
 
 687
 01:17:02,831 --> 01:17:05,709
@@ -2898,61 +2897,61 @@ Jest tam. Patrz.
 
 690
 01:18:12,484 --> 01:18:14,987
-Wychodziæ.
+WychodziÄ‡.
 
 691
 01:18:15,195 --> 01:18:18,907
-Ruszaæ siê! Ruszaæ siê! Wychodziæ!
+RuszaÄ‡ siÄ™! RuszaÄ‡ siÄ™! WychodziÄ‡!
 
 692
 01:18:29,585 --> 01:18:33,380
-Mi³o ciê znów zobaczyæ przyjacielu.
+MiÅ‚o ciÄ™ znÃ³w zobaczyÄ‡ przyjacielu.
 
 693
 01:18:37,301 --> 01:18:40,387
-Przynieœ mi szczêœcie.
+PrzynieÅ› mi szczÄ™Å›cie.
 
 694
 01:18:43,599 --> 01:18:47,102
-Widzia³eœ kiedyœ coœ takiego?
+WidziaÅ‚eÅ› kiedyÅ› coÅ› takiego?
 
 695
 01:18:47,811 --> 01:18:52,482
-Nie wiedzia³em, ¿e cz³owiek
-mo¿e coœ takiego zbudowaæ.
+Nie wiedziaÅ‚em, Å¼e czÅ‚owiek
+moÅ¼e coÅ› takiego zbudowaÄ‡.
 
 696
 01:19:00,199 --> 01:19:02,409
-Zjednaj sobie t³um.
+Zjednaj sobie tÅ‚um.
 
 697
 01:19:02,451 --> 01:19:04,620
-Do œrodka! Ruszaæ siê!
+Do Å›rodka! RuszaÄ‡ siÄ™!
 
 698
 01:19:04,661 --> 01:19:07,080
-Do œrodka!
+Do Å›rodka!
 
 699
 01:19:55,087 --> 01:19:58,799
-Œpi tak smacznie bo jest kochany.
+Åšpi tak smacznie bo jest kochany.
 
 700
 01:20:00,884 --> 01:20:04,096
-ChodŸ bracie. Ju¿ póŸno.
+ChodÅº bracie. JuÅ¼ pÃ³Åºno.
 
 701
 01:20:06,098 --> 01:20:10,018
-Sprawiê, ¿e Rzym bêdzie cudem wieków.
+SprawiÄ™, Å¼e Rzym bÄ™dzie cudem wiekÃ³w.
 
 702
 01:20:11,895 --> 01:20:15,983
-Gracchus i jego przyjaciele tego w³aœnie
-nie mog¹ zrozumieæ.
+Gracchus i jego przyjaciele tego wÅ‚aÅ›nie
+nie mogÄ… zrozumieÄ‡.
 
 703
 01:20:16,024 --> 01:20:20,195
-Pêka mi g³owa od wszystkich moich zamierzeñ.
+PÄ™ka mi gÅ‚owa od wszystkich moich zamierzeÅ„.
 
 704
 01:20:27,411 --> 01:20:30,205
@@ -2960,27 +2959,27 @@ Wypij ten tonik.
 
 705
 01:20:38,714 --> 01:20:41,842
-Myœlê, ¿e czas jest odpowiedni.
+MyÅ›lÄ™, Å¼e czas jest odpowiedni.
 
 706
 01:20:41,884 --> 01:20:44,052
-Móg³bym og³osiæ rozwi¹zanie senatu...
+MÃ³gÅ‚bym ogÅ‚osiÄ‡ rozwiÄ…zanie senatu...
 
 707
 01:20:44,094 --> 01:20:46,096
-podczas uroczystoœci uczczenia pamiêci ojca.
+podczas uroczystoÅ›ci uczczenia pamiÄ™ci ojca.
 
 708
 01:20:46,138 --> 01:20:49,266
-Myœlisz, ¿e powinienem?
+MyÅ›lisz, Å¼e powinienem?
 
 709
 01:20:49,308 --> 01:20:52,394
-Czy lud jest na to gotów?
+Czy lud jest na to gotÃ³w?
 
 710
 01:20:52,895 --> 01:20:55,898
-Powinieneœ odpocz¹æ.
+PowinieneÅ› odpoczÄ…Ä‡.
 
 711
 01:21:01,195 --> 01:21:03,155
@@ -2988,7 +2987,7 @@ Zostaniesz przy mnie?
 
 712
 01:21:03,197 --> 01:21:07,117
-Nadal obawiasz siê ciemnoœci braciszku?
+Nadal obawiasz siÄ™ ciemnoÅ›ci braciszku?
 
 713
 01:21:12,581 --> 01:21:14,791
@@ -3000,54 +2999,54 @@ Zawsze.
 
 715
 01:21:18,587 --> 01:21:22,883
-- Zostañ dziœ ze mn¹.
-- Wiesz, ¿e nie zostanê.
+- ZostaÅ„ dziÅ› ze mnÄ….
+- Wiesz, Å¼e nie zostanÄ™.
 
 716
 01:21:26,011 --> 01:21:28,889
-Poca³uj mnie wiêc.
+PocaÅ‚uj mnie wiÄ™c.
 
 717
 01:21:36,313 --> 01:21:38,899
-Œpij, bracie.
+Åšpij, bracie.
 
 718
 01:22:30,492 --> 01:22:35,706
-Posiadanie lojalnych s³u¿¹cych,
-zapewni mi jeszcze trochê ¿ycia.
+Posiadanie lojalnych sÅ‚uÅ¼Ä…cych,
+zapewni mi jeszcze trochÄ™ Å¼ycia.
 
 719
 01:22:37,416 --> 01:22:42,588
-Aresztuj¹ teraz uczonych.
-Ka¿dego kto oœmieli siê podnieœæ g³os.
+AresztujÄ… teraz uczonych.
+KaÅ¼dego kto oÅ›mieli siÄ™ podnieÅ›Ä‡ gÅ‚os.
 
 720
 01:22:44,381 --> 01:22:47,009
-Matematyków.
+MatematykÃ³w.
 
 721
 01:22:47,593 --> 01:22:50,721
-Wszystko by wy¿ywiæ bestie na arenie.
+Wszystko by wyÅ¼ywiÄ‡ bestie na arenie.
 
 722
 01:22:50,762 --> 01:22:54,266
-Senat nie wyrazi³ zgody na stan wojenny.
+Senat nie wyraziÅ‚ zgody na stan wojenny.
 
 723
 01:22:54,349 --> 01:22:57,811
-Ten terror zapewniaj¹ wy³¹cznie Pretorianie.
+Ten terror zapewniajÄ… wyÅ‚Ä…cznie Pretorianie.
 
 724
 01:22:57,853 --> 01:23:00,147
-Bojê siê wyjœæ po zmroku.
+BojÄ™ siÄ™ wyjÅ›Ä‡ po zmroku.
 
 725
 01:23:00,189 --> 01:23:03,692
-Powinieneœ siê martwiæ o swe czyny za dnia.
+PowinieneÅ› siÄ™ martwiÄ‡ o swe czyny za dnia.
 
 726
 01:23:03,734 --> 01:23:06,278
-Senat jest pe³en szpiegów.
+Senat jest peÅ‚en szpiegÃ³w.
 
 727
 01:23:06,320 --> 01:23:09,865
@@ -3055,46 +3054,46 @@ A dowodzi nimi ten sprzedawczyk Falco.
 
 728
 01:23:09,907 --> 01:23:13,994
-Ale co mu chodzi po g³owie?
+Ale co mu chodzi po gÅ‚owie?
 To mnie martwi.
 
 729
 01:23:14,995 --> 01:23:20,417
-Spêdza ca³e dnie, opêtany planowaniem
+SpÄ™dza caÅ‚e dnie, opÄ™tany planowaniem
 festiwalu ku czci waszego ojca.
 
 730
 01:23:20,584 --> 01:23:24,796
-Zaniedbuje nawet podstawowe obowi¹zki rz¹du.
+Zaniedbuje nawet podstawowe obowiÄ…zki rzÄ…du.
 
 731
 01:23:25,214 --> 01:23:27,674
-Wiêc co on planuje?
+WiÄ™c co on planuje?
 
 732
 01:23:27,716 --> 01:23:32,095
-I czym za to p³aci?
-Te igrzyska kosztuj¹ fortunê.
+I czym za to pÅ‚aci?
+Te igrzyska kosztujÄ… fortunÄ™.
 
 733
 01:23:32,221 --> 01:23:34,515
-A nie ma nowych podatków.
+A nie ma nowych podatkÃ³w.
 
 734
 01:23:34,556 --> 01:23:37,059
-Przysz³oœæ...
+PrzyszÅ‚oÅ›Ä‡...
 
 735
 01:23:37,100 --> 01:23:40,312
-przysz³oœæ za to p³aci.
+przyszÅ‚oÅ›Ä‡ za to pÅ‚aci.
 
 736
 01:23:40,812 --> 01:23:43,815
-Zacz¹³ sprzedawaæ rezerwy ziarna.
+ZaczÄ…Å‚ sprzedawaÄ‡ rezerwy ziarna.
 
 737
 01:23:43,857 --> 01:23:45,943
-To nie mo¿e byæ prawda.
+To nie moÅ¼e byÄ‡ prawda.
 
 738
 01:23:45,984 --> 01:23:49,363
@@ -3102,24 +3101,24 @@ Sprzedaje ziarno z rezerw Rzymu.
 
 739
 01:23:49,446 --> 01:23:52,783
-Za dwa lata lud bêdzie g³odowa³.
+Za dwa lata lud bÄ™dzie gÅ‚odowaÅ‚.
 
 740
 01:23:52,908 --> 01:23:58,080
-Mam nadziejê, ¿e spodobaj¹ im siê igrzyska,
-bo wkrótce przez nie zgin¹.
+Mam nadziejÄ™, Å¼e spodobajÄ… im siÄ™ igrzyska,
+bo wkrÃ³tce przez nie zginÄ….
 
 741
 01:23:58,121 --> 01:23:59,414
-Rzym musi siê o tym dowiedzieæ.
+Rzym musi siÄ™ o tym dowiedzieÄ‡.
 
 742
 01:23:59,456 --> 01:24:02,501
-Jak? On rozwi¹¿e Senat.
+Jak? On rozwiÄ…Å¼e Senat.
 
 743
 01:24:03,919 --> 01:24:06,088
-A kto im to powie nim bêdzie za póŸno?
+A kto im to powie nim bÄ™dzie za pÃ³Åºno?
 
 744
 01:24:06,129 --> 01:24:08,257
@@ -3131,49 +3130,49 @@ Ty Gaiusie?
 
 746
 01:24:10,384 --> 01:24:14,513
-Wyg³osisz mowê w Senacie
-obwiniaj¹c¹ mojego brata?
+WygÅ‚osisz mowÄ™ w Senacie
+obwiniajÄ…cÄ… mojego brata?
 
 747
 01:24:14,555 --> 01:24:17,891
-A potem zobaczysz swoj¹ rodzinê na arenie?
+A potem zobaczysz swojÄ… rodzinÄ™ na arenie?
 
 748
 01:24:17,933 --> 01:24:20,602
-Oœmielisz siê?
+OÅ›mielisz siÄ™?
 
 749
 01:24:28,402 --> 01:24:31,488
-¯y³am w jego wiêzieniu ka¿dego dnia...
+Å»yÅ‚am w jego wiÄ™zieniu kaÅ¼dego dnia...
 
 750
 01:24:31,530 --> 01:24:35,117
-bo mój syn jest nastêpc¹ tronu.
+bo mÃ³j syn jest nastÄ™pcÄ… tronu.
 
 751
 01:24:39,580 --> 01:24:42,416
-On musi umrzeæ.
+On musi umrzeÄ‡.
 
 752
 01:24:45,502 --> 01:24:49,381
-Quintusi i Pretorianie zagarn¹ w³adzê dla siebie.
+Quintusi i Pretorianie zagarnÄ… wÅ‚adzÄ™ dla siebie.
 
 753
 01:24:49,464 --> 01:24:53,343
-Nie. Odetniemy g³owê zanim w¹¿ zaatakuje.
+Nie. Odetniemy gÅ‚owÄ™ zanim wÄ…Å¼ zaatakuje.
 
 754
 01:24:53,385 --> 01:24:55,679
-Senator Gaius ma racjê.
+Senator Gaius ma racjÄ™.
 
 755
 01:24:55,721 --> 01:25:01,101
-Dopóki nie unieszkodliwimy Pretorian,
-nie wskóramy w ten sposób nic.
+DopÃ³ki nie unieszkodliwimy Pretorian,
+nie wskÃ³ramy w ten sposÃ³b nic.
 
 756
 01:25:01,310 --> 01:25:02,811
-Wiêc nie zrobimy nic?
+WiÄ™c nie zrobimy nic?
 
 757
 01:25:02,853 --> 01:25:04,771
@@ -3181,15 +3180,15 @@ Nie drogie dziecko...
 
 758
 01:25:04,813 --> 01:25:06,815
-Utrzymamy nasz¹ radê.
+Utrzymamy naszÄ… radÄ™.
 
 759
 01:25:06,857 --> 01:25:08,775
-Przygotujemy siê.
+Przygotujemy siÄ™.
 
 760
 01:25:08,817 --> 01:25:13,280
-Dopóki lud go popiera, jesteœmy g³osem bez orê¿a.
+DopÃ³ki lud go popiera, jesteÅ›my gÅ‚osem bez orÄ™Å¼a.
 
 761
 01:25:14,406 --> 01:25:17,117
@@ -3197,13 +3196,13 @@ Jak powietrze.
 
 762
 01:25:18,785 --> 01:25:21,914
-Ale z ka¿dym mijaj¹cym dniem
-przysparza sobie wrogów.
+Ale z kaÅ¼dym mijajÄ…cym dniem
+przysparza sobie wrogÃ³w.
 
 763
 01:25:21,997 --> 01:25:25,083
-Pewnego dnia bêdzie
-mia³ ich wiêcej ni¿ przyjació³.
+Pewnego dnia bÄ™dzie
+miaÅ‚ ich wiÄ™cej niÅ¼ przyjaciÃ³Å‚.
 
 764
 01:25:25,125 --> 01:25:28,712
@@ -3219,11 +3218,11 @@ Ale do tego dnia...
 
 767
 01:25:33,884 --> 01:25:36,303
-jesteœmy ugodowi...
+jesteÅ›my ugodowi...
 
 768
 01:25:36,345 --> 01:25:38,889
-pos³uszni...
+posÅ‚uszni...
 
 769
 01:25:40,182 --> 01:25:42,893
@@ -3231,70 +3230,70 @@ i zdradzieccy.
 
 770
 01:25:50,609 --> 01:25:53,111
-No chodŸ!
+No chodÅº!
 
 771
 01:25:54,279 --> 01:25:56,907
-Oddam ci siê.
+Oddam ci siÄ™.
 
 772
 01:26:00,619 --> 01:26:03,580
-Wystarczy ju¿ z tym.
+Wystarczy juÅ¼ z tym.
 
 773
 01:26:25,102 --> 01:26:28,480
-Cezar chce walk, ale nie chcê
-poœwiêcaæ moich najlepszych wojowników.
+Cezar chce walk, ale nie chcÄ™
+poÅ›wiÄ™caÄ‡ moich najlepszych wojownikÃ³w.
 
 774
 01:26:28,522 --> 01:26:32,150
-To t³um ¿¹da walk, wiêc Cezar daje im
-czego chc¹.
+To tÅ‚um Å¼Ä…da walk, wiÄ™c Cezar daje im
+czego chcÄ….
 
 775
 01:26:32,192 --> 01:26:36,697
-- Dosta³eœ bitwê pod Kartagin¹.
-- Masakrê pod Kartagin¹.
+- DostaÅ‚eÅ› bitwÄ™ pod KartaginÄ….
+- MasakrÄ™ pod KartaginÄ….
 
 776
 01:26:37,906 --> 01:26:41,285
-Mo¿e poszed³byœ do wiêzienia,
-zebra³ wszystkich ¿ebraków i z³odziei?
+MoÅ¼e poszedÅ‚byÅ› do wiÄ™zienia,
+zebraÅ‚ wszystkich Å¼ebrakÃ³w i zÅ‚odziei?
 
 777
 01:26:41,326 --> 01:26:42,953
-Zrobiliœmy ju¿ to.
+ZrobiliÅ›my juÅ¼ to.
 
 778
 01:26:42,995 --> 01:26:46,373
-Jeœli chcesz wystawiaæ najlepszych
-gladiatorów w ca³ym Imeprium...
+JeÅ›li chcesz wystawiaÄ‡ najlepszych
+gladiatorÃ³w w caÅ‚ym Imeprium...
 
 779
 01:26:46,415 --> 01:26:48,834
-to chcê podwoiæ stawki.
+to chcÄ™ podwoiÄ‡ stawki.
 
 780
 01:26:48,876 --> 01:26:52,588
-Albo bêd¹ stawki wed³ug umowy
-albo umowa zostanie rozwi¹zana.
+Albo bÄ™dÄ… stawki wedÅ‚ug umowy
+albo umowa zostanie rozwiÄ…zana.
 
 781
 01:26:52,629 --> 01:26:54,131
-Nie podoba ci siê?
+Nie podoba ci siÄ™?
 
 782
 01:26:54,173 --> 01:26:59,011
-To wracaj do tej gównianej dziury,
-z której przyjecha³eœ.
+To wracaj do tej gÃ³wnianej dziury,
+z ktÃ³rej przyjechaÅ‚eÅ›.
 
 783
 01:27:01,305 --> 01:27:04,474
-Cassius, proszê! Cassius!
+Cassius, proszÄ™! Cassius!
 
 784
 01:27:33,003 --> 01:27:36,006
-Gladiatorze, czy to na ciebie wo³aj¹ Hiszpan?
+Gladiatorze, czy to na ciebie woÅ‚ajÄ… Hiszpan?
 
 785
 01:27:36,048 --> 01:27:38,133
@@ -3302,24 +3301,24 @@ Tak.
 
 786
 01:27:38,175 --> 01:27:40,344
-Mówi¹, ¿e jesteœ gigantem.
+MÃ³wiÄ…, Å¼e jesteÅ› gigantem.
 
 787
 01:27:40,385 --> 01:27:43,305
-Mówi¹, ¿e mo¿esz roztrzaskaæ
-czaszkê mê¿czyzny jedn¹ rêk¹.
+MÃ³wiÄ…, Å¼e moÅ¼esz roztrzaskaÄ‡
+czaszkÄ™ mÄ™Å¼czyzny jednÄ… rÄ™kÄ….
 
 788
 01:27:43,347 --> 01:27:46,099
-Mê¿czyzny? Nie.
+MÄ™Å¼czyzny? Nie.
 
 789
 01:27:46,683 --> 01:27:49,102
-Ch³opca.
+ChÅ‚opca.
 
 790
 01:27:50,395 --> 01:27:54,775
-- Czy w Hiszpani maj¹ dobre konie?
+- Czy w Hiszpani majÄ… dobre konie?
 - Jedne z najlepszych.
 
 791
@@ -3332,7 +3331,7 @@ a to Scarto.
 
 793
 01:27:59,488 --> 01:28:01,907
-To by³y moje konie.
+To byÅ‚y moje konie.
 
 794
 01:28:02,074 --> 01:28:04,159
@@ -3340,29 +3339,29 @@ Zabrano mi je.
 
 795
 01:28:04,201 --> 01:28:07,955
-Lubiê ciê Hiszpanie. Bêdê ci kibicowa³.
+LubiÄ™ ciÄ™ Hiszpanie. BÄ™dÄ™ ci kibicowaÅ‚.
 
 796
 01:28:07,996 --> 01:28:11,792
-- Pozwalaj¹ ci ogl¹daæ walki?
-- Mój wujek twierdzi, ¿e mnie zahartuj¹.
+- PozwalajÄ… ci oglÄ…daÄ‡ walki?
+- MÃ³j wujek twierdzi, Å¼e mnie zahartujÄ….
 
 797
 01:28:11,834 --> 01:28:16,505
-- A co na to mówi twój ojciec?
-- Mój ojciec nie ¿yje.
+- A co na to mÃ³wi twÃ³j ojciec?
+- MÃ³j ojciec nie Å¼yje.
 
 798
 01:28:16,713 --> 01:28:20,008
-Paniczu Luciuszu, na nas ju¿ czas.
+Paniczu Luciuszu, na nas juÅ¼ czas.
 
 799
 01:28:20,050 --> 01:28:21,343
-Muszê iœæ.
+MuszÄ™ iÅ›Ä‡.
 
 800
 01:28:21,385 --> 01:28:24,388
-Masz na imiê Luciusz?
+Masz na imiÄ™ Luciusz?
 
 801
 01:28:25,305 --> 01:28:28,475
@@ -3370,7 +3369,7 @@ Luciusz Verus, po ojcu.
 
 802
 01:28:58,505 --> 01:29:00,799
-Ni¿ej!
+NiÅ¼ej!
 
 803
 01:29:05,387 --> 01:29:07,264
@@ -3379,7 +3378,7 @@ Klaudiusz!
 804
 01:29:07,306 --> 01:29:10,475
 - Tak?
-- Wiêcej tarczy!
+- WiÄ™cej tarczy!
 
 805
 01:29:29,995 --> 01:29:31,955
@@ -3387,7 +3386,7 @@ Jak Cezar wejdzie...
 
 806
 01:29:31,997 --> 01:29:34,791
-podnieœcie broñ, uk³oñcie siê...
+podnieÅ›cie broÅ„, ukÅ‚oÅ„cie siÄ™...
 
 807
 01:29:34,833 --> 01:29:37,753
@@ -3395,19 +3394,19 @@ i przemawiajcie razem.
 
 808
 01:29:37,794 --> 01:29:40,047
-Stañcie przodem do Cezara...
+StaÅ„cie przodem do Cezara...
 
 809
 01:29:40,088 --> 01:29:42,299
-nigdy nie odwracajcie siê ty³em.
+nigdy nie odwracajcie siÄ™ tyÅ‚em.
 
 810
 01:29:42,341 --> 01:29:45,677
-IdŸcie i zgiñcie z honorem.
+IdÅºcie i zgiÅ„cie z honorem.
 
 811
 01:30:40,190 --> 01:30:42,985
-Niech ¿yje wszechmocny Cezar!
+Niech Å¼yje wszechmocny Cezar!
 
 812
 01:30:43,026 --> 01:30:45,779
@@ -3416,8 +3415,8 @@ Cezar! Cezar!
 
 813
 01:30:52,786 --> 01:30:57,207
-My, którzy jesteœmy blisko œmierci,
-k³aniamy siê!
+My, ktÃ³rzy jesteÅ›my blisko Å›mierci,
+kÅ‚aniamy siÄ™!
 
 814
 01:30:58,083 --> 01:30:59,751
@@ -3425,11 +3424,11 @@ Dzisiaj...
 
 815
 01:30:59,793 --> 01:31:03,505
-powracamy do œwiêtej staro¿ytnoœci...
+powracamy do Å›wiÄ™tej staroÅ¼ytnoÅ›ci...
 
 816
 01:31:03,547 --> 01:31:05,465
-aby przedstawiæ wam historiê
+aby przedstawiÄ‡ wam historiÄ™
 
 817
 01:31:05,507 --> 01:31:09,303
@@ -3437,15 +3436,15 @@ drugiego upadku Wielkiej Kartaginy!
 
 818
 01:31:13,098 --> 01:31:16,810
-Na nieurodzajnych równinach Zarmy...
+Na nieurodzajnych rÃ³wninach Zarmy...
 
 819
 01:31:18,187 --> 01:31:21,607
-znajdowa³y siê niepokonane wojska...
+znajdowaÅ‚y siÄ™ niepokonane wojska...
 
 820
 01:31:21,648 --> 01:31:24,776
-barbarzyñskiego Hannibala.
+barbarzyÅ„skiego Hannibala.
 
 821
 01:31:24,985 --> 01:31:27,946
@@ -3457,11 +3456,11 @@ ze wszelkich brutalnych nacji...
 
 823
 01:31:30,949 --> 01:31:33,994
-pragnêli bezlitosnej...
+pragnÄ™li bezlitosnej...
 
 824
 01:31:34,036 --> 01:31:36,038
-zag³ady...
+zagÅ‚ady...
 
 825
 01:31:36,079 --> 01:31:37,956
@@ -3473,23 +3472,23 @@ Wasz Cezar...
 
 827
 01:31:40,000 --> 01:31:42,085
-z przyjemnoœci¹ przedstawia wam...
+z przyjemnoÅ›ciÄ… przedstawia wam...
 
 828
 01:31:42,127 --> 01:31:45,005
-barbarzyñsk¹ hordê!
+barbarzyÅ„skÄ… hordÄ™!
 
 829
 01:31:53,680 --> 01:31:55,641
-Czy ktoœ z was by³ w wojsku?
+Czy ktoÅ› z was byÅ‚ w wojsku?
 
 830
 01:31:55,682 --> 01:31:59,478
-Tak. Walczy³em z tob¹ pod Vindobon¹.
+Tak. WalczyÅ‚em z tobÄ… pod VindobonÄ….
 
 831
 01:31:59,686 --> 01:32:02,564
-Mo¿esz mi pomóc.
+MoÅ¼esz mi pomÃ³c.
 
 832
 01:32:02,606 --> 01:32:05,651
@@ -3498,7 +3497,7 @@ Cokolwiek wyjdzie przez te wrota...
 833
 01:32:05,692 --> 01:32:09,696
 mamy lepsze szanse na przetrwanie
-jeœli bêdziemy wspó³pracowaæ.
+jeÅ›li bÄ™dziemy wspÃ³Å‚pracowaÄ‡.
 
 834
 01:32:09,738 --> 01:32:12,282
@@ -3506,11 +3505,11 @@ Rozumiecie?
 
 835
 01:32:13,200 --> 01:32:15,869
-Jeœli bêdziemy trzymaæ siê razem, przetrwamy.
+JeÅ›li bÄ™dziemy trzymaÄ‡ siÄ™ razem, przetrwamy.
 
 836
 01:32:15,953 --> 01:32:18,580
-Cezar z przyjemnoœci¹ przedstawia legionistów...
+Cezar z przyjemnoÅ›ciÄ… przedstawia legionistÃ³w...
 
 837
 01:32:18,622 --> 01:32:21,792
@@ -3518,7 +3517,7 @@ wodza Scipio Africanusa!
 
 838
 01:32:33,887 --> 01:32:36,598
-A¿ do œmierci.
+AÅ¼ do Å›mierci.
 
 839
 01:32:38,684 --> 01:32:41,687
@@ -3526,7 +3525,7 @@ Zabij! Zabij! Zabij!
 
 840
 01:32:45,482 --> 01:32:48,485
-Trzymajmy siê razem!
+Trzymajmy siÄ™ razem!
 
 841
 01:32:52,906 --> 01:32:55,200
@@ -3534,26 +3533,26 @@ Razem!
 
 842
 01:32:56,493 --> 01:33:00,789
-Ustawiæ siê w kolumny!
-Ustawiæ siê w kolumny!
+UstawiÄ‡ siÄ™ w kolumny!
+UstawiÄ‡ siÄ™ w kolumny!
 
 843
 01:33:12,009 --> 01:33:16,388
-- Wkrótce wszyscy zginiecie.
+- WkrÃ³tce wszyscy zginiecie.
 - Nie macie szans.
 
 844
 01:33:26,982 --> 01:33:30,611
-Zacisn¹æ tarcze!
+ZacisnÄ…Ä‡ tarcze!
 Wszyscy razem!
 
 845
 01:33:30,652 --> 01:33:32,988
-Czekaæ!
+CzekaÄ‡!
 
 846
 01:33:34,281 --> 01:33:36,283
-Czekaæ!
+CzekaÄ‡!
 
 847
 01:33:36,325 --> 01:33:38,285
@@ -3565,7 +3564,7 @@ Bardzo dobrze!
 
 849
 01:33:53,592 --> 01:33:55,260
-Czekaæ!
+CzekaÄ‡!
 
 850
 01:33:55,302 --> 01:33:57,888
@@ -3581,7 +3580,7 @@ Hagen!
 
 853
 01:34:41,890 --> 01:34:46,979
-Tamta kolumna w stronê rydwanu!
+Tamta kolumna w stronÄ™ rydwanu!
 Ta kolumna zostaje przy mnie!
 
 854
@@ -3590,7 +3589,7 @@ Szybko!
 
 855
 01:34:50,899 --> 01:34:53,986
-- IdŸcie tam!
+- IdÅºcie tam!
 - Szybko!
 
 856
@@ -3604,16 +3603,16 @@ Pojedyncza kolumna!
 
 858
 01:36:36,213 --> 01:36:38,674
-Wygraliœmy!
+WygraliÅ›my!
 
 859
 01:36:42,803 --> 01:36:46,265
-Cassius, z histori¹ u mnie na bakier...
+Cassius, z historiÄ… u mnie na bakier...
 
 860
 01:36:46,306 --> 01:36:49,309
-ale czy barbarzyñcy nie powinni
-przegraæ bitwy pod Kartagin¹?
+ale czy barbarzyÅ„cy nie powinni
+przegraÄ‡ bitwy pod KartaginÄ…?
 
 861
 01:36:49,351 --> 01:36:51,812
@@ -3621,11 +3620,11 @@ Tak, Panie.
 
 862
 01:36:52,604 --> 01:36:55,023
-Proszê o wybaczenie, Panie.
+ProszÄ™ o wybaczenie, Panie.
 
 863
 01:36:55,107 --> 01:36:57,484
-W zasadzie wolê niespodzianki.
+W zasadzie wolÄ™ niespodzianki.
 
 864
 01:36:57,776 --> 01:36:59,236
@@ -3633,67 +3632,67 @@ Kim on jest?
 
 865
 01:36:59,278 --> 01:37:02,781
-Nazywaj¹ go Hiszpanem, Panie.
+NazywajÄ… go Hiszpanem, Panie.
 
 866
 01:37:04,700 --> 01:37:08,495
-- Chcê go poznaæ.
+- ChcÄ™ go poznaÄ‡.
 - Tak jest, Panie.
 
 867
 01:37:10,080 --> 01:37:13,292
-Niech ¿yj¹ barbarzyñcy!
+Niech Å¼yjÄ… barbarzyÅ„cy!
 
 868
 01:37:27,097 --> 01:37:29,892
-Wprzód! Gotowi!
+WprzÃ³d! Gotowi!
 
 869
 01:37:43,697 --> 01:37:46,408
-Broñ na ziemiê.
+BroÅ„ na ziemiÄ™.
 
 870
 01:37:49,578 --> 01:37:52,873
-Gladiatorze, Cezar ciê wzywa.
+Gladiatorze, Cezar ciÄ™ wzywa.
 
 871
 01:37:52,915 --> 01:37:56,001
-Jestem do us³ug Cezara.
+Jestem do usÅ‚ug Cezara.
 
 872
 01:38:21,985 --> 01:38:24,905
-Powstañ. Powstañ.
+PowstaÅ„. PowstaÅ„.
 
 873
 01:38:33,580 --> 01:38:35,832
-Zas³u¿y³eœ sobie na s³awê Hiszpanie.
+ZasÅ‚uÅ¼yÅ‚eÅ› sobie na sÅ‚awÄ™ Hiszpanie.
 
 874
 01:38:35,874 --> 01:38:38,961
-Nie s¹dzê, ¿e jest inny gladiator,
-który by ci dorówna³.
+Nie sÄ…dzÄ™, Å¼e jest inny gladiator,
+ktÃ³ry by ci dorÃ³wnaÅ‚.
 
 875
 01:38:39,002 --> 01:38:44,508
-A jeœli o niego chodzi, mówi, ¿e jesteœ
-nowym Hektorem. Czy te¿ Herkulesem?
+A jeÅ›li o niego chodzi, mÃ³wi, Å¼e jesteÅ›
+nowym Hektorem. Czy teÅ¼ Herkulesem?
 
 876
 01:38:44,550 --> 01:38:50,013
-A mo¿e nasz bohater ods³oni³by twarz
-i ujawni³ nam sw¹ prawdziw¹ to¿samoœæ?
+A moÅ¼e nasz bohater odsÅ‚oniÅ‚by twarz
+i ujawniÅ‚ nam swÄ… prawdziwÄ… toÅ¼samoÅ›Ä‡?
 
 877
 01:38:50,097 --> 01:38:52,975
-Nadano ci imiê, prawda?
+Nadano ci imiÄ™, prawda?
 
 878
 01:38:53,058 --> 01:38:55,894
-Mam na imiê Gladiator.
+Mam na imiÄ™ Gladiator.
 
 879
 01:38:57,896 --> 01:39:00,399
-Jak œmiesz odwracaæ siê do mnie ty³em?
+Jak Å›miesz odwracaÄ‡ siÄ™ do mnie tyÅ‚em?
 
 880
 01:39:00,440 --> 01:39:02,860
@@ -3701,23 +3700,23 @@ Niewolniku!
 
 881
 01:39:02,901 --> 01:39:06,989
-Zdejmij he³m i powiedz mi jak siê nazywasz.
+Zdejmij heÅ‚m i powiedz mi jak siÄ™ nazywasz.
 
 882
 01:39:17,583 --> 01:39:19,877
-Nazywam siê Maximus Decimus Meridius...
+Nazywam siÄ™ Maximus Decimus Meridius...
 
 883
 01:39:19,918 --> 01:39:22,546
-dowódca wojsk pó³nocnych...
+dowÃ³dca wojsk pÃ³Å‚nocnych...
 
 884
 01:39:22,588 --> 01:39:25,132
-genera³ legionów Felixa...
+generaÅ‚ legionÃ³w Felixa...
 
 885
 01:39:25,174 --> 01:39:29,803
-lojalny s³uga prawdziwego Cezara,
+lojalny sÅ‚uga prawdziwego Cezara,
 Marka Aureliusza...
 
 886
@@ -3726,23 +3725,23 @@ ojciec zamordowanego syna...
 
 887
 01:39:32,472 --> 01:39:34,933
-m¹¿ zamordowanej ¿ony...
+mÄ…Å¼ zamordowanej Å¼ony...
 
 888
 01:39:34,975 --> 01:39:39,188
-i zemszczê siê w tym ¿yciu lub w nastêpnym.
+i zemszczÄ™ siÄ™ w tym Å¼yciu lub w nastÄ™pnym.
 
 889
 01:39:46,278 --> 01:39:48,614
-Stra¿!
+StraÅ¼!
 
 890
 01:40:01,293 --> 01:40:05,005
-Niech ¿yje! Niech ¿yje! Niech ¿yje!
+Niech Å¼yje! Niech Å¼yje! Niech Å¼yje!
 
 891
 01:40:50,801 --> 01:40:53,595
-Stra¿, spocznij!
+StraÅ¼, spocznij!
 
 892
 01:41:43,896 --> 01:41:47,691
@@ -3751,7 +3750,7 @@ Maximus! Maximus!
 
 893
 01:43:53,901 --> 01:43:57,112
-Dlaczego on wci¹¿ ¿yje?
+Dlaczego on wciÄ…Å¼ Å¼yje?
 
 894
 01:43:57,154 --> 01:43:59,239
@@ -3759,7 +3758,7 @@ Nie wiem.
 
 895
 01:43:59,281 --> 01:44:01,491
-Nie powinien byæ wœród ¿ywych.
+Nie powinien byÄ‡ wÅ›rÃ³d Å¼ywych.
 
 896
 01:44:01,533 --> 01:44:04,286
@@ -3771,20 +3770,20 @@ Bardzo mnie to niepokoi.
 
 898
 01:44:17,508 --> 01:44:20,344
-Uczyni³em co nale¿a³o.
+UczyniÅ‚em co naleÅ¼aÅ‚o.
 
 899
 01:44:20,385 --> 01:44:24,681
-Gdyby by³o tak jak chcia³ ojciec,
-zniszczy³oby to Imperium.
+Gdyby byÅ‚o tak jak chciaÅ‚ ojciec,
+zniszczyÅ‚oby to Imperium.
 
 900
 01:44:24,723 --> 01:44:27,684
-Wiesz, ¿e to prawda?
+Wiesz, Å¼e to prawda?
 
 901
 01:44:32,606 --> 01:44:35,984
-Co czu³aœ jak go zobaczy³aœ?
+Co czuÅ‚aÅ› jak go zobaczyÅ‚aÅ›?
 
 902
 01:44:37,986 --> 01:44:40,197
@@ -3792,37 +3791,37 @@ Nic.
 
 903
 01:44:41,698 --> 01:44:44,993
-Zrani³ ciê bardzo, prawda?
+ZraniÅ‚ ciÄ™ bardzo, prawda?
 
 904
 01:44:45,285 --> 01:44:48,580
-Nie bardziej ni¿ ja jego.
+Nie bardziej niÅ¼ ja jego.
 
 905
 01:44:51,792 --> 01:44:55,087
-Ok³amali mnie w Germanii.
+OkÅ‚amali mnie w Germanii.
 
 906
 01:44:55,796 --> 01:44:59,174
-Powiedzieli mi, ¿e nie ¿yje.
+Powiedzieli mi, Å¼e nie Å¼yje.
 
 907
 01:44:59,883 --> 01:45:02,469
-Jeœli mnie ok³amuj¹, to znaczy,
-¿e mnie nie szanuj¹.
+JeÅ›li mnie okÅ‚amujÄ…, to znaczy,
+Å¼e mnie nie szanujÄ….
 
 908
 01:45:02,511 --> 01:45:06,974
-Jeœli mnie nie szanuj¹,
-jak mog¹ mnie kiedykolwiek kochaæ?
+JeÅ›li mnie nie szanujÄ…,
+jak mogÄ… mnie kiedykolwiek kochaÄ‡?
 
 909
 01:45:07,015 --> 01:45:09,685
-Musisz daæ legionistom do zrozumienia...
+Musisz daÄ‡ legionistom do zrozumienia...
 
 910
 01:45:09,726 --> 01:45:11,603
-¿e ich zdrada...
+Å¼e ich zdrada...
 
 911
 01:45:11,645 --> 01:45:13,647
@@ -3834,89 +3833,89 @@ Biedna siostro.
 
 913
 01:45:15,607 --> 01:45:19,194
-Nie chcia³bym byæ twoim wrogiem.
+Nie chciaÅ‚bym byÄ‡ twoim wrogiem.
 
 914
 01:45:19,236 --> 01:45:22,197
-Co zamierzasz zrobiæ?
+Co zamierzasz zrobiÄ‡?
 
 915
 01:45:33,709 --> 01:45:35,878
-Têdy.
+TÄ™dy.
 
 916
 01:46:10,412 --> 01:46:13,790
-Bogate matrony s³ono p³ac¹
-za ogl¹danie najodwa¿niejszych.
+Bogate matrony sÅ‚ono pÅ‚acÄ…
+za oglÄ…danie najodwaÅ¼niejszych.
 
 917
 01:46:13,832 --> 01:46:16,835
-Wiedzia³em, ¿e twój brat przyœle morderców.
+WiedziaÅ‚em, Å¼e twÃ³j brat przyÅ›le mordercÃ³w.
 
 918
 01:46:16,877 --> 01:46:21,298
-Nie wiedzia³em, ¿e przyœle jednego z najlepszych.
+Nie wiedziaÅ‚em, Å¼e przyÅ›le jednego z najlepszych.
 
 919
 01:46:21,340 --> 01:46:24,051
-On nie wie, ¿e tu jestem.
+On nie wie, Å¼e tu jestem.
 
 920
 01:46:24,092 --> 01:46:27,095
-Moja rodzina zosta³a ¿ywcem spalona i
-ukrzy¿owana.
+Moja rodzina zostaÅ‚a Å¼ywcem spalona i
+ukrzyÅ¼owana.
 
 921
 01:46:27,137 --> 01:46:31,183
-- Nic o tym nie wiedzia³am...
-- Nie k³am!
+- Nic o tym nie wiedziaÅ‚am...
+- Nie kÅ‚am!
 
 922
 01:46:36,480 --> 01:46:38,649
-Op³akiwa³am ich.
+OpÅ‚akiwaÅ‚am ich.
 
 923
 01:46:38,690 --> 01:46:42,694
-Tak jak op³akiwa³aœ swego ojca?
-Tak jak op³akiwa³aœ swego ojca?
+Tak jak opÅ‚akiwaÅ‚aÅ› swego ojca?
+Tak jak opÅ‚akiwaÅ‚aÅ› swego ojca?
 
 924
 01:46:42,736 --> 01:46:46,448
-Od dnia jego œmierci jestem wiêŸniem strachu.
+Od dnia jego Å›mierci jestem wiÄ™Åºniem strachu.
 
 925
 01:46:46,490 --> 01:46:51,203
-Nie mog³am op³akiwaæ w³asnego ojca
-w obawie przed w³asnym bratem.
+Nie mogÅ‚am opÅ‚akiwaÄ‡ wÅ‚asnego ojca
+w obawie przed wÅ‚asnym bratem.
 
 926
 01:46:51,245 --> 01:46:54,248
-¯yjê w obawie ka¿dego dnia...
+Å»yjÄ™ w obawie kaÅ¼dego dnia...
 
 927
 01:46:54,289 --> 01:46:58,210
-gdy¿ mój syn jest spadkobierc¹ tronu.
+gdyÅ¼ mÃ³j syn jest spadkobiercÄ… tronu.
 
 928
 01:46:59,211 --> 01:47:01,797
-Naprawdê p³aka³am.
+NaprawdÄ™ pÅ‚akaÅ‚am.
 
 929
 01:47:01,839 --> 01:47:03,340
-Mój syn...
+MÃ³j syn...
 
 930
 01:47:03,382 --> 01:47:05,634
-by³ niewinny...
+byÅ‚ niewinny...
 
 931
 01:47:05,676 --> 01:47:08,804
-Mój te¿ jest niewinny.
+MÃ³j teÅ¼ jest niewinny.
 
 932
 01:47:09,179 --> 01:47:13,809
-Czy mój syn te¿ musi zgin¹æ
-zanim zaczniesz mi ufaæ?
+Czy mÃ³j syn teÅ¼ musi zginÄ…Ä‡
+zanim zaczniesz mi ufaÄ‡?
 
 933
 01:47:14,184 --> 01:47:17,896
@@ -3924,12 +3923,12 @@ A czy to ma znaczenie czy ci ufam czy nie?
 
 934
 01:47:17,938 --> 01:47:20,941
-Bogowie ciê ocalili. Nie rozumiesz?
+Bogowie ciÄ™ ocalili. Nie rozumiesz?
 
 935
 01:47:20,983 --> 01:47:24,403
-Widzia³am dziœ jak niewolnik sta³ siê
-potê¿niejszy od Cezara Rzymu.
+WidziaÅ‚am dziÅ› jak niewolnik staÅ‚ siÄ™
+potÄ™Å¼niejszy od Cezara Rzymu.
 
 936
 01:47:24,444 --> 01:47:26,572
@@ -3937,51 +3936,51 @@ Bogowie mnie ocalili?
 
 937
 01:47:26,613 --> 01:47:30,075
-Jestem na ich ³asce, a moja potêga le¿y w
+Jestem na ich Å‚asce, a moja potÄ™ga leÅ¼y w
 rozbawieniu mas.
 
 938
 01:47:30,117 --> 01:47:32,035
-To w³aœnie jest potêga.
+To wÅ‚aÅ›nie jest potÄ™ga.
 
 939
 01:47:32,077 --> 01:47:37,374
-Lud to Rzym i dopóki Commodus ma
-nad nimi kontrolê, rz¹dzi wszystkim.
+Lud to Rzym i dopÃ³ki Commodus ma
+nad nimi kontrolÄ™, rzÄ…dzi wszystkim.
 
 940
 01:47:37,416 --> 01:47:39,334
-Pos³uchaj.
+PosÅ‚uchaj.
 
 941
 01:47:39,376 --> 01:47:42,713
-Mój brat ma wrogów, wiêkszoœæ z nich w senacie.
+MÃ³j brat ma wrogÃ³w, wiÄ™kszoÅ›Ä‡ z nich w senacie.
 
 942
 01:47:42,754 --> 01:47:44,840
-Ale jak d³ugo ma za sob¹ ludzi...
+Ale jak dÅ‚ugo ma za sobÄ… ludzi...
 
 943
 01:47:44,882 --> 01:47:48,385
-nikt nie odwa¿y siê mu sprzeciwiæ
-oprócz ciebie.
+nikt nie odwaÅ¼y siÄ™ mu sprzeciwiÄ‡
+oprÃ³cz ciebie.
 
 944
 01:47:48,427 --> 01:47:51,346
-Nie zgadzaj¹ siê z nim, ale nie robi¹ nic.
+Nie zgadzajÄ… siÄ™ z nim, ale nie robiÄ… nic.
 
 945
 01:47:51,388 --> 01:47:55,184
-Istniej¹ politycy, którzy s¹
-w stanie poœwiêciæ ¿ycie za Rzym.
+IstniejÄ… politycy, ktÃ³rzy sÄ…
+w stanie poÅ›wiÄ™ciÄ‡ Å¼ycie za Rzym.
 
 946
 01:47:55,225 --> 01:47:57,936
-A zw³aszcza jeden.
+A zwÅ‚aszcza jeden.
 
 947
 01:47:57,978 --> 01:48:01,273
-Jeœli to zaaran¿ujê, spotkasz siê z nim?
+JeÅ›li to zaaranÅ¼ujÄ™, spotkasz siÄ™ z nim?
 
 948
 01:48:01,315 --> 01:48:03,567
@@ -3989,7 +3988,7 @@ Czy ty nic nie rozumiesz?
 
 949
 01:48:03,609 --> 01:48:05,903
-Mogê umrzeæ dziœ w tej celi albo jutro na arenie.
+MogÄ™ umrzeÄ‡ dziÅ› w tej celi albo jutro na arenie.
 
 950
 01:48:05,944 --> 01:48:07,738
@@ -3997,47 +3996,47 @@ Jestem niewolnikiem!
 
 951
 01:48:07,779 --> 01:48:10,407
-Co ja takiego mogê zrobiæ?
+Co ja takiego mogÄ™ zrobiÄ‡?
 
 952
 01:48:10,490 --> 01:48:13,493
-Ten cz³owiek chce tego co ty.
+Ten czÅ‚owiek chce tego co ty.
 
 953
 01:48:13,535 --> 01:48:16,496
-Ka¿ mu wiêc zabiæ Commodusa!
+KaÅ¼ mu wiÄ™c zabiÄ‡ Commodusa!
 
 954
 01:48:17,873 --> 01:48:20,667
-Zna³am kiedyœ mê¿czyznê...
+ZnaÅ‚am kiedyÅ› mÄ™Å¼czyznÄ™...
 
 955
 01:48:20,709 --> 01:48:24,213
-szlachetnego mê¿czyznê, mê¿czyznê z zasadami...
+szlachetnego mÄ™Å¼czyznÄ™, mÄ™Å¼czyznÄ™ z zasadami...
 
 956
 01:48:24,254 --> 01:48:27,216
-który kocha³ mego ojca...
+ktÃ³ry kochaÅ‚ mego ojca...
 
 957
 01:48:27,257 --> 01:48:30,177
-a mój ojciec kocha³ jego.
+a mÃ³j ojciec kochaÅ‚ jego.
 
 958
 01:48:31,011 --> 01:48:34,681
-Ten mê¿czyzna zas³u¿y³ siê Rzymowi.
+Ten mÄ™Å¼czyzna zasÅ‚uÅ¼yÅ‚ siÄ™ Rzymowi.
 
 959
 01:48:37,309 --> 01:48:40,062
-Tego mê¿czyzny ju¿ nie ma.
+Tego mÄ™Å¼czyzny juÅ¼ nie ma.
 
 960
 01:48:40,103 --> 01:48:42,105
-Twój brat wykona³ zadanie bezb³êdnie.
+TwÃ³j brat wykonaÅ‚ zadanie bezbÅ‚Ä™dnie.
 
 961
 01:48:42,147 --> 01:48:45,192
-Pozwól, ¿e ci pomogê.
+PozwÃ³l, Å¼e ci pomogÄ™.
 
 962
 01:48:49,905 --> 01:48:52,032
@@ -4045,7 +4044,7 @@ Tak...
 
 963
 01:48:52,074 --> 01:48:54,910
-mo¿esz mi pomóc.
+moÅ¼esz mi pomÃ³c.
 
 964
 01:48:56,411 --> 01:48:58,455
@@ -4053,15 +4052,15 @@ Zapomnij o mnie...
 
 965
 01:48:58,497 --> 01:49:02,084
-i nigdy wiêcej tu nie przychodŸ.
+i nigdy wiÄ™cej tu nie przychodÅº.
 
 966
 01:49:03,794 --> 01:49:07,297
-Stra¿! Dama skoñczy³a ze mn¹.
+StraÅ¼! Dama skoÅ„czyÅ‚a ze mnÄ….
 
 967
 01:49:34,908 --> 01:49:37,703
-Jak siê nazywasz?
+Jak siÄ™ nazywasz?
 
 968
 01:49:39,496 --> 01:49:42,207
@@ -4081,15 +4080,15 @@ Pytam o nazwisko po ojcu.
 
 972
 01:50:00,809 --> 01:50:03,187
-Musieli wiedzieæ, ¿e Maximus uciek³...
+Musieli wiedzieÄ‡, Å¼e Maximus uciekÅ‚...
 
 973
 01:50:03,228 --> 01:50:06,440
-gdy znaleŸli cia³a stra¿ników.
+gdy znaleÅºli ciaÅ‚a straÅ¼nikÃ³w.
 
 974
 01:50:06,481 --> 01:50:10,235
-Myœleli, ¿e to by³ napad barbarzyñców.
+MyÅ›leli, Å¼e to byÅ‚ napad barbarzyÅ„cÃ³w.
 
 975
 01:50:10,277 --> 01:50:13,989
@@ -4098,12 +4097,12 @@ Oddani Cezarowi.
 
 976
 01:50:52,402 --> 01:50:57,282
-Wiêc mo¿e to ty wiedzia³eœ...
-i nigdy mi nie powiedzia³eœ.
+WiÄ™c moÅ¼e to ty wiedziaÅ‚eÅ›...
+i nigdy mi nie powiedziaÅ‚eÅ›.
 
 977
 01:50:58,408 --> 01:50:59,785
-Nie wiedzia³em.
+Nie wiedziaÅ‚em.
 
 978
 01:50:59,826 --> 01:51:01,995
@@ -4111,7 +4110,7 @@ Nie?
 
 979
 01:51:02,579 --> 01:51:06,375
-Ale genera³, ma nad wszystkim pieczê.
+Ale generaÅ‚, ma nad wszystkim pieczÄ™.
 
 980
 01:51:06,500 --> 01:51:09,044
@@ -4119,7 +4118,7 @@ Zawsze dowodzi.
 
 981
 01:51:09,086 --> 01:51:11,713
-Nieprawda¿?
+NieprawdaÅ¼?
 
 982
 01:51:11,755 --> 01:51:14,299
@@ -4127,11 +4126,11 @@ Tak, Cezarze.
 
 983
 01:51:26,979 --> 01:51:30,482
-Wiêc wydaj rozkaz. Powiedz to.
+WiÄ™c wydaj rozkaz. Powiedz to.
 
 984
 01:51:46,707 --> 01:51:49,209
-Strzelaæ.
+StrzelaÄ‡.
 
 985
 01:52:23,076 --> 01:52:24,661
@@ -4139,8 +4138,8 @@ Maximus.
 
 986
 01:52:24,703 --> 01:52:29,082
-Dowodzi³eœ legionami?
-Odnios³eœ wiele zwyciêstw?
+DowodziÅ‚eÅ› legionami?
+OdniosÅ‚eÅ› wiele zwyciÄ™stw?
 
 987
 01:52:29,374 --> 01:52:30,167
@@ -4160,12 +4159,12 @@ Generale!
 
 991
 01:53:26,974 --> 01:53:30,185
-Masz wspania³¹ reputacjê.
+Masz wspaniaÅ‚Ä… reputacjÄ™.
 
 992
 01:53:30,477 --> 01:53:35,190
-Najpierw musi zabiæ twoje imiê
-zanim mo¿e zabiæ ciebie.
+Najpierw musi zabiÄ‡ twoje imiÄ™
+zanim moÅ¼e zabiÄ‡ ciebie.
 
 993
 01:53:42,489 --> 01:53:43,866
@@ -4182,16 +4181,16 @@ Senator Gracchus.
 
 996
 01:53:49,997 --> 01:53:53,083
-Nie czêsto zdarza siê widzieæ ciê
-rozkoszuj¹cym siê przyjemnoœciami mas.
+Nie czÄ™sto zdarza siÄ™ widzieÄ‡ ciÄ™
+rozkoszujÄ…cym siÄ™ przyjemnoÅ›ciami mas.
 
 997
 01:53:53,125 --> 01:53:56,503
-Nie udajê jednego z nich, Senatorze...
+Nie udajÄ™ jednego z nich, Senatorze...
 
 998
 01:53:56,545 --> 01:53:59,882
-ale próbujê wystêpowaæ w ich imieniu.
+ale prÃ³bujÄ™ wystÄ™powaÄ‡ w ich imieniu.
 
 999
 01:54:14,188 --> 01:54:17,482
@@ -4208,27 +4207,27 @@ Czwartego dnia panowania Antiocha...
 
 1002
 01:54:32,039 --> 01:54:35,375
-œwiêtujemy 64 dzieñ igrzysk.
+Å›wiÄ™tujemy 64 dzieÅ„ igrzysk.
 
 1003
 01:54:37,211 --> 01:54:40,506
-W swojej wielkodusznoœci...
+W swojej wielkodusznoÅ›ci...
 
 1004
 01:54:42,174 --> 01:54:45,886
-Cezar chcia³by zadowoliæ Rzymian...
+Cezar chciaÅ‚by zadowoliÄ‡ Rzymian...
 
 1005
 01:54:47,012 --> 01:54:50,682
-historycznym fina³owym pojedynkiem.
+historycznym finaÅ‚owym pojedynkiem.
 
 1006
 01:54:51,183 --> 01:54:54,895
-Cezar ma przyjemnoœæ przedstawiæ...
+Cezar ma przyjemnoÅ›Ä‡ przedstawiÄ‡...
 
 1007
 01:54:57,105 --> 01:55:00,692
-powracaj¹cego po piêciu latach nieobecnoœci...
+powracajÄ…cego po piÄ™ciu latach nieobecnoÅ›ci...
 
 1008
 01:55:00,734 --> 01:55:04,404
@@ -4248,11 +4247,11 @@ z Galii!
 
 1012
 01:55:33,100 --> 01:55:36,353
-Wie zbyt dobrze jak manipulowaæ t³umem.
+Wie zbyt dobrze jak manipulowaÄ‡ tÅ‚umem.
 
 1013
 01:55:36,395 --> 01:55:39,606
-Marek Aureliusz mia³ marzenie dla Rzymu.
+Marek Aureliusz miaÅ‚ marzenie dla Rzymu.
 
 1014
 01:55:39,648 --> 01:55:42,067
@@ -4260,11 +4259,11 @@ Ale to nie jest to. Nie to!
 
 1015
 01:55:42,109 --> 01:55:45,654
-Marek Aurelisz nie ¿yje, Maximusie.
+Marek Aurelisz nie Å¼yje, Maximusie.
 
 1016
 01:55:45,696 --> 01:55:48,991
-My œmiertelnicy jesteœmy tylko cieniem i prochem.
+My Å›miertelnicy jesteÅ›my tylko cieniem i prochem.
 
 1017
 01:55:49,032 --> 01:55:51,451
@@ -4272,11 +4271,11 @@ Cienie i proch, Maximusie.
 
 1018
 01:55:51,493 --> 01:55:54,955
-Cezar z dum¹ przedstawia wam...
+Cezar z dumÄ… przedstawia wam...
 
 1019
 01:55:54,997 --> 01:55:58,792
-przedstawiciela s³awnej szko³y
+przedstawiciela sÅ‚awnej szkoÅ‚y
 Antoniusa Proximo...
 
 1020
@@ -4285,36 +4284,36 @@ Aureliusa Maximusa!
 
 1021
 01:56:15,475 --> 01:56:17,853
-Traktuj¹ go jakby by³ jednym z nich.
+TraktujÄ… go jakby byÅ‚ jednym z nich.
 
 1022
 01:56:17,895 --> 01:56:22,900
-T³um zmiennym jest, bracie.
-Zapomn¹ o nim w ci¹gu miesi¹ca.
+TÅ‚um zmiennym jest, bracie.
+ZapomnÄ… o nim w ciÄ…gu miesiÄ…ca.
 
 1023
 01:56:24,610 --> 01:56:27,905
-Myœlê, ¿e o wiele szybciej.
+MyÅ›lÄ™, Å¼e o wiele szybciej.
 
 1024
 01:56:29,406 --> 01:56:32,492
-To zosta³o za³atwione.
+To zostaÅ‚o zaÅ‚atwione.
 
 1025
 01:56:49,593 --> 01:56:53,388
-My, id¹cy na œmieræ, pozdrawiamy ciê.
+My, idÄ…cy na Å›mierÄ‡, pozdrawiamy ciÄ™.
 
 1026
 01:56:55,974 --> 01:56:59,311
-Maximusie, jesteœmy z tob¹.
+Maximusie, jesteÅ›my z tobÄ….
 
 1027
 01:58:10,591 --> 01:58:13,886
-Ci¹gnij! Ci¹gnij! Ci¹gnij!
+CiÄ…gnij! CiÄ…gnij! CiÄ…gnij!
 
 1028
 01:58:44,374 --> 01:58:46,877
-Puœc! Puœæ!
+PuÅ›c! PuÅ›Ä‡!
 
 1029
 01:59:14,279 --> 01:59:16,198
@@ -4331,16 +4330,16 @@ Zabij! Zabij!
 
 1032
 02:00:21,305 --> 02:00:24,308
-Maximus Mi³osierny!
+Maximus MiÅ‚osierny!
 
 1033
 02:00:44,995 --> 02:00:47,706
-Stra¿!
+StraÅ¼!
 Gotowi!
 
 1034
 02:01:18,695 --> 02:01:21,782
-Co mam z tob¹ zrobiæ?
+Co mam z tobÄ… zrobiÄ‡?
 
 1035
 02:01:22,199 --> 02:01:24,910
@@ -4348,11 +4347,11 @@ Po prostu nie chcesz...
 
 1036
 02:01:24,952 --> 02:01:27,204
-umrzeæ.
+umrzeÄ‡.
 
 1037
 02:01:30,290 --> 02:01:33,794
-Czy my siê tak bardzo ró¿nimy?
+Czy my siÄ™ tak bardzo rÃ³Å¼nimy?
 
 1038
 02:01:33,877 --> 02:01:36,088
@@ -4364,36 +4363,36 @@ tak jak ja.
 
 1040
 02:01:38,090 --> 02:01:42,177
-Zosta³ mi jeszcze jeden do zabicia
-i bêdzie po wszystkim.
+ZostaÅ‚ mi jeszcze jeden do zabicia
+i bÄ™dzie po wszystkim.
 
 1041
 02:01:42,219 --> 02:01:45,180
-Wiêc zrób to teraz.
+WiÄ™c zrÃ³b to teraz.
 
 1042
 02:01:57,192 --> 02:01:59,736
-Mówili mi, ¿e twój synek...
+MÃ³wili mi, Å¼e twÃ³j synek...
 
 1043
 02:01:59,778 --> 02:02:02,781
-piszcza³ jak dziewczynka...
+piszczaÅ‚ jak dziewczynka...
 
 1044
 02:02:02,823 --> 02:02:05,784
-jak go przybijali do krzy¿a...
+jak go przybijali do krzyÅ¼a...
 
 1045
 02:02:06,201 --> 02:02:08,954
-a twoja ¿ona...
+a twoja Å¼ona...
 
 1046
 02:02:08,996 --> 02:02:11,540
-jêcza³a jak dziwka...
+jÄ™czaÅ‚a jak dziwka...
 
 1047
 02:02:11,582 --> 02:02:14,293
-jak j¹ gwa³cili...
+jak jÄ… gwaÅ‚cili...
 
 1048
 02:02:14,334 --> 02:02:17,004
@@ -4405,11 +4404,11 @@ jeden po drugim.
 
 1050
 02:02:24,595 --> 02:02:28,807
-Czas samochwalstwa dobiegnie wkrótce koñca...
+Czas samochwalstwa dobiegnie wkrÃ³tce koÅ„ca...
 
 1051
 02:02:32,978 --> 02:02:35,689
-Wasza Wysokoœæ.
+Wasza WysokoÅ›Ä‡.
 
 1052
 02:03:01,298 --> 02:03:03,675
@@ -4431,22 +4430,22 @@ Generale!
 
 1056
 02:03:28,200 --> 02:03:30,953
-- Kochamy ciê Maximusie!
-- Chwa³a zwyciêzcy!
+- Kochamy ciÄ™ Maximusie!
+- ChwaÅ‚a zwyciÄ™zcy!
 
 1057
 02:03:30,994 --> 02:03:33,789
-Powiedz ¿o³nierzom, ¿e ich genera³ ¿yje.
-ZnajdŸ mnie.
+Powiedz Å¼oÅ‚nierzom, Å¼e ich generaÅ‚ Å¼yje.
+ZnajdÅº mnie.
 
 1058
 02:03:33,830 --> 02:03:37,209
-- Ruszaæ siê!
-- ZnajdŸ mnie!
+- RuszaÄ‡ siÄ™!
+- ZnajdÅº mnie!
 
 1059
 02:04:01,108 --> 02:04:03,694
-S³ysz¹ ciê?
+SÅ‚yszÄ… ciÄ™?
 
 1060
 02:04:07,197 --> 02:04:08,448
@@ -4454,12 +4453,12 @@ Kto?
 
 1061
 02:04:08,490 --> 02:04:11,910
-Twoja rodzina, w zaœwiatach.
+Twoja rodzina, w zaÅ›wiatach.
 
 1062
 02:04:12,995 --> 02:04:16,206
 - O tak.
-- Co im mówisz?
+- Co im mÃ³wisz?
 
 1063
 02:04:19,209 --> 02:04:22,004
@@ -4467,15 +4466,15 @@ Mojemu synowi...
 
 1064
 02:04:22,588 --> 02:04:25,132
-mówiê, ¿e ju¿ nied³ugo siê zobaczymy...
+mÃ³wiÄ™, Å¼e juÅ¼ niedÅ‚ugo siÄ™ zobaczymy...
 
 1065
 02:04:25,174 --> 02:04:29,678
-i ¿eby trzyma³ piêty przy sobie jak jeŸdzi konno.
+i Å¼eby trzymaÅ‚ piÄ™ty przy sobie jak jeÅºdzi konno.
 
 1066
 02:04:30,095 --> 02:04:32,890
-A mojej ¿onie...
+A mojej Å¼onie...
 
 1067
 02:04:34,099 --> 02:04:36,894
@@ -4483,32 +4482,32 @@ nie twoja sprawa.
 
 1068
 02:04:43,775 --> 02:04:47,988
-Teraz kochaj¹ Maximusa za jego mi³osierdzie.
+Teraz kochajÄ… Maximusa za jego miÅ‚osierdzie.
 
 1069
 02:04:48,113 --> 02:04:53,076
-Wiêc nie mogê go ot tak zabiæ,
-bo by wygl¹da³o, ¿e jestem bezduszny.
+WiÄ™c nie mogÄ™ go ot tak zabiÄ‡,
+bo by wyglÄ…daÅ‚o, Å¼e jestem bezduszny.
 
 1070
 02:04:53,118 --> 02:04:56,914
-To wszystko to jakiœ okropny koszmar.
+To wszystko to jakiÅ› okropny koszmar.
 
 1071
 02:04:58,498 --> 02:05:00,459
-Prowokuje ciê.
+Prowokuje ciÄ™.
 
 1072
 02:05:00,501 --> 02:05:04,213
-Ka¿de jego zwyciêstwo jest wyzwaniem dla ciebie.
+KaÅ¼de jego zwyciÄ™stwo jest wyzwaniem dla ciebie.
 
 1073
 02:05:04,254 --> 02:05:07,508
-Lud to widzi i senat te¿.
+Lud to widzi i senat teÅ¼.
 
 1074
 02:05:08,300 --> 02:05:12,596
-Im d³u¿ej ¿yje tym masy staj¹ siê zuchwalsze.
+Im dÅ‚uÅ¼ej Å¼yje tym masy stajÄ… siÄ™ zuchwalsze.
 
 1075
 02:05:12,638 --> 02:05:15,474
@@ -4517,34 +4516,34 @@ Im d³u¿ej ¿yje tym masy staj¹ siê zuchwalsze.
 
 1076
 02:05:16,475 --> 02:05:20,103
-Nie uczyniê z niego mêczennika.
+Nie uczyniÄ™ z niego mÄ™czennika.
 
 1077
 02:05:25,692 --> 02:05:28,237
-Kiedy poszed³em dziœ do senatu...
+Kiedy poszedÅ‚em dziÅ› do senatu...
 
 1078
 02:05:28,278 --> 02:05:33,200
-specjalnie powiedzia³em im,
-¿e p³acê za igrzyska ziarnem.
+specjalnie powiedziaÅ‚em im,
+Å¼e pÅ‚acÄ™ za igrzyska ziarnem.
 
 1079
 02:05:34,910 --> 02:05:37,663
-Zauwa¿y³eœ co siê sta³o?
+ZauwaÅ¼yÅ‚eÅ› co siÄ™ staÅ‚o?
 
 1080
 02:05:37,704 --> 02:05:40,374
 - Nic.
-- W³aœnie... nic.
+- WÅ‚aÅ›nie... nic.
 
 1081
 02:05:41,291 --> 02:05:43,669
-Ani s³owa protestu.
+Ani sÅ‚owa protestu.
 
 1082
 02:05:43,710 --> 02:05:47,297
 Nawet bezczelny senator Gracchus
-siedzia³ cicho jak mysz.
+siedziaÅ‚ cicho jak mysz.
 
 1083
 02:05:47,339 --> 02:05:49,675
@@ -4552,161 +4551,161 @@ Dlaczego?
 
 1084
 02:05:50,300 --> 02:05:52,427
-Opowiedziano mi kiedyœ...
+Opowiedziano mi kiedyÅ›...
 
 1085
 02:05:52,511 --> 02:05:54,555
-o pewnym wê¿u morskim...
+o pewnym wÄ™Å¼u morskim...
 
 1086
 02:05:54,596 --> 02:05:58,976
-który ma niezwyk³¹ metodê wabienia swojej ofiary.
+ktÃ³ry ma niezwykÅ‚Ä… metodÄ™ wabienia swojej ofiary.
 
 1087
 02:05:59,017 --> 02:06:02,896
-Le¿y na dnie oceanu udaj¹c zranionego.
+LeÅ¼y na dnie oceanu udajÄ…c zranionego.
 
 1088
 02:06:03,689 --> 02:06:05,899
-Gdy jego wrogowie siê zbli¿aj¹...
+Gdy jego wrogowie siÄ™ zbliÅ¼ajÄ…...
 
 1089
 02:06:05,941 --> 02:06:08,986
-nadal le¿y bez ruchu.
+nadal leÅ¼y bez ruchu.
 
 1090
 02:06:09,111 --> 02:06:13,073
-Potem zaczynaj¹ go jeœæ po kawa³eczku...
+Potem zaczynajÄ… go jeÅ›Ä‡ po kawaÅ‚eczku...
 
 1091
 02:06:13,282 --> 02:06:16,577
-a on nadal le¿y bez ruchu.
+a on nadal leÅ¼y bez ruchu.
 
 1092
 02:06:19,913 --> 02:06:22,207
-Wiêc...
+WiÄ™c...
 
 1093
 02:06:22,291 --> 02:06:24,835
-my te¿ nie bêdziemy robiæ nic...
+my teÅ¼ nie bÄ™dziemy robiÄ‡ nic...
 
 1094
 02:06:24,877 --> 02:06:29,381
 i pozwolimy naszy wrogom
-przyjœæ do nas po ich k¹ski.
+przyjÅ›Ä‡ do nas po ich kÄ…ski.
 
 1095
 02:06:29,423 --> 02:06:32,509
-A senatorowie pod¹¿¹.
+A senatorowie podÄ…Å¼Ä….
 
 1096
 02:06:49,109 --> 02:06:52,696
-Cicero, mój drogi, myœla³em,
-¿e ju¿ ciê nie ujrzê.
+Cicero, mÃ³j drogi, myÅ›laÅ‚em,
+Å¼e juÅ¼ ciÄ™ nie ujrzÄ™.
 
 1097
 02:06:52,738 --> 02:06:55,949
-- Myœla³em, ¿e zgin¹³eœ.
+- MyÅ›laÅ‚em, Å¼e zginÄ…Å‚eÅ›.
 - Prawie.
 
 1098
 02:06:55,991 --> 02:06:59,369
-- Jak d³ugo obozujecie w Osti?
-- Ca³¹ zimê.
+- Jak dÅ‚ugo obozujecie w Osti?
+- CaÅ‚Ä… zimÄ™.
 
 1099
 02:06:59,453 --> 02:07:02,789
-- I jak siê wszyscy maj¹?
+- I jak siÄ™ wszyscy majÄ…?
 - Grubi i znudzeni.
 
 1100
 02:07:02,831 --> 02:07:06,710
 - Kto dowodzi?
-- Jakiœ g³upiec z Rzymu.
+- JakiÅ› gÅ‚upiec z Rzymu.
 
 1101
 02:07:07,503 --> 02:07:09,505
 Ile czasu im potrzeba,
-aby przygotowali siê do walki?
+aby przygotowali siÄ™ do walki?
 
 1102
 02:07:09,546 --> 02:07:12,758
-Dla ciebie, bêd¹ gotowi jutro.
+Dla ciebie, bÄ™dÄ… gotowi jutro.
 
 1103
 02:07:12,799 --> 02:07:16,595
-Chcia³bym, abyœ coœ dla mnie zrobi³.
+ChciaÅ‚bym, abyÅ› coÅ› dla mnie zrobiÅ‚.
 
 1104
 02:07:19,806 --> 02:07:24,603
-Prosimy. Jeœli nie byliœcie w œrodku
-mo¿ecie zobaczyæ przedstawienie u nas.
+Prosimy. JeÅ›li nie byliÅ›cie w Å›rodku
+moÅ¼ecie zobaczyÄ‡ przedstawienie u nas.
 
 1105
 02:07:24,645 --> 02:07:28,398
-Si³acz Maximus pokonuje
+SiÅ‚acz Maximus pokonuje
 naszego Cezara Commodusa.
 
 1106
 02:07:28,440 --> 02:07:32,611
-Co mamy uczyniæ?
+Co mamy uczyniÄ‡?
 Wszystkim stawia wyzwanie.
 
 1107
 02:07:33,695 --> 02:07:36,073
-O Bo¿e!
+O BoÅ¼e!
 
 1108
 02:07:37,491 --> 02:07:41,703
-- Trafi³ go. Pokona³ go!
+- TrafiÅ‚ go. PokonaÅ‚ go!
 - Z drogi! Z drogi!
 
 1109
 02:07:46,500 --> 02:07:49,503
-Moja Pani? S³u¿y³em twemu ojcu pod Vindobon¹.
+Moja Pani? SÅ‚uÅ¼yÅ‚em twemu ojcu pod VindobonÄ….
 
 1110
 02:07:49,545 --> 02:07:51,255
-- Odsuñ siê.
+- OdsuÅ„ siÄ™.
 - Moja Pani.
 
 1111
 02:07:51,296 --> 02:07:53,507
-S³u¿y³em twemu ojcu pod Vindobon¹.
+SÅ‚uÅ¼yÅ‚em twemu ojcu pod VindobonÄ….
 
 1112
 02:07:53,549 --> 02:07:54,758
-Odsuñ siê.
+OdsuÅ„ siÄ™.
 
 1113
 02:07:54,800 --> 02:07:59,012
-I s³u¿y³em genera³owi Maximusowi.
-Nadal mu s³u¿ê.
+I sÅ‚uÅ¼yÅ‚em generaÅ‚owi Maximusowi.
+Nadal mu sÅ‚uÅ¼Ä™.
 
 1114
 02:07:59,054 --> 02:08:01,223
-Zatrzymaj siê.
+Zatrzymaj siÄ™.
 
 1115
 02:08:01,265 --> 02:08:03,392
-Zatrzymaj siê.
+Zatrzymaj siÄ™.
 
 1116
 02:08:03,684 --> 02:08:06,186
-Odsuñ siê.
+OdsuÅ„ siÄ™.
 
 1117
 02:08:06,311 --> 02:08:11,191
-Genera³ prosi³ przekazaæ,
-¿e spotka siê z twoim politykiem.
+GeneraÅ‚ prosiÅ‚ przekazaÄ‡,
+Å¼e spotka siÄ™ z twoim politykiem.
 
 1118
 02:08:11,233 --> 02:08:12,693
-To za twoje oddanie ¿o³nierzu.
+To za twoje oddanie Å¼oÅ‚nierzu.
 
 1119
 02:08:12,734 --> 02:08:15,696
-Dziêkujê, moja Pani.
+DziÄ™kujÄ™, moja Pani.
 
 1120
 02:08:23,787 --> 02:08:26,373
@@ -4722,12 +4721,12 @@ Generale.
 
 1123
 02:08:48,687 --> 02:08:52,900
-Mam nadziejê, ¿e fakt ¿e siê tu zjawi³em
-jest wystarczaj¹cym dowodem na to...
+Mam nadziejÄ™, Å¼e fakt Å¼e siÄ™ tu zjawiÅ‚em
+jest wystarczajÄ…cym dowodem na to...
 
 1124
 02:08:52,941 --> 02:08:55,777
-¿e mo¿esz mi ufaæ.
+Å¼e moÅ¼esz mi ufaÄ‡.
 
 1125
 02:08:58,989 --> 02:09:02,993
@@ -4736,12 +4735,12 @@ jest wystarczaj¹cym dowodem na to...
 
 1126
 02:09:03,076 --> 02:09:06,288
-Tak. Mówiê w ich imieniu.
+Tak. MÃ³wiÄ™ w ich imieniu.
 
 1127
 02:09:06,413 --> 02:09:10,209
-Mo¿esz kupiæ moj¹ wolnoœæ
-i przemyciæ mnie z Rzymu?
+MoÅ¼esz kupiÄ‡ mojÄ… wolnoÅ›Ä‡
+i przemyciÄ‡ mnie z Rzymu?
 
 1128
 02:09:10,250 --> 02:09:12,794
@@ -4753,21 +4752,21 @@ Poza mury miasta.
 
 1130
 02:09:15,714 --> 02:09:18,008
-Przygotuj wypoczête konie,
-¿eby mnie zabra³y do Osti.
+Przygotuj wypoczÄ™te konie,
+Å¼eby mnie zabraÅ‚y do Osti.
 
 1131
 02:09:18,050 --> 02:09:20,135
-Moje wojsko ma tam obóz.
+Moje wojsko ma tam obÃ³z.
 
 1132
 02:09:20,177 --> 02:09:23,597
-Na drugi dzieñ o zmierzchu
-powrócê z 5 tysi¹cami ¿o³nierzy.
+Na drugi dzieÅ„ o zmierzchu
+powrÃ³cÄ™ z 5 tysiÄ…cami Å¼oÅ‚nierzy.
 
 1133
 02:09:23,639 --> 02:09:25,682
-Ale legiony maj¹ nowych wodzów...
+Ale legiony majÄ… nowych wodzÃ³w...
 
 1134
 02:09:25,724 --> 02:09:27,267
@@ -4775,52 +4774,52 @@ oddanych Commodusowi.
 
 1135
 02:09:27,309 --> 02:09:30,479
-Jak zobacz¹, ¿e ¿yjê to zobaczysz ich oddanie.
+Jak zobaczÄ…, Å¼e Å¼yjÄ™ to zobaczysz ich oddanie.
 
 1136
 02:09:30,521 --> 02:09:32,648
-To szaleñstwo.
+To szaleÅ„stwo.
 
 1137
 02:09:32,689 --> 02:09:36,193
-¯adna Rzymska armia nie wkroczy³a
-do miasta w przeci¹gu stuleci.
+Å»adna Rzymska armia nie wkroczyÅ‚a
+do miasta w przeciÄ…gu stuleci.
 
 1138
 02:09:36,235 --> 02:09:39,279
-Nie zamieniê jednej dyktatury na drug¹!
+Nie zamieniÄ™ jednej dyktatury na drugÄ…!
 
 1139
 02:09:39,321 --> 02:09:42,282
-Senatorze, czas na pó³œrodki siê skoñczy³.
+Senatorze, czas na pÃ³Å‚Å›rodki siÄ™ skoÅ„czyÅ‚.
 
 1140
 02:09:42,574 --> 02:09:46,411
-A co stanie siê po twoim wspania³ym wyczynie?
+A co stanie siÄ™ po twoim wspaniaÅ‚ym wyczynie?
 
 1141
 02:09:46,495 --> 02:09:50,290
-Zabierzesz swoich wojowników i wyjedziesz?
+Zabierzesz swoich wojownikÃ³w i wyjedziesz?
 
 1142
 02:09:50,332 --> 02:09:52,543
-Wyjadê.
+WyjadÄ™.
 
 1143
 02:09:52,584 --> 02:09:54,711
-¯o³nierze zostan¹ jako twoja ochrona...
+Å»oÅ‚nierze zostanÄ… jako twoja ochrona...
 
 1144
 02:09:54,753 --> 02:09:56,380
-pod wodz¹ senatu.
+pod wodzÄ… senatu.
 
 1145
 02:09:56,421 --> 02:09:57,965
-Wiêc...
+WiÄ™c...
 
 1146
 02:09:58,006 --> 02:10:02,177
-jak ju¿ Rzym bêdzie twój, oddasz go ludowi?
+jak juÅ¼ Rzym bÄ™dzie twÃ³j, oddasz go ludowi?
 
 1147
 02:10:03,595 --> 02:10:05,973
@@ -4828,31 +4827,31 @@ Dlaczego?
 
 1148
 02:10:10,686 --> 02:10:14,982
-Dlatego, ¿e by³a to ostatnia wola konaj¹cego.
+Dlatego, Å¼e byÅ‚a to ostatnia wola konajÄ…cego.
 
 1149
 02:10:16,984 --> 02:10:19,778
-Zabijê Commodusa.
+ZabijÄ™ Commodusa.
 
 1150
 02:10:20,696 --> 02:10:24,408
-A przysz³oœæ Rzymu zostawiê tobie.
+A przyszÅ‚oÅ›Ä‡ Rzymu zostawiÄ™ tobie.
 
 1151
 02:10:25,576 --> 02:10:28,787
-Marek Aureliusz ci ufa³.
+Marek Aureliusz ci ufaÅ‚.
 
 1152
 02:10:29,580 --> 02:10:32,499
-Jego córka ci ufa.
+Jego cÃ³rka ci ufa.
 
 1153
 02:10:35,711 --> 02:10:38,046
-Ja te¿ ci zaufam.
+Ja teÅ¼ ci zaufam.
 
 1154
 02:10:38,088 --> 02:10:40,340
-Ale mamy ma³o czasu.
+Ale mamy maÅ‚o czasu.
 
 1155
 02:10:40,382 --> 02:10:42,551
@@ -4860,7 +4859,7 @@ Daj mi dwa dni...
 
 1156
 02:10:42,593 --> 02:10:45,804
-a ja zap³acê za twoj¹ wolnoœæ.
+a ja zapÅ‚acÄ™ za twojÄ… wolnoÅ›Ä‡.
 
 1157
 02:10:45,846 --> 02:10:48,182
@@ -4868,55 +4867,55 @@ A ty...
 
 1158
 02:10:48,682 --> 02:10:51,685
-pozostañ przy ¿yciu...
+pozostaÅ„ przy Å¼yciu...
 
 1159
 02:10:51,727 --> 02:10:54,688
-albo ja przyp³acê swoim.
+albo ja przypÅ‚acÄ™ swoim.
 
 1160
 02:10:55,105 --> 02:10:57,691
-Musimy iœæ.
+Musimy iÅ›Ä‡.
 
 1161
 02:11:24,176 --> 02:11:28,096
-Bêdzie czeka³ na ciebie u stóp Kolosa.
+BÄ™dzie czekaÅ‚ na ciebie u stÃ³p Kolosa.
 
 1162
 02:11:28,138 --> 02:11:30,682
-Znajdzie ciê.
+Znajdzie ciÄ™.
 
 1163
 02:12:13,392 --> 02:12:16,186
-To siê nie uda.
+To siÄ™ nie uda.
 
 1164
 02:12:16,228 --> 02:12:18,981
-Cezar za du¿o wie.
+Cezar za duÅ¼o wie.
 
 1165
 02:12:19,273 --> 02:12:22,234
-A jeœli o mnie chodzi...
+A jeÅ›li o mnie chodzi...
 
 1166
 02:12:22,276 --> 02:12:25,487
-to wszystko staje siê niebezpieczne.
+to wszystko staje siÄ™ niebezpieczne.
 
 1167
 02:12:25,529 --> 02:12:28,907
-Zap³acê ci po moim powrocie.
+ZapÅ‚acÄ™ ci po moim powrocie.
 
 1168
 02:12:29,783 --> 02:12:31,952
-Dajê ci moje s³owo.
+DajÄ™ ci moje sÅ‚owo.
 
 1169
 02:12:31,994 --> 02:12:35,789
-Twoje s³owo? A co jeœli nie wrócisz?
+Twoje sÅ‚owo? A co jeÅ›li nie wrÃ³cisz?
 
 1170
 02:12:36,206 --> 02:12:39,293
-Pamiêtasz co to znaczy mieæ zaufanie, Proximo?
+PamiÄ™tasz co to znaczy mieÄ‡ zaufanie, Proximo?
 
 1171
 02:12:39,334 --> 02:12:41,712
@@ -4924,16 +4923,16 @@ Zaufanie?
 
 1172
 02:12:44,673 --> 02:12:47,134
-Komu mam ufaæ?
+Komu mam ufaÄ‡?
 
 1173
 02:12:47,176 --> 02:12:51,096
-- Zabijê Commodusa.
-- A dlaczegó¿ bym tego chcia³?
+- ZabijÄ™ Commodusa.
+- A dlaczegÃ³Å¼ bym tego chciaÅ‚?
 
 1174
 02:12:51,138 --> 02:12:54,600
-Dziêki niemu stajê siê bogaty.
+DziÄ™ki niemu stajÄ™ siÄ™ bogaty.
 
 1175
 02:12:55,601 --> 02:12:57,853
@@ -4941,19 +4940,19 @@ Wiem...
 
 1176
 02:12:57,895 --> 02:13:02,191
-wiem, ¿e jesteœ cz³owiekiem honoru, generale.
+wiem, Å¼e jesteÅ› czÅ‚owiekiem honoru, generale.
 
 1177
 02:13:02,482 --> 02:13:06,195
-Wiem, ¿e odda³byœ ¿ycie za honor.
+Wiem, Å¼e oddaÅ‚byÅ› Å¼ycie za honor.
 
 1178
 02:13:06,695 --> 02:13:09,531
-Odda³byœ ¿ycie za Rzym.
+OddaÅ‚byÅ› Å¼ycie za Rzym.
 
 1179
 02:13:09,573 --> 02:13:12,701
-Odda³byœ ¿ycie za pamiêæ swoich przodków.
+OddaÅ‚byÅ› Å¼ycie za pamiÄ™Ä‡ swoich przodkÃ³w.
 
 1180
 02:13:12,743 --> 02:13:15,204
@@ -4965,11 +4964,11 @@ ja jestem od rozrywki.
 
 1182
 02:13:23,003 --> 02:13:25,297
-Stra¿!
+StraÅ¼!
 
 1183
 02:13:29,009 --> 02:13:33,096
-On zabi³ cz³owieka, który da³ ci wolnoœæ.
+On zabiÅ‚ czÅ‚owieka, ktÃ³ry daÅ‚ ci wolnoÅ›Ä‡.
 
 1184
 02:13:40,395 --> 02:13:42,981
@@ -4977,15 +4976,15 @@ Pretorianie.
 
 1185
 02:13:48,779 --> 02:13:51,073
-Stój!
+StÃ³j!
 
 1186
 02:14:55,095 --> 02:14:57,723
-Gdzie siê podziewa³aœ?
+Gdzie siÄ™ podziewaÅ‚aÅ›?
 
 1187
 02:14:57,764 --> 02:15:00,309
-Pos³a³em po ciebie.
+PosÅ‚aÅ‚em po ciebie.
 
 1188
 02:15:00,475 --> 02:15:02,811
@@ -4993,11 +4992,11 @@ Bracie.
 
 1189
 02:15:07,774 --> 02:15:10,986
-Czym jesteœ zak³opotany?
+Czym jesteÅ› zakÅ‚opotany?
 
 1190
 02:15:12,112 --> 02:15:15,574
-Czy Gracchus ma now¹ kochankê?
+Czy Gracchus ma nowÄ… kochankÄ™?
 
 1191
 02:15:16,283 --> 02:15:18,702
@@ -5005,24 +5004,24 @@ Nie wiem.
 
 1192
 02:15:19,995 --> 02:15:22,831
-Myœla³em, ¿e siê z nim widzia³aœ.
+MyÅ›laÅ‚em, Å¼e siÄ™ z nim widziaÅ‚aÅ›.
 
 1193
 02:15:22,873 --> 02:15:26,877
-Zara¿a wszystkich jak wstrêtna gor¹czka.
+ZaraÅ¼a wszystkich jak wstrÄ™tna gorÄ…czka.
 
 1194
 02:15:27,211 --> 02:15:30,714
-Aby Rzym siê cieszy³ zdrowiem,
-senat musi krwawiæ.
+Aby Rzym siÄ™ cieszyÅ‚ zdrowiem,
+senat musi krwawiÄ‡.
 
 1195
 02:15:30,756 --> 02:15:33,800
-I on te¿ musi krwawiæ.
+I on teÅ¼ musi krwawiÄ‡.
 
 1196
 02:15:33,842 --> 02:15:36,178
-Wkrótce.
+WkrÃ³tce.
 
 1197
 02:15:36,678 --> 02:15:39,473
@@ -5030,11 +5029,11 @@ Ale nie dzisiaj.
 
 1198
 02:15:53,195 --> 02:15:57,407
-Pamiêtasz co nasz ojciec kiedyœ powiedzia³?
+PamiÄ™tasz co nasz ojciec kiedyÅ› powiedziaÅ‚?
 
 1199
 02:15:57,574 --> 02:15:59,993
-"¯ycie...
+"Å»ycie...
 
 1200
 02:16:00,994 --> 02:16:03,580
@@ -5046,7 +5045,7 @@ straszliwym snem. "
 
 1202
 02:16:09,586 --> 02:16:11,880
-Myœlisz, ¿e to prawda?
+MyÅ›lisz, Å¼e to prawda?
 
 1203
 02:16:11,922 --> 02:16:14,299
@@ -5054,31 +5053,31 @@ Nie wiem.
 
 1204
 02:16:17,386 --> 02:16:20,180
-Ja myœlê, ¿e tak.
+Ja myÅ›lÄ™, Å¼e tak.
 
 1205
 02:16:21,807 --> 02:16:25,978
-I mam tylko ciebie, ¿eby siê nim podzieliæ.
+I mam tylko ciebie, Å¼eby siÄ™ nim podzieliÄ‡.
 
 1206
 02:17:02,181 --> 02:17:04,808
-Otwórz usta.
+OtwÃ³rz usta.
 
 1207
 02:17:40,886 --> 02:17:44,014
-Wiesz, ¿e ciê kocham.
+Wiesz, Å¼e ciÄ™ kocham.
 
 1208
 02:17:44,806 --> 02:17:47,476
-Ja ciebie te¿.
+Ja ciebie teÅ¼.
 
 1209
 02:18:23,178 --> 02:18:25,681
-Wynoœ siê!
+WynoÅ› siÄ™!
 
 1210
 02:18:26,473 --> 02:18:28,809
-No ju¿!
+No juÅ¼!
 
 1211
 02:18:31,812 --> 02:18:33,939
@@ -5086,30 +5085,30 @@ Gratulacje generale.
 
 1212
 02:18:33,981 --> 02:18:37,901
-Masz bardzo przekonuj¹cych przyjació³.
+Masz bardzo przekonujÄ…cych przyjaciÃ³Å‚.
 
 1213
 02:18:42,781 --> 02:18:45,367
-Mój brat kaza³ aresztowaæ Gracchusa.
+MÃ³j brat kazaÅ‚ aresztowaÄ‡ Gracchusa.
 
 1214
 02:18:45,409 --> 02:18:49,288
-Nie mo¿emy d³u¿ej czekaæ.
-Musisz wyjechaæ dziœ w nocy.
+Nie moÅ¼emy dÅ‚uÅ¼ej czekaÄ‡.
+Musisz wyjechaÄ‡ dziÅ› w nocy.
 
 1215
 02:18:49,371 --> 02:18:53,208
-Proximo przyjdzie o pó³nocy
-i podprowadzi ciê pod wrota.
+Proximo przyjdzie o pÃ³Å‚nocy
+i podprowadzi ciÄ™ pod wrota.
 
 1216
 02:18:53,250 --> 02:18:57,713
-Twój s³uga Cicero bêdzie na ciebie
-czeka³ z koñmi.
+TwÃ³j sÅ‚uga Cicero bÄ™dzie na ciebie
+czekaÅ‚ z koÅ„mi.
 
 1217
 02:18:58,714 --> 02:19:00,674
-Ty to wszytko za³atwi³aœ?
+Ty to wszytko zaÅ‚atwiÅ‚aÅ›?
 
 1218
 02:19:00,716 --> 02:19:02,342
@@ -5121,62 +5120,62 @@ Ryzykujesz zbyt wiele.
 
 1220
 02:19:05,387 --> 02:19:08,307
-Muszê za wiele zap³aciæ.
+MuszÄ™ za wiele zapÅ‚aciÄ‡.
 
 1221
 02:19:09,308 --> 02:19:11,268
-Nie musisz za nic p³aciæ.
+Nie musisz za nic pÅ‚aciÄ‡.
 
 1222
 02:19:11,310 --> 02:19:15,480
 Kochasz swego syna.
-Jesteœ silna dla niego.
+JesteÅ› silna dla niego.
 
 1223
 02:19:17,900 --> 02:19:21,111
-Mêczy mnie bycie siln¹.
+MÄ™czy mnie bycie silnÄ….
 
 1224
 02:19:22,404 --> 02:19:26,700
-Mój brat nienawidzi ca³y œwiat,
+MÃ³j brat nienawidzi caÅ‚y Å›wiat,
 a najbardziej ciebie.
 
 1225
 02:19:26,742 --> 02:19:30,996
-- Dlatego, ¿e twój ojciec wybra³ mnie?
+- Dlatego, Å¼e twÃ³j ojciec wybraÅ‚ mnie?
 - Nie.
 
 1226
 02:19:31,496 --> 02:19:35,209
-Dlatego, ¿e mój ojciec ciê kocha³.
+Dlatego, Å¼e mÃ³j ojciec ciÄ™ kochaÅ‚.
 
 1227
 02:19:37,711 --> 02:19:41,381
-I dlatego, ¿e ja ciebie kocha³am.
+I dlatego, Å¼e ja ciebie kochaÅ‚am.
 
 1228
 02:19:42,674 --> 02:19:45,385
-To by³o dawno.
+To byÅ‚o dawno.
 
 1229
 02:19:49,181 --> 02:19:52,809
-Czy by³am wtedy tak bardzo inna?
+Czy byÅ‚am wtedy tak bardzo inna?
 
 1230
 02:19:57,689 --> 02:20:00,692
-Wiêcej siê œmia³aœ.
+WiÄ™cej siÄ™ Å›miaÅ‚aÅ›.
 
 1231
 02:20:03,612 --> 02:20:07,157
-Ca³e ¿ycie czu³am siê samotna...
+CaÅ‚e Å¼ycie czuÅ‚am siÄ™ samotna...
 
 1232
 02:20:07,199 --> 02:20:10,702
-oprócz czasu jak by³am z tob¹.
+oprÃ³cz czasu jak byÅ‚am z tobÄ….
 
 1233
 02:20:12,079 --> 02:20:14,081
-Muszê iœæ.
+MuszÄ™ iÅ›Ä‡.
 
 1234
 02:20:14,122 --> 02:20:16,291
@@ -5188,15 +5187,15 @@ I tak. I tak.
 
 1236
 02:20:56,498 --> 02:20:59,001
-I mam ciê.
+I mam ciÄ™.
 
 1237
 02:21:01,086 --> 02:21:03,213
-Czy¿ nie za póŸno na zabawê w legionistê?
+CzyÅ¼ nie za pÃ³Åºno na zabawÄ™ w legionistÄ™?
 
 1238
 02:21:03,255 --> 02:21:05,465
-Nie jestem legionist¹.
+Nie jestem legionistÄ….
 
 1239
 02:21:05,507 --> 02:21:08,886
@@ -5209,12 +5208,12 @@ Gladiatorem?
 
 1241
 02:21:11,513 --> 02:21:14,349
-Gladiatorzy walcz¹ tylko podczas igrzysk.
+Gladiatorzy walczÄ… tylko podczas igrzysk.
 
 1242
 02:21:14,391 --> 02:21:17,686
-Nie wola³byœ byæ wielkim wojownikiem
-jak na przyk³ad Juliusz Cezar?
+Nie wolaÅ‚byÅ› byÄ‡ wielkim wojownikiem
+jak na przykÅ‚ad Juliusz Cezar?
 
 1243
 02:21:17,728 --> 02:21:21,190
@@ -5226,7 +5225,7 @@ Zbawca Rzymu?
 
 1245
 02:21:33,076 --> 02:21:35,787
-A kto tak mówi?
+A kto tak mÃ³wi?
 
 1246
 02:21:43,378 --> 02:21:46,298
@@ -5238,20 +5237,20 @@ Z Cezarem.
 
 1248
 02:21:51,803 --> 02:21:54,348
-- Niemo¿liwe.
-- Zrobi³a to.
+- NiemoÅ¼liwe.
+- ZrobiÅ‚a to.
 
 1249
 02:21:54,389 --> 02:21:56,892
-Wziê³a go z koszyczka...
+WziÄ™Å‚a go z koszyczka...
 
 1250
 02:21:57,184 --> 02:22:01,313
-i przytuli³a do piersi, nad samym sercem.
+i przytuliÅ‚a do piersi, nad samym sercem.
 
 1251
 02:22:02,606 --> 02:22:04,983
-Ugryz³ j¹ w pierœ?
+UgryzÅ‚ jÄ… w pierÅ›?
 
 1252
 02:22:05,025 --> 02:22:06,443
@@ -5263,76 +5262,76 @@ Widzisz Luciuszu, czasami damy dworu...
 
 1254
 02:22:11,073 --> 02:22:14,910
-zachowuj¹ siê bardzo dziwnie w imiê mi³oœci.
+zachowujÄ… siÄ™ bardzo dziwnie w imiÄ™ miÅ‚oÅ›ci.
 
 1255
 02:22:14,952 --> 02:22:17,287
-To niezbyt m¹dre.
+To niezbyt mÄ…dre.
 
 1256
 02:22:17,329 --> 02:22:19,456
-Te¿ tak myœlê.
+TeÅ¼ tak myÅ›lÄ™.
 
 1257
 02:22:19,498 --> 02:22:21,542
-Te¿ tak myœlê.
+TeÅ¼ tak myÅ›lÄ™.
 
 1258
 02:22:21,583 --> 02:22:23,669
-Siostro, do³¹cz do nas.
+Siostro, doÅ‚Ä…cz do nas.
 
 1259
 02:22:23,710 --> 02:22:26,004
-Czyta³em w³aœnie naszemu drogiemu Luciuszowi.
+CzytaÅ‚em wÅ‚aÅ›nie naszemu drogiemu Luciuszowi.
 
 1260
 02:22:26,046 --> 02:22:28,632
-- Ja te¿ czyta³em.
+- Ja teÅ¼ czytaÅ‚em.
 - Tak.
 
 1261
 02:22:28,674 --> 02:22:33,804
-Jest bardzo sprytnym ch³opcem.
-Bêdzie z niego wspania³y Cezar.
+Jest bardzo sprytnym chÅ‚opcem.
+BÄ™dzie z niego wspaniaÅ‚y Cezar.
 
 1262
 02:22:33,887 --> 02:22:37,808
-Czytaliœmy o wspania³ym
+CzytaliÅ›my o wspaniaÅ‚ym
 Marku Antoniuszu i jego wyprawach.
 
 1263
 02:22:37,850 --> 02:22:39,852
-A królow¹ zabi³ w¹¿.
+A krÃ³lowÄ… zabiÅ‚ wÄ…Å¼.
 
 1264
 02:22:39,893 --> 02:22:44,064
-Zaczekaj a¿ us³yszysz co siê sta³o
+Zaczekaj aÅ¼ usÅ‚yszysz co siÄ™ staÅ‚o
 z naszymi przodkami.
 
 1265
 02:22:44,106 --> 02:22:49,278
-Jak bêdziesz grzeczny, to jutro
+Jak bÄ™dziesz grzeczny, to jutro
 opowiem ci o Cezarze Klaudiuszu.
 
 1266
 02:22:49,903 --> 02:22:52,656
-Zosta³ zdradzony...
+ZostaÅ‚ zdradzony...
 
 1267
 02:22:52,698 --> 02:22:56,076
-przez swoich najbli¿szych...
+przez swoich najbliÅ¼szych...
 
 1268
 02:22:56,577 --> 02:22:59,204
-w³asn¹ krew.
+wÅ‚asnÄ… krew.
 
 1269
 02:22:59,788 --> 02:23:02,374
-Zmawiali siê w ciemnych zakamarkach...
+Zmawiali siÄ™ w ciemnych zakamarkach...
 
 1270
 02:23:02,416 --> 02:23:04,376
-spotykali siê póŸno w nocy...
+spotykali siÄ™ pÃ³Åºno w nocy...
 
 1271
 02:23:04,418 --> 02:23:07,045
@@ -5344,55 +5343,55 @@ i spiskowali.
 
 1273
 02:23:10,799 --> 02:23:14,720
-Ale Klaudiusz wiedzia³, ¿e oni coœ knuli.
+Ale Klaudiusz wiedziaÅ‚, Å¼e oni coÅ› knuli.
 
 1274
 02:23:14,803 --> 02:23:18,682
-Wiedzia³, ¿e pracowali jak pszczó³ki.
+WiedziaÅ‚, Å¼e pracowali jak pszczÃ³Å‚ki.
 
 1275
 02:23:19,183 --> 02:23:22,978
-Jednego wieczoru usiad³ z jedn¹ z nich...
+Jednego wieczoru usiadÅ‚ z jednÄ… z nich...
 
 1276
 02:23:23,020 --> 02:23:25,856
-spojrza³ na ni¹...
+spojrzaÅ‚ na niÄ…...
 
 1277
 02:23:25,898 --> 02:23:28,650
-i powiedzia³...
+i powiedziaÅ‚...
 
 1278
 02:23:28,692 --> 02:23:31,778
-"Powiedz, czym by³aœ tak zajêta...
+"Powiedz, czym byÅ‚aÅ› tak zajÄ™ta...
 
 1279
 02:23:31,820 --> 02:23:34,406
-pszczó³ko...
+pszczÃ³Å‚ko...
 
 1280
 02:23:35,908 --> 02:23:40,329
-albo bêdê musia³ siê pozbyæ twoich najbli¿szych.
+albo bÄ™dÄ™ musiaÅ‚ siÄ™ pozbyÄ‡ twoich najbliÅ¼szych.
 
 1281
 02:23:40,370 --> 02:23:44,708
-A ty bêdziesz patrzeæ jak k¹piê siê w ich krwi".
+A ty bÄ™dziesz patrzeÄ‡ jak kÄ…piÄ™ siÄ™ w ich krwi".
 
 1282
 02:23:46,585 --> 02:23:49,880
-Z³ama³o to serce Cezarowi.
+ZÅ‚amaÅ‚o to serce Cezarowi.
 
 1283
 02:23:51,298 --> 02:23:53,800
-Ta ma³a pszczó³ka zrani³a go bardziej...
+Ta maÅ‚a pszczÃ³Å‚ka zraniÅ‚a go bardziej...
 
 1284
 02:23:53,842 --> 02:23:56,803
-ni¿ ktokolwiek inny.
+niÅ¼ ktokolwiek inny.
 
 1285
 02:23:58,514 --> 02:24:02,309
-Jak myœlisz Luciuszu, co siê potem wydarzy³o?
+Jak myÅ›lisz Luciuszu, co siÄ™ potem wydarzyÅ‚o?
 
 1286
 02:24:02,351 --> 02:24:05,103
@@ -5400,11 +5399,11 @@ Nie wiem, wujku.
 
 1287
 02:24:10,400 --> 02:24:14,613
-Ma³a pszczó³ka o wszystkim mu opowiedzia³a.
+MaÅ‚a pszczÃ³Å‚ka o wszystkim mu opowiedziaÅ‚a.
 
 1288
 02:25:11,086 --> 02:25:14,298
-Otwieraæ! W imiê Cezara!
+OtwieraÄ‡! W imiÄ™ Cezara!
 
 1289
 02:25:14,798 --> 02:25:16,967
@@ -5412,19 +5411,19 @@ Proximo!
 
 1290
 02:25:17,009 --> 02:25:20,387
-Otwórz bramê, w imiê Cezara!
+OtwÃ³rz bramÄ™, w imiÄ™ Cezara!
 
 1291
 02:25:24,474 --> 02:25:27,186
-Otwórz bramê!
+OtwÃ³rz bramÄ™!
 
 1292
 02:25:31,773 --> 02:25:34,735
-Proximo, otwórz bramê!
+Proximo, otwÃ³rz bramÄ™!
 
 1293
 02:25:34,776 --> 02:25:37,696
-Czy chcesz umrzeæ starcze?
+Czy chcesz umrzeÄ‡ starcze?
 
 1294
 02:25:37,738 --> 02:25:39,740
@@ -5436,56 +5435,56 @@ Wszystko gotowe.
 
 1296
 02:25:41,909 --> 02:25:45,954
-Wygl¹da na to, ¿e wygra³eœ swoj¹ wolnoœæ.
+WyglÄ…da na to, Å¼e wygraÅ‚eÅ› swojÄ… wolnoÅ›Ä‡.
 
 1297
 02:25:45,996 --> 02:25:51,210
-Jesteœ niebezpiecznie blisko stania siê
-szlachetnym cz³owiekiem.
+JesteÅ› niebezpiecznie blisko stania siÄ™
+szlachetnym czÅ‚owiekiem.
 
 1298
 02:25:53,212 --> 02:25:57,174
 - Juba.
-- Wszyscy wrogowie Cezara zgin¹!
+- Wszyscy wrogowie Cezara zginÄ…!
 
 1299
 02:25:57,799 --> 02:26:00,511
-Otwórz bramê!
+OtwÃ³rz bramÄ™!
 
 1300
 02:26:05,182 --> 02:26:07,601
-Ci¹gnij!
+CiÄ…gnij!
 
 1301
 02:26:09,394 --> 02:26:13,273
-Ruszaæ siê!
-Utwórzcie kolumnê z lewej.
+RuszaÄ‡ siÄ™!
+UtwÃ³rzcie kolumnÄ™ z lewej.
 
 1302
 02:26:15,484 --> 02:26:19,363
-Potrzebujê tylko chwilê, uwa¿ajcie na siebie.
+PotrzebujÄ™ tylko chwilÄ™, uwaÅ¼ajcie na siebie.
 
 1303
 02:26:19,404 --> 02:26:21,907
-Jeœli nie chcecie siê w to mieszaæ,
+JeÅ›li nie chcecie siÄ™ w to mieszaÄ‡,
 wracajcie do swoich celi.
 
 1304
 02:26:21,949 --> 02:26:23,909
-Bêdziemy na ciebie czekaæ Maximusie.
+BÄ™dziemy na ciebie czekaÄ‡ Maximusie.
 
 1305
 02:26:23,951 --> 02:26:26,995
-- Si³a i honor.
-- IdŸ.
+- SiÅ‚a i honor.
+- IdÅº.
 
 1306
 02:26:27,913 --> 02:26:30,582
-Si³a i honor.
+SiÅ‚a i honor.
 
 1307
 02:26:32,084 --> 02:26:35,379
-Do celu. Naci¹gn¹æ strza³y!
+Do celu. NaciÄ…gnÄ…Ä‡ strzaÅ‚y!
 
 1308
 02:27:42,487 --> 02:27:45,199
@@ -5497,27 +5496,27 @@ Wybacz mi.
 
 1310
 02:28:59,982 --> 02:29:02,609
-Za³atwione.
+ZaÅ‚atwione.
 
 1311
 02:29:08,490 --> 02:29:10,993
-A co z moim siostrzeñcem?
+A co z moim siostrzeÅ„cem?
 
 1312
 02:29:11,034 --> 02:29:13,787
-Co z jego matk¹?
+Co z jego matkÄ…?
 
 1313
 02:29:15,497 --> 02:29:19,585
-Czy powinna podzieliæ los jej ukochanego?
+Czy powinna podzieliÄ‡ los jej ukochanego?
 
 1314
 02:29:19,710 --> 02:29:23,380
-Czy te¿ powinienem byæ mi³osierny?
+Czy teÅ¼ powinienem byÄ‡ miÅ‚osierny?
 
 1315
 02:29:24,381 --> 02:29:27,384
-Commodus Mi³osierny.
+Commodus MiÅ‚osierny.
 
 1316
 02:29:32,890 --> 02:29:36,185
@@ -5525,7 +5524,7 @@ Luciusz zostanie przy mnie.
 
 1317
 02:29:36,310 --> 02:29:39,396
-A jeœli jego matka...
+A jeÅ›li jego matka...
 
 1318
 02:29:39,479 --> 02:29:42,691
@@ -5537,19 +5536,19 @@ nie tak jak trzeba...
 
 1320
 02:29:47,196 --> 02:29:50,073
-on zap³aci ¿yciem.
+on zapÅ‚aci Å¼yciem.
 
 1321
 02:29:52,201 --> 02:29:54,703
-Jeœli postanowi...
+JeÅ›li postanowi...
 
 1322
 02:29:54,745 --> 02:29:57,164
-byæ szlachetn¹...
+byÄ‡ szlachetnÄ…...
 
 1323
 02:29:57,206 --> 02:30:00,375
-i odebraæ sobie ¿ycie...
+i odebraÄ‡ sobie Å¼ycie...
 
 1324
 02:30:00,792 --> 02:30:03,212
@@ -5557,15 +5556,15 @@ on umrze.
 
 1325
 02:30:05,797 --> 02:30:09,092
-A jeœli chodzi o ciebie...
+A jeÅ›li chodzi o ciebie...
 
 1326
 02:30:10,385 --> 02:30:13,263
-bêdziesz mnie kochaæ...
+bÄ™dziesz mnie kochaÄ‡...
 
 1327
 02:30:13,347 --> 02:30:16,183
-jak ja ciebie kocha³em.
+jak ja ciebie kochaÅ‚em.
 
 1328
 02:30:16,391 --> 02:30:18,769
@@ -5581,35 +5580,35 @@ tak, aby Commodus i jego potomstwo...
 
 1331
 02:30:24,149 --> 02:30:27,402
-rz¹dzi³o przez tysi¹clecia.
+rzÄ…dziÅ‚o przez tysiÄ…clecia.
 
 1332
 02:30:30,989 --> 02:30:34,284
-Czy¿ nie jestem mi³osierny?
+CzyÅ¼ nie jestem miÅ‚osierny?
 
 1333
 02:30:54,596 --> 02:30:57,891
-Czy¿ nie jestem mi³osierny?
+CzyÅ¼ nie jestem miÅ‚osierny?
 
 1334
 02:32:31,193 --> 02:32:33,779
-Wo³aj¹ ciê.
+WoÅ‚ajÄ… ciÄ™.
 
 1335
 02:32:34,905 --> 02:32:36,657
-Genera³...
+GeneraÅ‚...
 
 1336
 02:32:36,698 --> 02:32:39,535
-który sta³ siê niewolnikiem.
+ktÃ³ry staÅ‚ siÄ™ niewolnikiem.
 
 1337
 02:32:39,576 --> 02:32:43,455
-Niewolnik, który sta³ siê gladiatorem.
+Niewolnik, ktÃ³ry staÅ‚ siÄ™ gladiatorem.
 
 1338
 02:32:43,539 --> 02:32:47,376
-Gladiator, który rzuci³ wyzwanie Cezarowi.
+Gladiator, ktÃ³ry rzuciÅ‚ wyzwanie Cezarowi.
 
 1339
 02:32:48,001 --> 02:32:50,712
@@ -5617,24 +5616,24 @@ Co za historia.
 
 1340
 02:32:50,879 --> 02:32:55,676
-Teraz ludzie chc¹ wiedzieæ
-jak ta historia siê zakoñczy.
+Teraz ludzie chcÄ… wiedzieÄ‡
+jak ta historia siÄ™ zakoÅ„czy.
 
 1341
 02:32:56,510 --> 02:32:59,680
-Tylko œmieræ ich ucieszy.
+Tylko Å›mierÄ‡ ich ucieszy.
 
 1342
 02:33:00,597 --> 02:33:03,892
-A có¿ mo¿e byæ lepszego...
+A cÃ³Å¼ moÅ¼e byÄ‡ lepszego...
 
 1343
 02:33:04,101 --> 02:33:08,397
-ni¿ walka z samym Cezarem na wspania³ej arenie?
+niÅ¼ walka z samym Cezarem na wspaniaÅ‚ej arenie?
 
 1344
 02:33:09,606 --> 02:33:11,608
-Walczy³byœ ze mn¹?
+WalczyÅ‚byÅ› ze mnÄ…?
 
 1345
 02:33:11,650 --> 02:33:13,735
@@ -5642,66 +5641,66 @@ Dlaczego nie?
 
 1346
 02:33:13,777 --> 02:33:16,655
-Myœlisz, ¿e siê bojê?
+MyÅ›lisz, Å¼e siÄ™ bojÄ™?
 
 1347
 02:33:16,697 --> 02:33:19,449
-Myœlê, ¿e siê ba³eœ ca³e swoje ¿ycie.
+MyÅ›lÄ™, Å¼e siÄ™ baÅ‚eÅ› caÅ‚e swoje Å¼ycie.
 
 1348
 02:33:19,491 --> 02:33:24,204
-Nie jak Maximus Nieœmiertelny,
-który nie zna strachu.
+Nie jak Maximus NieÅ›miertelny,
+ktÃ³ry nie zna strachu.
 
 1349
 02:33:29,209 --> 02:33:33,589
-Pewien cz³owiek kiedyœ powiedzia³:
-"Œmieræ uœmiecha siê do wszystkich.
+Pewien czÅ‚owiek kiedyÅ› powiedziaÅ‚:
+"ÅšmierÄ‡ uÅ›miecha siÄ™ do wszystkich.
 
 1350
 02:33:33,630 --> 02:33:37,885
-Wszystko co mo¿esz zrobiæ,
-to uœmiechn¹æ siê do niej."
+Wszystko co moÅ¼esz zrobiÄ‡,
+to uÅ›miechnÄ…Ä‡ siÄ™ do niej."
 
 1351
 02:33:37,926 --> 02:33:39,761
-Zastanawiam siê.
+Zastanawiam siÄ™.
 
 1352
 02:33:39,803 --> 02:33:43,182
-Czy twój przyjaciel uœmiecha³ siê do œmierci?
+Czy twÃ³j przyjaciel uÅ›miechaÅ‚ siÄ™ do Å›mierci?
 
 1353
 02:33:43,223 --> 02:33:46,393
-Ty powinieneœ wiedzieæ.
+Ty powinieneÅ› wiedzieÄ‡.
 
 1354
 02:33:47,394 --> 02:33:50,314
-To by³ twój ojciec.
+To byÅ‚ twÃ³j ojciec.
 
 1355
 02:33:53,108 --> 02:33:56,403
-Kocha³eœ mego ojca, wiem...
+KochaÅ‚eÅ› mego ojca, wiem...
 
 1356
 02:33:56,904 --> 02:33:59,990
-ale i ja go kocha³em.
+ale i ja go kochaÅ‚em.
 
 1357
 02:34:00,199 --> 02:34:04,077
-To by czyni³o nas braæmi, nieprawda¿?
+To by czyniÅ‚o nas braÄ‡mi, nieprawdaÅ¼?
 
 1358
 02:34:05,287 --> 02:34:08,707
-Uœmiechnij siê teraz, bracie.
+UÅ›miechnij siÄ™ teraz, bracie.
 
 1359
 02:34:12,878 --> 02:34:16,590
-Umocuj dobrze zbrojê. Ukryj ranê.
+Umocuj dobrze zbrojÄ™. Ukryj ranÄ™.
 
 1360
 02:35:10,310 --> 02:35:12,980
-Utworzyæ ko³o!
+UtworzyÄ‡ koÅ‚o!
 
 1361
 02:37:04,508 --> 02:37:07,135
@@ -5709,15 +5708,15 @@ Quintus, miecz.
 
 1362
 02:37:07,219 --> 02:37:09,805
-Daj mi swój miecz.
+Daj mi swÃ³j miecz.
 
 1363
 02:37:12,182 --> 02:37:15,477
-Miecz. Daj mi swój miecz.
+Miecz. Daj mi swÃ³j miecz.
 
 1364
 02:37:15,686 --> 02:37:18,480
-Schowaæ miecze.
+SchowaÄ‡ miecze.
 
 1365
 02:39:46,295 --> 02:39:49,131
@@ -5725,23 +5724,23 @@ Uwolnij moich ludzi.
 
 1366
 02:39:49,173 --> 02:39:52,885
-Senatora Gracchusa przywróæ na stanowisko.
+Senatora Gracchusa przywrÃ³Ä‡ na stanowisko.
 
 1367
 02:39:52,926 --> 02:39:56,096
-Istnia³o marzenie o Rzymie.
+IstniaÅ‚o marzenie o Rzymie.
 
 1368
 02:39:56,138 --> 02:39:58,765
-Niech siê teraz spe³ni.
+Niech siÄ™ teraz speÅ‚ni.
 
 1369
 02:39:58,807 --> 02:40:02,102
-To by³y ¿yczenia Marka Aureliusza.
+To byÅ‚y Å¼yczenia Marka Aureliusza.
 
 1370
 02:40:02,144 --> 02:40:05,314
-Uwolnij wiêŸniów. No ju¿!
+Uwolnij wiÄ™ÅºniÃ³w. No juÅ¼!
 
 1371
 02:40:32,090 --> 02:40:35,302
@@ -5749,43 +5748,43 @@ Luciusz jest bezpieczny.
 
 1372
 02:40:49,900 --> 02:40:52,486
-IdŸ do nich.
+IdÅº do nich.
 
 1373
 02:41:41,076 --> 02:41:43,787
-Jesteœ w domu.
+JesteÅ› w domu.
 
 1374
 02:42:08,604 --> 02:42:12,691
-Czy Rzym jest wart ¿ycia dobrego cz³owieka?
+Czy Rzym jest wart Å¼ycia dobrego czÅ‚owieka?
 
 1375
 02:42:15,611 --> 02:42:18,780
-Wierzyliœmy w to kiedyœ.
+WierzyliÅ›my w to kiedyÅ›.
 
 1376
 02:42:20,490 --> 02:42:24,203
-Spraw, byœmy znowu w to uwierzyli.
+Spraw, byÅ›my znowu w to uwierzyli.
 
 1377
 02:42:26,288 --> 02:42:29,374
-To by³ ¿o³nierz Rzymu.
+To byÅ‚ Å¼oÅ‚nierz Rzymu.
 
 1378
 02:42:32,085 --> 02:42:34,796
-Oddajcie mu w³aœciw¹ czeœæ.
+Oddajcie mu wÅ‚aÅ›ciwÄ… czeÅ›Ä‡.
 
 1379
 02:42:34,838 --> 02:42:37,508
-Kto mi pomo¿e go przenieœæ?
+Kto mi pomoÅ¼e go przenieÅ›Ä‡?
 
 1380
 02:43:20,801 --> 02:43:23,512
-Jesteœmy wolni.
+JesteÅ›my wolni.
 
 1381
 02:43:28,892 --> 02:43:31,812
-Zobaczê ciê znowu.
+ZobaczÄ™ ciÄ™ znowu.
 
 1382
 02:43:33,814 --> 02:43:36,483
@@ -5797,6 +5796,6 @@ Jeszcze nie teraz.
 
 1384
 02:43:48,194 --> 02:43:52,144
-www.NapiProjekt.pl - nowa jakoœæ napisów.
-Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.
+www.NapiProjekt.pl - nowa jakoÅ›Ä‡ napisÃ³w.
+Napisy zostaÅ‚y specjalnie dopasowane do Twojej wersji filmu.
 
