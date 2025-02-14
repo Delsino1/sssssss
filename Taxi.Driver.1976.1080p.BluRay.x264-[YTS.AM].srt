@@ -1,0 +1,5141 @@
+1
+00:00:45,963 --> 00:00:50,008
+<font color=#FFFF00><b>TAKSÓWKARZ</b></font>
+
+2
+00:02:28,607 --> 00:02:30,400
+Harry, odbierz.
+
+3
+00:02:33,403 --> 00:02:35,614
+Czemu chcesz to robiæ, Bickle?
+
+4
+00:02:35,864 --> 00:02:37,282
+Nie mogê spaæ.
+
+5
+00:02:37,533 --> 00:02:41,245
+- Na to s¹ kina porno.
+- Próbowa³em ju¿ tego.
+
+6
+00:02:45,999 --> 00:02:47,543
+A teraz co robisz?
+
+7
+00:02:47,793 --> 00:02:51,630
+Teraz? Je¿d¿ê przez ca³¹ noc.
+Metrem, autobusami.
+
+8
+00:02:51,880 --> 00:02:54,675
+Równie dobrze mogê na tym zarabiaæ.
+
+9
+00:02:54,967 --> 00:02:57,219
+Chcesz pracowaæ w Harlemie?
+
+10
+00:02:57,427 --> 00:02:59,179
+Wszêdzie, o ka¿dej porze.
+
+11
+00:02:59,471 --> 00:03:00,764
+¯ydowskie œwiêta?
+
+12
+00:03:01,098 --> 00:03:02,724
+Wszystko mi jedno.
+
+13
+00:03:02,975 --> 00:03:05,435
+Poka¿ prawo jazdy.
+
+14
+00:03:08,021 --> 00:03:09,189
+Wykroczenia?
+
+15
+00:03:09,439 --> 00:03:10,482
+Jestem czysty.
+
+16
+00:03:10,732 --> 00:03:12,734
+Czysty jak moje sumienie.
+
+17
+00:03:12,985 --> 00:03:16,780
+Mam doœæ k³opotów.
+Jeœli chcesz mi utrudniaæ ¿ycie,
+
+18
+00:03:16,989 --> 00:03:19,825
+to mo¿esz siê st¹d zabieraæ.
+
+19
+00:03:20,534 --> 00:03:22,953
+Przepraszam.
+
+20
+00:03:24,621 --> 00:03:26,331
+- Zdrowie?
+- W porz¹dku.
+
+21
+00:03:26,540 --> 00:03:28,333
+- Wiek?
+- 26 lat.
+
+22
+00:03:28,584 --> 00:03:30,252
+Wykszta³cenie?
+
+23
+00:03:30,669 --> 00:03:31,920
+Uczy³em siê...
+
+24
+00:03:33,172 --> 00:03:34,214
+... tu i tam.
+
+25
+00:03:38,051 --> 00:03:39,511
+S³u¿ba wojskowa?
+
+26
+00:03:39,720 --> 00:03:41,930
+Zwolniony z honorami.
+
+27
+00:03:42,389 --> 00:03:44,433
+W maju 1973.
+
+28
+00:03:44,683 --> 00:03:46,643
+- By³eœ w armii?
+- W marines.
+
+29
+00:03:48,812 --> 00:03:50,898
+Ja te¿.
+
+30
+00:03:53,483 --> 00:03:55,277
+O co chodzi?
+
+31
+00:03:55,569 --> 00:03:57,571
+O dodatkow¹ robotê?
+
+32
+00:03:58,405 --> 00:04:00,073
+Walisz "na dwa baty"?
+
+33
+00:04:01,700 --> 00:04:04,077
+Chcê po prostu du¿o pracowaæ.
+
+34
+00:04:04,328 --> 00:04:05,746
+Jak to "na dwa baty"?
+
+35
+00:04:05,954 --> 00:04:07,164
+S³uchaj, ...
+
+36
+00:04:07,414 --> 00:04:09,958
+...wype³nij ten formularz
+i wróæ jutro.
+
+37
+00:04:11,418 --> 00:04:13,086
+O'Brien, rusz siê.
+
+38
+00:04:13,295 --> 00:04:15,839
+PojedŸ 58. Ulic¹.
+
+39
+00:04:16,089 --> 00:04:17,883
+Na 57. jest korek.
+
+40
+00:05:13,438 --> 00:05:15,148
+<i>Dziesi¹ty maja.</i>
+
+41
+00:05:15,566 --> 00:05:18,277
+<i>Dziêki Bogu za deszcz, który zmy³</i>
+
+42
+00:05:18,485 --> 00:05:21,113
+<i>z chodników ca³y brud i œmieci.</i>
+
+43
+00:05:22,114 --> 00:05:23,907
+<i>Du¿o teraz pracujê.</i>
+
+44
+00:05:24,157 --> 00:05:27,911
+<i>Od szóstej wieczorem do szóstej,
+czasem ósmej rano.</i>
+
+45
+00:05:28,161 --> 00:05:31,248
+<i>Szeœæ, siedem dni w tygodniu.</i>
+
+46
+00:05:31,498 --> 00:05:34,376
+<i>To ciê¿ka praca, ale zabija czas.</i>
+
+47
+00:05:34,626 --> 00:05:36,837
+<i>Mam oko³o 350 dolców tygodniowo.</i>
+
+48
+00:05:37,087 --> 00:05:39,631
+<i>Wiêcej, gdy nie w³¹czam licznika.</i>
+
+49
+00:06:04,531 --> 00:06:07,075
+<i>Noc¹ wy³a¿¹ wszystkie zwierzêta.</i>
+
+50
+00:06:07,784 --> 00:06:12,331
+<i>Kurwy, alfonsy, peda³y, transwestyci,
+narkomani, dilerzy.</i>
+
+51
+00:06:14,041 --> 00:06:15,501
+<i>Brudna forsa.</i>
+
+52
+00:06:18,754 --> 00:06:23,091
+<i>Pewnego dnia spadnie prawdziwy
+deszcz i zmyje ca³y ten brud.</i>
+
+53
+00:06:30,474 --> 00:06:35,062
+<i>Je¿d¿ê wszêdzie. Zabieram ludzi
+do Bronksu, Brooklynu, Harlemu.</i>
+
+54
+00:06:35,270 --> 00:06:38,232
+<i>Nie robi mi to ¿adnej ró¿nicy.</i>
+
+55
+00:06:38,857 --> 00:06:42,027
+<i>Niektórym tak.
+Nawet nie bior¹ czarnych.</i>
+
+56
+00:06:42,277 --> 00:06:43,820
+<i>Mnie wszystko jedno.</i>
+
+57
+00:06:44,071 --> 00:06:45,656
+Proszê na róg 48. i 6.
+
+58
+00:06:45,864 --> 00:06:49,952
+Jesteœ boska!
+Œliczna dziewczynka.
+
+59
+00:06:52,829 --> 00:06:54,748
+Byleby nas nie zatrzymali.
+
+60
+00:06:54,957 --> 00:06:57,125
+Tego byœmy nie chcieli.
+
+61
+00:06:57,793 --> 00:07:01,046
+Postaraj siê, to dostaniesz napiwek.
+
+62
+00:07:01,588 --> 00:07:03,173
+Niez³a jesteœ.
+
+63
+00:07:06,426 --> 00:07:08,512
+M¹dra dziewczynka!
+
+64
+00:07:08,887 --> 00:07:11,223
+JedŸ trochê szybciej!
+
+65
+00:07:49,136 --> 00:07:53,974
+<i>Ka¿dej nocy po pracy œcieram
+z tylnego siedzenia spermê.</i>
+
+66
+00:07:58,812 --> 00:08:01,273
+<i>Czasem wycieram krew.</i>
+
+67
+00:08:16,955 --> 00:08:19,124
+<b>TYLKO DLA DOROS£YCH</b>
+
+68
+00:08:34,723 --> 00:08:36,141
+S³ucham?
+
+69
+00:08:36,391 --> 00:08:38,393
+Jak masz na imiê?
+
+70
+00:08:38,602 --> 00:08:39,978
+Ja jestem Travis.
+
+71
+00:08:40,229 --> 00:08:42,981
+To mi³o.
+Co dla ciebie?
+
+72
+00:08:44,274 --> 00:08:46,735
+Chcia³bym poznaæ twoje imiê.
+
+73
+00:08:48,278 --> 00:08:49,279
+Daj mi spokój.
+
+74
+00:08:49,488 --> 00:08:53,408
+Powiedz, jak masz na imiê.
+Nic ci nie zrobiê.
+
+75
+00:08:53,784 --> 00:08:57,204
+- Mam zawo³aæ szefa?
+- Nie musisz...
+
+76
+00:08:57,412 --> 00:08:58,372
+Troy!
+
+77
+00:08:58,580 --> 00:09:00,916
+Dobra, nie ma sprawy.
+
+78
+00:09:02,501 --> 00:09:05,295
+Poproszê chuckle.
+
+79
+00:09:06,171 --> 00:09:10,592
+Masz juju?
+Starcza na d³u¿ej.
+
+80
+00:09:10,801 --> 00:09:13,011
+Mamy to, co widaæ.
+
+81
+00:09:21,812 --> 00:09:23,647
+Wezmê to.
+
+82
+00:09:26,233 --> 00:09:27,484
+I coca-colê.
+
+83
+00:09:27,776 --> 00:09:31,572
+Mamy tylko royal crown cola.
+
+84
+00:09:32,906 --> 00:09:34,908
+1,85$.
+
+85
+00:09:57,055 --> 00:10:00,350
+<i>12 godzin pracy, a ja dalej
+nie mogê spaæ.</i>
+
+86
+00:10:01,268 --> 00:10:02,477
+<i>Cholera.</i>
+
+87
+00:10:02,728 --> 00:10:06,773
+<i>Dni ci¹gn¹ siê jeden za drugim.
+Bez koñca.</i>
+
+88
+00:10:08,275 --> 00:10:11,653
+<i>Potrzebujê w ¿yciu jakiegoœ celu.</i>
+
+89
+00:10:11,904 --> 00:10:16,241
+<i>Nie mo¿na skupiaæ siê
+tylko na sobie.</i>
+
+90
+00:10:16,491 --> 00:10:19,786
+<i>Trzeba byæ kimœ, jak inni.</i>
+
+91
+00:10:22,706 --> 00:10:27,085
+<i>Zobaczy³em j¹ w biurze
+wyborczym Palantine'a.</i>
+
+92
+00:10:28,253 --> 00:10:31,048
+<i>Mia³a na sobie bia³¹ sukienkê.</i>
+
+93
+00:10:31,381 --> 00:10:33,717
+<i>Wygl¹da³a jak anio³...</i>
+
+94
+00:10:34,176 --> 00:10:36,845
+<i>na tle tego brudnego t³umu.</i>
+
+95
+00:10:37,095 --> 00:10:38,931
+<i>Jest sama.</i>
+
+96
+00:10:40,265 --> 00:10:41,642
+<i>Oni...</i>
+
+97
+00:10:42,142 --> 00:10:43,519
+<i>nie mog¹...</i>
+
+98
+00:10:44,102 --> 00:10:45,395
+<i>jej...</i>
+
+99
+00:10:46,230 --> 00:10:47,481
+<i>tkn¹æ.</i>
+
+100
+00:10:52,819 --> 00:10:53,946
+<b>WYBIERZ PALANTINE'A</b>
+
+101
+00:10:56,615 --> 00:10:58,700
+<b>PALANTINE NA PREZYDENTA</b>
+
+102
+00:10:59,993 --> 00:11:04,832
+Przys³aliœcie 2 kartony.
+To chyba 5000 znaczków.
+
+103
+00:11:05,082 --> 00:11:08,377
+Nasze has³o: "My jesteœmy ludem" ...
+
+104
+00:11:08,627 --> 00:11:11,296
+...ma podkreœlony wyraz
+"jesteœmy".
+
+105
+00:11:11,547 --> 00:11:14,007
+Na znaczkach podkreœlone jest "my".
+
+106
+00:11:14,258 --> 00:11:18,804
+Czyli: "MY jesteœmy ludem".
+To chyba ró¿nica.
+
+107
+00:11:19,012 --> 00:11:22,933
+"My JESTEŒMY ludem",
+a "MY jesteœmy ludem".
+
+108
+00:11:23,350 --> 00:11:25,227
+Nie k³óæmy siê.
+
+109
+00:11:25,936 --> 00:11:28,146
+Sprawa jest prosta.
+
+110
+00:11:28,397 --> 00:11:30,482
+MY nie zap³acimy za znaczki.
+
+111
+00:11:30,732 --> 00:11:35,028
+- MY je wyrzucimy.
+- Tom, pozwól na chwilê.
+
+112
+00:11:36,572 --> 00:11:37,948
+Co jest?
+
+113
+00:11:45,747 --> 00:11:50,252
+Gdy Andy to zatwierdzi, wyœlij kopie
+do wszystkich komitetów.
+
+114
+00:11:50,460 --> 00:11:52,754
+Skserujê ten artyku³
+z "New York Times'a".
+
+115
+00:11:53,005 --> 00:11:55,507
+- Pamiêtaj o zdjêciach.
+- Pamiêtam.
+
+116
+00:11:55,716 --> 00:11:59,970
+Trzeba popchn¹æ sprawê
+opieki socjalnej.
+
+117
+00:12:00,179 --> 00:12:02,055
+Najpierw popchnij faceta.
+
+118
+00:12:02,264 --> 00:12:04,266
+Palantine to aktywny, inteligentny...
+
+119
+00:12:04,516 --> 00:12:07,519
+... i fascynuj¹cy cz³owiek.
+
+120
+00:12:07,728 --> 00:12:08,896
+I seksowny.
+
+121
+00:12:09,104 --> 00:12:10,480
+Tak jest.
+
+122
+00:12:10,731 --> 00:12:13,317
+Brzmisz jak reklama p³ynu do ust.
+
+123
+00:12:13,525 --> 00:12:14,568
+Sprzedajemy go.
+
+124
+00:12:14,818 --> 00:12:16,987
+- Mamy pozwolenie?
+- Œmieszne.
+
+125
+00:12:17,196 --> 00:12:20,240
+Wpadniesz w k³opoty
+sprzedaj¹c tu leki.
+
+126
+00:12:20,449 --> 00:12:22,993
+Mój wuj trafi³ za to do wiêzienia.
+
+127
+00:12:23,619 --> 00:12:27,331
+Ale z jego ¿on¹
+wszystko jest wiêzieniem.
+
+128
+00:12:27,539 --> 00:12:28,832
+Spójrz tam.
+
+129
+00:12:29,082 --> 00:12:30,292
+Kocham ciê.
+
+130
+00:12:30,501 --> 00:12:31,627
+Zauwa¿y³eœ coœ?
+
+131
+00:12:31,835 --> 00:12:34,046
+- Nie.
+- Za³ó¿ okulary.
+
+132
+00:12:34,296 --> 00:12:36,840
+Chwileczkê.
+
+133
+00:12:37,049 --> 00:12:39,343
+Ten taksówkarz patrzy na nas.
+
+134
+00:12:48,852 --> 00:12:49,895
+Taksówkarz?
+
+135
+00:12:50,145 --> 00:12:52,231
+Tam na wprost.
+
+136
+00:12:52,481 --> 00:12:55,817
+- Od dawna tam stoi?
+- Takie mam wra¿enie.
+
+137
+00:12:56,568 --> 00:12:58,862
+- Przeszkadza ci to?
+- Nie.
+
+138
+00:12:59,154 --> 00:13:01,156
+Chyba tak. Jesteœ cyniczna.
+
+139
+00:13:01,365 --> 00:13:03,242
+A ty bardzo szybki.
+
+140
+00:13:03,450 --> 00:13:04,993
+Staram siê.
+
+141
+00:13:05,244 --> 00:13:07,454
+Spróbujê byæ mê¿czyzn¹...
+
+142
+00:13:07,663 --> 00:13:08,914
+¯yczê szczêœcia.
+
+143
+00:13:09,164 --> 00:13:12,459
+Zajmê siê nim.
+I nie potrzebujê szczêœcia.
+
+144
+00:13:12,709 --> 00:13:15,420
+Tak ci siê tylko wydaje.
+
+145
+00:13:23,554 --> 00:13:27,432
+Blokuje nam pan wejœcie.
+Proszê odjechaæ.
+
+146
+00:15:08,158 --> 00:15:10,869
+Cienie do powiek, tusz, ...
+
+147
+00:15:11,328 --> 00:15:12,579
+... szminka, ró¿.
+
+148
+00:15:12,830 --> 00:15:15,666
+Babki mówi¹ na to "rumieniec".
+
+149
+00:15:16,583 --> 00:15:20,254
+- Taki z pêdzelkiem.
+- W³aœnie. Rumieniec.
+
+150
+00:15:23,590 --> 00:15:27,135
+- Czeœæ, Magik.
+- Moja ¿ona tego u¿ywa.
+
+151
+00:15:27,761 --> 00:15:29,429
+Spytaj kobieciarza.
+
+152
+00:15:30,722 --> 00:15:32,057
+Kawê.
+
+153
+00:15:32,266 --> 00:15:35,060
+Mniejsza o nazwê, du¿o tego u¿ywa.
+
+154
+00:15:35,269 --> 00:15:37,688
+I jeszcze perfumy. W sprayu.
+
+155
+00:15:37,938 --> 00:15:40,399
+Na samym œrodku mostu Triboro...
+
+156
+00:15:40,607 --> 00:15:43,819
+... ta piêkna kobieta
+zmienia poñczochy.
+
+157
+00:15:44,069 --> 00:15:45,320
+- Nie...!
+- Tak.
+
+158
+00:15:45,529 --> 00:15:46,405
+Co zrobi³eœ?
+
+159
+00:15:46,905 --> 00:15:50,826
+Wywalam faceta, wskakujê na tylne
+siedzenie i wyci¹gam go.
+
+160
+00:15:51,076 --> 00:15:53,203
+Pytam: "Wiesz, co to jest?".
+
+161
+00:15:53,871 --> 00:15:56,206
+A ona: "To mi³oœæ".
+I pakujê j¹.
+
+162
+00:15:56,415 --> 00:16:00,961
+Powiedzia³a, ¿e to najwspanialszy
+moment w jej ¿yciu.
+
+163
+00:16:01,253 --> 00:16:04,715
+Da³a mi 200 dolców napiwku
+i telefon w Acapulco.
+
+164
+00:16:06,175 --> 00:16:08,218
+Znasz kasiarza, Charliego T.
+
+165
+00:16:10,179 --> 00:16:12,639
+Czeœæ, Travis. Rozmienisz 5 centów?
+
+166
+00:16:12,848 --> 00:16:15,225
+Kasiarz zrobi wszystko za dolara.
+
+167
+00:16:17,686 --> 00:16:19,479
+Jak leci?
+
+168
+00:16:23,734 --> 00:16:25,110
+Co siê sta³o?
+
+169
+00:16:27,779 --> 00:16:31,992
+S³ysza³em w radiu,
+¿e pociêli kierowcê z Bella.
+
+170
+00:16:32,242 --> 00:16:33,243
+Napad?
+
+171
+00:16:33,452 --> 00:16:37,206
+Nie, to jakiœ œwir.
+Odci¹³ mu pó³ ucha.
+
+172
+00:16:37,414 --> 00:16:38,290
+Gdzie?
+
+173
+00:16:38,499 --> 00:16:41,043
+Na 122. Ulicy.
+
+174
+00:16:42,419 --> 00:16:43,629
+Pieprzone Mau Mau.
+
+175
+00:16:47,341 --> 00:16:49,927
+Travis, ty jeŸdzisz wszêdzie?
+
+176
+00:16:59,603 --> 00:17:01,813
+JeŸdzisz po ca³ym mieœcie?
+
+177
+00:17:02,481 --> 00:17:04,858
+Masz trudnych klientów.
+
+178
+00:17:05,108 --> 00:17:06,610
+Pewnie.
+
+179
+00:17:07,110 --> 00:17:08,695
+Wozisz gnata?
+
+180
+00:17:10,322 --> 00:17:11,823
+Potrzebujesz?
+
+181
+00:17:12,908 --> 00:17:15,786
+Znam kolesia, który mo¿e tanio za³atwiæ.
+
+182
+00:17:16,036 --> 00:17:17,871
+Du¿o tu gnoju.
+
+183
+00:17:18,163 --> 00:17:20,541
+Ja swojego nie u¿ywam.
+
+184
+00:17:22,000 --> 00:17:24,628
+Ale dobrze mieæ dla postrachu.
+
+185
+00:17:35,681 --> 00:17:37,891
+Wracam na moje œmieci.
+
+186
+00:17:42,271 --> 00:17:43,522
+Spójrz.
+
+187
+00:17:44,398 --> 00:17:46,859
+Kawa³ek wanny Errola Flynna.
+
+188
+00:17:47,568 --> 00:17:48,986
+Kumasz symbole?
+
+189
+00:17:49,236 --> 00:17:53,031
+F-4-0-5-4-3-4.
+
+190
+00:17:54,199 --> 00:17:56,034
+I znak wodny.
+
+191
+00:17:56,243 --> 00:17:57,953
+Jedna osoba, ...
+
+192
+00:17:58,203 --> 00:17:59,830
+... dwie osoby, ...
+
+193
+00:18:00,038 --> 00:18:01,665
+... trzy osoby.
+
+194
+00:18:01,915 --> 00:18:03,959
+Kupi³em to w jego rezydencji.
+
+195
+00:18:04,168 --> 00:18:08,130
+WeŸ. Jak sprzedasz,
+po³owa forsy jest twoja.
+
+196
+00:18:08,714 --> 00:18:10,424
+Nie chcê.
+
+197
+00:18:11,091 --> 00:18:13,343
+No to spadam.
+
+198
+00:18:28,400 --> 00:18:30,777
+Strasznie przepraszam.
+
+199
+00:18:31,778 --> 00:18:32,654
+Psikus!
+
+200
+00:18:32,863 --> 00:18:34,823
+Sprytne, dziêki.
+
+201
+00:18:35,073 --> 00:18:36,909
+Chcesz coœ zobaczyæ?
+
+202
+00:18:37,701 --> 00:18:40,662
+W³aœnie napisa³em:
+"Chcesz coœ zobaczyæ?".
+
+203
+00:18:42,706 --> 00:18:46,126
+Gdybyœ nie mia³ 3 palców
+u tej d³oni...
+
+204
+00:18:46,335 --> 00:18:48,587
+... i ¿adnych u drugiej, ...
+
+205
+00:18:49,630 --> 00:18:52,466
+- ... to jak zapali³byœ zapa³kê?
+- Wcale.
+
+206
+00:18:52,841 --> 00:18:54,843
+Chocia¿ spróbuj.
+
+207
+00:18:56,678 --> 00:18:58,805
+Nie dam rady.
+
+208
+00:18:59,056 --> 00:19:00,307
+Nie?
+
+209
+00:19:00,557 --> 00:19:02,184
+To bêdzie trudne.
+
+210
+00:19:02,601 --> 00:19:04,228
+Spróbujê.
+
+211
+00:19:11,985 --> 00:19:15,072
+Na chwilê odzyska³em kciuk.
+Dziêki Bogu.
+
+212
+00:19:16,365 --> 00:19:17,783
+Chwilê.
+
+213
+00:19:25,582 --> 00:19:26,834
+Nie potrafiê.
+
+214
+00:19:27,334 --> 00:19:29,086
+Facet w kiosku potrafi.
+
+215
+00:19:29,294 --> 00:19:31,338
+Ja nie pracujê w kiosku.
+
+216
+00:19:32,881 --> 00:19:34,591
+- To pewnie W³och.
+- Nie.
+
+217
+00:19:34,842 --> 00:19:36,385
+- Nie?
+- Jest czarny.
+
+218
+00:19:36,593 --> 00:19:39,930
+Gdyby by³ W³ochem, móg³by byæ z³odziejem.
+
+219
+00:19:40,180 --> 00:19:43,767
+Gdyby spieprzy³ robotê,
+mafia obciê³aby mu palce.
+
+220
+00:19:44,101 --> 00:19:46,520
+Brzmi jak ¿art, ale to prawda.
+
+221
+00:19:46,728 --> 00:19:49,898
+Na zw³okach kapusia zostawiaj¹ kanarka.
+
+222
+00:19:50,107 --> 00:19:53,402
+- Symbolicznie.
+- A dlaczego nie go³êbia?
+
+223
+00:19:53,610 --> 00:19:56,321
+Nie wiem.
+Czekaj...
+
+224
+00:19:56,530 --> 00:20:00,409
+Go³êbia trzeba z³apaæ.
+A kanarka kupujesz w sklepie...
+
+225
+00:20:00,617 --> 00:20:03,412
+... i zabijasz na miejscu.
+Prosta sprawa.
+
+226
+00:20:30,314 --> 00:20:33,734
+- Chcê zg³osiæ siê do pomocy.
+- Proszê do mnie.
+
+227
+00:20:33,984 --> 00:20:36,612
+Wola³bym rozmawiaæ z pani¹.
+
+228
+00:20:40,449 --> 00:20:42,701
+Dlaczego akurat ze mn¹?
+
+229
+00:20:42,910 --> 00:20:47,039
+Bo jesteœ najpiêkniejsz¹ kobiet¹,
+jak¹ widzia³em w ¿yciu.
+
+230
+00:20:49,625 --> 00:20:50,834
+Dziêkujê.
+
+231
+00:20:51,084 --> 00:20:53,295
+Ale co myœlisz o Palantine'ie?
+
+232
+00:20:58,800 --> 00:21:01,970
+O cz³owieku, któremu chcesz pomóc?
+
+233
+00:21:03,764 --> 00:21:08,769
+Nie znam jego programu, ale na pewno
+bêdzie dobrym prezydentem.
+
+234
+00:21:10,646 --> 00:21:13,065
+- Chcesz zabiegaæ o g³osy?
+- Tak.
+
+235
+00:21:13,357 --> 00:21:15,859
+A jego program socjalny?
+
+236
+00:21:16,068 --> 00:21:20,531
+Nie znam jego opinii na ten temat,
+ale na pewno jest s³uszna.
+
+237
+00:21:20,781 --> 00:21:22,282
+Jesteœ pewien?
+
+238
+00:21:26,036 --> 00:21:28,330
+Pracujemy tu dzieñ i noc,
+
+239
+00:21:28,580 --> 00:21:31,708
+tamci panowie na pewno
+przyjm¹ ochotnika.
+
+240
+00:21:31,959 --> 00:21:36,463
+K³opot w tym, ¿e prowadzê
+noc¹ taksówkê, wiêc trudno mi...
+
+241
+00:21:36,713 --> 00:21:38,841
+... pracowaæ w dzieñ.
+
+242
+00:21:40,384 --> 00:21:42,094
+Wiêc o co ci chodzi?
+
+243
+00:21:42,302 --> 00:21:45,055
+Posz³abyœ ze mn¹ na kawê i ciastko?
+
+244
+00:21:45,264 --> 00:21:46,515
+Dlaczego?
+
+245
+00:21:46,765 --> 00:21:48,934
+Powiem ci dlaczego.
+
+246
+00:21:50,519 --> 00:21:52,229
+Bo jesteœ samotna.
+
+247
+00:21:52,771 --> 00:21:55,065
+Czêsto têdy przeje¿d¿am i widzê.
+
+248
+00:21:55,274 --> 00:21:57,276
+Widzê wokó³ t³um ludzi, ...
+
+249
+00:21:57,484 --> 00:22:00,571
+... telefony i wszystkie
+te rzeczy na biurku, ...
+
+250
+00:22:00,779 --> 00:22:02,114
+... co nic nie znacz¹.
+
+251
+00:22:02,364 --> 00:22:04,449
+A gdy tu wszed³em, ...
+
+252
+00:22:04,700 --> 00:22:07,411
+... zobaczy³em w twoich oczach, ...
+
+253
+00:22:07,661 --> 00:22:09,830
+... ¿e nie jesteœ szczêœliwa.
+
+254
+00:22:10,455 --> 00:22:12,207
+Czegoœ ci potrzeba.
+
+255
+00:22:12,416 --> 00:22:15,294
+Mo¿e chodzi o przyjaŸñ.
+
+256
+00:22:16,086 --> 00:22:18,380
+Bêdziesz moim przyjacielem?
+
+257
+00:22:27,514 --> 00:22:29,016
+Co ty na to?
+
+258
+00:22:33,187 --> 00:22:36,857
+Trudno tak tu staæ i prosiæ,
+wiêc gdybyœ mog³a...
+
+259
+00:22:41,153 --> 00:22:44,823
+Tylko na 5 minut. Tutaj obok.
+
+260
+00:22:45,032 --> 00:22:46,742
+Obroniê ciê.
+
+261
+00:22:52,831 --> 00:22:55,083
+Zrób sobie ma³¹ przerwê.
+
+262
+00:22:58,003 --> 00:23:00,339
+Mam przerwê o 16:00.
+
+263
+00:23:00,589 --> 00:23:01,632
+O 16:00?
+
+264
+00:23:02,799 --> 00:23:05,719
+- Bêdê.
+- Nie w¹tpiê.
+
+265
+00:23:06,136 --> 00:23:08,847
+- Dobra. O 16:00.
+- Zgadza siê.
+
+266
+00:23:09,431 --> 00:23:11,767
+- Przed wejœciem?
+- Tak.
+
+267
+00:23:12,476 --> 00:23:14,937
+Mam na imiê Travis.
+Betsy?
+
+268
+00:23:18,357 --> 00:23:20,526
+Dziêkujê ci, Betsy.
+
+269
+00:23:35,207 --> 00:23:37,459
+<i>26 maja, 16:00.</i>
+
+270
+00:23:37,751 --> 00:23:41,588
+<i>Zabra³em Betsy do Charlesa
+na Columbus Circle.</i>
+
+271
+00:23:42,631 --> 00:23:47,219
+<i>Zamówi³em kawê i szarlotkê
+z plasterkiem roztopionego sera.</i>
+
+272
+00:23:47,427 --> 00:23:49,680
+<i>Myœlê, ¿e to by³ dobry wybór.</i>
+
+273
+00:23:49,888 --> 00:23:52,224
+<i>Betsy zamówi³a sa³atkê owocow¹.</i>
+
+274
+00:23:52,432 --> 00:23:54,351
+<i>Mog³a zamówiæ wszystko.</i>
+
+275
+00:23:54,560 --> 00:23:57,271
+15 000 ochotników, nieŸle.
+
+276
+00:23:57,521 --> 00:23:59,314
+Ale organizacja pracy!
+
+277
+00:24:01,400 --> 00:24:04,444
+Wiem, co masz na myœli.
+Znam ten problem.
+
+278
+00:24:04,695 --> 00:24:09,741
+Muszê siê zorganizowaæ.
+Zaj¹æ siê mieszkaniem i tak dalej.
+
+279
+00:24:10,534 --> 00:24:14,371
+Powieszê sobie napis:
+"Pewnego dnia siê zorganizozujê".
+
+280
+00:24:14,621 --> 00:24:16,248
+Raczej "zorganizujê".
+
+281
+00:24:16,456 --> 00:24:18,333
+Zorganizo-zujê.
+
+282
+00:24:18,584 --> 00:24:21,003
+To taki dowcip.
+
+283
+00:24:21,879 --> 00:24:24,464
+Z-O-R-G-E-N-I-Z-O-Z-U-J-Ê.
+
+284
+00:24:24,715 --> 00:24:28,969
+Rozumiem. Jak te napisy
+w biurach, np. "Przemyœl siê".
+
+285
+00:24:35,142 --> 00:24:36,560
+Lubisz swoj¹ pracê?
+
+286
+00:24:37,978 --> 00:24:41,899
+Mamy kilku dobrych ludzi.
+Palantine ma du¿e szanse.
+
+287
+00:24:46,028 --> 00:24:48,113
+Wiesz, ¿e masz piêkne oczy?
+
+288
+00:24:54,703 --> 00:24:56,788
+A facet, z którym pracujesz?
+
+289
+00:24:57,039 --> 00:24:58,624
+Jest w porz¹dku.
+
+290
+00:25:00,501 --> 00:25:01,877
+Ale czy go lubisz?
+
+291
+00:25:02,377 --> 00:25:06,840
+Jest œmieszny i dobry w tym, co robi.
+Ma parê problemów.
+
+292
+00:25:07,049 --> 00:25:09,218
+Chyba wiêcej ni¿ parê.
+
+293
+00:25:10,969 --> 00:25:14,014
+Zu¿ywa swoj¹ energiê
+na niew³aœciwe rzeczy.
+
+294
+00:25:14,640 --> 00:25:17,434
+Gdy wszed³em i zobaczy³em was razem,
+
+295
+00:25:17,643 --> 00:25:22,105
+poczu³em, ¿e nie ma miêdzy wami
+¿adnej ³¹cznoœci.
+
+296
+00:25:22,356 --> 00:25:25,567
+I poczu³em te¿, ¿e jest coœ miêdzy nami.
+
+297
+00:25:25,817 --> 00:25:28,487
+Jakiœ wspólny impuls.
+
+298
+00:25:28,737 --> 00:25:31,406
+Dlatego podszed³em do ciebie.
+
+299
+00:25:31,615 --> 00:25:35,369
+Inaczej nie mia³bym prawa
+rozmawiaæ z tob¹.
+
+300
+00:25:35,619 --> 00:25:38,580
+I nigdy bym siê na to nie odwa¿y³.
+
+301
+00:25:39,498 --> 00:25:41,959
+A miêdzy wami nie by³o nic.
+
+302
+00:25:42,167 --> 00:25:45,254
+Czu³em, ¿e tak w³aœnie jest.
+Czu³aœ to samo?
+
+303
+00:25:48,841 --> 00:25:51,134
+Inaczej bym tu nie przysz³a.
+
+304
+00:25:53,470 --> 00:25:54,721
+Sk¹d jesteœ?
+
+305
+00:25:55,514 --> 00:25:56,431
+Z pó³nocy.
+
+306
+00:26:00,519 --> 00:26:02,145
+Nie lubiê tego faceta.
+
+307
+00:26:02,354 --> 00:26:05,357
+To znaczy myœlê, ¿e nie jest zbyt m¹dry.
+
+308
+00:26:07,818 --> 00:26:10,070
+Nie szanuje ciê.
+
+309
+00:26:11,196 --> 00:26:14,324
+Nigdy nie spotka³am
+kogoœ takiego jak ty.
+
+310
+00:26:25,669 --> 00:26:27,379
+Czy chcesz pójœæ...
+
+311
+00:26:28,714 --> 00:26:30,382
+... ze mn¹ do kina?
+
+312
+00:26:30,924 --> 00:26:34,887
+- Muszê wracaæ do pracy.
+- Nie teraz, kiedy indziej.
+
+313
+00:26:41,310 --> 00:26:43,854
+Jasne.
+Wiesz, co mi przypominasz?
+
+314
+00:26:44,771 --> 00:26:45,731
+Co?
+
+315
+00:26:45,981 --> 00:26:47,191
+Pewn¹ piosenkê...
+
+316
+00:26:48,483 --> 00:26:51,445
+... Krisa Kristoffersona.
+
+317
+00:26:54,072 --> 00:26:54,907
+Kto to?
+
+318
+00:26:55,365 --> 00:26:57,034
+Piosenkarz.
+
+319
+00:26:57,242 --> 00:26:58,785
+<i>"To prorok...</i>
+
+320
+00:26:59,036 --> 00:27:00,746
+<i>To prorok i przestêpca, ...</i>
+
+321
+00:27:00,954 --> 00:27:05,000
+<i>... chodz¹ca sprzecznoœæ.
+Trochê prawdy, trochê kpiny".</i>
+
+322
+00:27:06,668 --> 00:27:08,086
+To ma byæ o mnie?
+
+323
+00:27:08,295 --> 00:27:10,005
+A o kim mówiê?
+
+324
+00:27:10,589 --> 00:27:12,299
+Nie jestem przestêpc¹.
+
+325
+00:27:13,759 --> 00:27:16,220
+Chodzi mi o sprzecznoœci.
+
+326
+00:27:16,470 --> 00:27:18,263
+S¹ w tobie.
+
+327
+00:27:48,877 --> 00:27:52,673
+<i>Zadzwoni³em do Betsy.
+Spyta³em, czy pójdzie do kina...</i>
+
+328
+00:27:52,881 --> 00:27:55,801
+<i>... jutro po pracy.
+To mój wolny dzieñ.</i>
+
+329
+00:27:56,051 --> 00:28:00,180
+<i>Waha³a siê, ale zadzwoni³em
+jeszcze raz i zgodzi³a siê.</i>
+
+330
+00:28:01,682 --> 00:28:03,350
+<i>Betsy, Betsy...
+Och, nie...!</i>
+
+331
+00:28:03,600 --> 00:28:06,270
+<i>Zapomnia³em spytaæ j¹ o nazwisko!</i>
+
+332
+00:28:06,478 --> 00:28:09,773
+<i>Do diab³a!
+Muszê pamiêtaæ o takich rzeczach.</i>
+
+333
+00:28:20,909 --> 00:28:23,620
+Nie martw siê o ludzi, ...
+
+334
+00:28:23,829 --> 00:28:26,498
+... poczekaj na materia³y
+z Kalifornii.
+
+335
+00:28:26,748 --> 00:28:29,626
+Trzeba by³o zaczekaæ na limuzynê.
+
+336
+00:28:29,877 --> 00:28:31,837
+Nie przeszkadza mi taksówka, ...
+
+337
+00:28:32,045 --> 00:28:35,465
+... lecz to, ¿e lecimy
+do Kalifornii nieprzygotowani.
+
+338
+00:28:35,674 --> 00:28:37,885
+Czy pan Charles Palantine?
+
+339
+00:28:39,678 --> 00:28:41,513
+Zgadza siê.
+
+340
+00:28:42,890 --> 00:28:47,811
+Mówiê wszystkim pasa¿erom,
+¿eby na pana g³osowali.
+
+341
+00:28:48,228 --> 00:28:49,605
+Dziêkujê...
+
+342
+00:28:51,690 --> 00:28:52,524
+... Travis.
+
+343
+00:28:52,774 --> 00:28:55,861
+Na pewno pan wygra.
+Wszyscy na pana g³osuj¹.
+
+344
+00:28:56,069 --> 00:28:58,489
+Chcia³em mieæ tu pana naklejkê,
+
+345
+00:28:58,739 --> 00:29:01,617
+ale powiedzieli,
+¿e to wbrew przepisom.
+
+346
+00:29:01,825 --> 00:29:03,452
+Banda g³upków.
+
+347
+00:29:03,660 --> 00:29:06,497
+Dowiedzia³em siê wiêcej o Ameryce
+
+348
+00:29:06,705 --> 00:29:09,917
+je¿d¿¹c taksówkami ni¿ limuzynami.
+
+349
+00:29:11,793 --> 00:29:14,630
+- Naprawdê?
+- Tak.
+
+350
+00:29:15,130 --> 00:29:17,674
+- Mogê ciê o coœ spytaæ?
+- Jasne.
+
+351
+00:29:17,883 --> 00:29:21,053
+Co w tym kraju najbardziej
+ci przeszkadza?
+
+352
+00:29:22,763 --> 00:29:27,559
+Nie wiem, nie œledzê zbyt uwa¿nie
+wydarzeñ politycznych...
+
+353
+00:29:28,185 --> 00:29:30,270
+Na pewno jest coœ takiego.
+
+354
+00:29:30,562 --> 00:29:34,650
+Wiem jedno: ktoœ powinien
+oczyœciæ to miasto, ...
+
+355
+00:29:34,858 --> 00:29:39,363
+... bo jest jak otwarty œciek.
+Pe³no w nim brudu i œmieci.
+
+356
+00:29:39,822 --> 00:29:41,657
+Nie mogê tego znieœæ.
+
+357
+00:29:41,907 --> 00:29:44,868
+Nastêpny prezydent powinien...
+
+358
+00:29:45,577 --> 00:29:47,621
+... porz¹dnie tu posprz¹taæ.
+
+359
+00:29:47,871 --> 00:29:51,500
+Wychodzê i czujê ten smród.
+Dostajê bólu g³owy.
+
+360
+00:29:51,708 --> 00:29:54,795
+Wszêdzie siê unosi.
+
+361
+00:29:55,045 --> 00:29:57,381
+Uwa¿am, ¿e prezydent powinien...
+
+362
+00:29:57,881 --> 00:30:02,386
+... posprz¹taæ ten pieprzony ba³agan.
+Spuœciæ go do szamba.
+
+363
+00:30:10,477 --> 00:30:13,021
+Wiem, o co ci chodzi, Travis.
+
+364
+00:30:13,438 --> 00:30:15,274
+Ale to nie bêdzie ³atwe.
+
+365
+00:30:15,482 --> 00:30:18,944
+- To wymaga radykalnych zmian.
+- Oczywiœcie.
+
+366
+00:30:20,612 --> 00:30:22,364
+Reszta dla ciebie.
+
+367
+00:30:22,573 --> 00:30:23,866
+Dziêkujê.
+
+368
+00:30:27,369 --> 00:30:29,413
+Mi³o by³o ciê poznaæ.
+
+369
+00:30:29,663 --> 00:30:31,999
+Dobry z pana cz³owiek, wygra pan.
+
+370
+00:30:32,374 --> 00:30:34,209
+Dziêkujê.
+
+371
+00:30:56,899 --> 00:30:59,318
+Zabierz mnie st¹d.
+
+372
+00:31:02,738 --> 00:31:04,531
+Szybciej!
+
+373
+00:31:05,324 --> 00:31:07,034
+ChodŸ, kochanie.
+
+374
+00:31:07,284 --> 00:31:09,870
+Daj spokój. Nie rób scen.
+
+375
+00:31:11,622 --> 00:31:12,956
+Przylaæ ci?
+
+376
+00:31:13,165 --> 00:31:14,458
+Spokój, suko!
+
+377
+00:31:23,634 --> 00:31:25,427
+Nie wariuj.
+
+378
+00:31:26,762 --> 00:31:28,597
+Zapomnij o tym, kolego.
+
+379
+00:31:29,056 --> 00:31:30,057
+Spokój, suko!
+
+380
+00:33:35,224 --> 00:33:36,600
+Czeœæ.
+
+381
+00:33:38,560 --> 00:33:41,188
+- Mia³aœ mi³y dzieñ?
+- Nieszczególnie.
+
+382
+00:33:41,396 --> 00:33:43,065
+Mam dla ciebie prezent.
+
+383
+00:33:47,319 --> 00:33:50,989
+Teraz wracamy do synkopowanego
+stylu Gene'a Krupy.
+
+384
+00:33:59,122 --> 00:34:00,374
+Nie powinieneœ...
+
+385
+00:34:00,582 --> 00:34:03,502
+Co mam robiæ z pieniêdzmi?
+
+386
+00:34:03,877 --> 00:34:06,004
+Szkoda, ¿e nie s³ucha³eœ.
+
+387
+00:34:06,588 --> 00:34:09,591
+Pos³ucha³bym,
+ale popsu³ mi siê gramofon.
+
+388
+00:34:09,842 --> 00:34:11,051
+Naprawdê?
+
+389
+00:34:11,301 --> 00:34:13,720
+Ja nie mogê ¿yæ bez muzyki.
+
+390
+00:34:13,971 --> 00:34:17,599
+Niezbyt znam siê na muzyce,
+ale chcia³bym.
+
+391
+00:34:17,850 --> 00:34:20,394
+Nigdy nie s³ysza³eœ tej p³yty?
+
+392
+00:34:22,145 --> 00:34:26,900
+Myœla³em, ¿e mo¿e pos³uchamy jej
+razem u ciebie.
+
+393
+00:34:27,150 --> 00:34:30,821
+A teraz, 40 lat Chicka Webb.
+
+394
+00:34:33,073 --> 00:34:36,285
+<b>FILMY DLA DOROS£YCH!
+ODWA¯NA ROZRYWKA</b>
+
+395
+00:34:47,045 --> 00:34:48,589
+Chyba ¿artujesz...
+
+396
+00:34:48,797 --> 00:34:49,756
+Dlaczego?
+
+397
+00:34:49,965 --> 00:34:52,092
+To kino porno.
+
+398
+00:34:52,676 --> 00:34:56,513
+Nie.
+Przychodzi tu du¿o par.
+
+399
+00:34:56,722 --> 00:35:00,642
+- Naprawdê, du¿o ludzi.
+- Jesteœ pewien?
+
+400
+00:35:01,351 --> 00:35:03,562
+Tak, zawsze ich widujê.
+
+401
+00:35:06,857 --> 00:35:07,941
+ChodŸmy.
+
+402
+00:35:17,951 --> 00:35:21,288
+<i>Moi rodzice byli bardzo surowi.</i>
+
+403
+00:35:26,335 --> 00:35:27,794
+<i>Fallus</i>
+
+404
+00:35:28,003 --> 00:35:28,837
+<i>Plemnik</i>
+
+405
+00:35:29,046 --> 00:35:30,964
+<i>Komórka jajowa</i>
+
+406
+00:35:35,552 --> 00:35:38,555
+<i>Zanim Masters i Johnson
+zaczêli badania w USA...</i>
+
+407
+00:35:38,764 --> 00:35:40,891
+<i>... Szwedzi po³o¿yli
+pod nie podwaliny.</i>
+
+408
+00:35:50,400 --> 00:35:52,611
+- Dok¹d idziesz?
+- Muszê wyjœæ.
+
+409
+00:35:52,861 --> 00:35:55,113
+- Czemu?
+- Nie wiem, po co tu przysz³am.
+
+410
+00:35:55,364 --> 00:35:57,616
+Nie lubiê takich filmów.
+
+411
+00:35:57,866 --> 00:36:00,744
+Nie wiedzia³em, ¿e tak zareagujesz.
+
+412
+00:36:00,994 --> 00:36:03,872
+- Nie znam siê na filmach.
+- Ogl¹dasz tylko takie?
+
+413
+00:36:04,122 --> 00:36:07,084
+Tak, ale...
+Nie s¹ takie z³e.
+
+414
+00:36:07,334 --> 00:36:11,129
+To tak, jakbyœ powiedzia³:
+"ChodŸmy siê pieprzyæ".
+
+415
+00:36:15,592 --> 00:36:17,970
+Mogê ciê zabraæ na inny film.
+
+416
+00:36:18,178 --> 00:36:21,473
+Nie znam siê na tym, ale spróbujê.
+
+417
+00:36:21,932 --> 00:36:23,475
+Jesteœmy inni.
+
+418
+00:36:24,017 --> 00:36:26,270
+- Poczekaj.
+- Muszê ju¿ iœæ.
+
+419
+00:36:26,478 --> 00:36:27,688
+Muszê iœæ.
+
+420
+00:36:27,896 --> 00:36:31,525
+- Poczekaj, porozmawiajmy.
+- Muszê iœæ.
+
+421
+00:36:33,485 --> 00:36:37,739
+Mo¿emy przynajmniej porozmawiaæ?
+
+422
+00:36:37,990 --> 00:36:39,158
+WeŸ p³ytê.
+
+423
+00:36:39,366 --> 00:36:41,702
+- Mam j¹.
+- Proszê.
+
+424
+00:36:41,952 --> 00:36:45,914
+- Kupi³em j¹ dla ciebie.
+- Bêdê mia³a dwie. JedŸmy.
+
+425
+00:36:46,123 --> 00:36:47,833
+Mogê zadzwoniæ?
+
+426
+00:36:49,042 --> 00:36:51,170
+Przecie¿ ja mam taksówkê.
+
+427
+00:36:57,092 --> 00:36:58,635
+Czeœæ, Betsy.
+
+428
+00:36:58,844 --> 00:37:00,554
+Tu Travis.
+
+429
+00:37:02,431 --> 00:37:05,392
+Przepraszam za tamten wieczór.
+
+430
+00:37:05,642 --> 00:37:08,687
+Nie wiedzia³em,
+¿e tak to odbierzesz.
+
+431
+00:37:10,564 --> 00:37:15,569
+Nie wiedzia³em.
+Zabra³bym ciê gdzieœ indziej.
+
+432
+00:37:16,820 --> 00:37:18,906
+Lepiej siê czujesz?
+
+433
+00:37:19,823 --> 00:37:23,494
+Mo¿e po prostu mia³aœ
+jednodniow¹ grypê.
+
+434
+00:37:23,744 --> 00:37:25,996
+To siê zdarza.
+
+435
+00:37:30,751 --> 00:37:33,295
+Pewnie ciê¿ko pracujesz.
+
+436
+00:37:37,341 --> 00:37:40,636
+Mo¿e chcia³abyœ zjeœæ
+ze mn¹ kolacjê...
+
+437
+00:37:40,886 --> 00:37:43,514
+... któregoœ wieczora?
+
+438
+00:37:46,517 --> 00:37:48,143
+A napiæ siê kawy?
+
+439
+00:37:48,393 --> 00:37:52,481
+Móg³bym wpaœæ po ciebie do biura.
+
+440
+00:37:53,357 --> 00:37:55,192
+W porz¹dku.
+
+441
+00:37:57,778 --> 00:38:00,405
+Dosta³aœ kwiaty?
+
+442
+00:38:02,324 --> 00:38:06,662
+Nie?
+Wys³a³em ci kwiaty.
+
+443
+00:38:13,085 --> 00:38:15,212
+Mogê jeszcze zadzwoniæ?
+
+444
+00:38:15,629 --> 00:38:17,714
+Jutro albo pojutrze?
+
+445
+00:38:18,340 --> 00:38:21,260
+W porz¹dku.
+Jasne.
+
+446
+00:38:21,552 --> 00:38:22,928
+Czeœæ.
+
+447
+00:38:25,305 --> 00:38:27,516
+<i>Dzwoni³em jeszcze kilka razy,</i>
+
+448
+00:38:27,766 --> 00:38:31,270
+<i>ale przesta³a
+podchodziæ do telefonu.</i>
+
+449
+00:38:31,728 --> 00:38:34,106
+<i>Wysy³a³em kwiaty, na pró¿no.</i>
+
+450
+00:38:34,439 --> 00:38:36,942
+<i>Mdli mnie od ich zapachu.</i>
+
+451
+00:38:37,192 --> 00:38:41,697
+<i>Mam coraz gorsze bóle g³owy.
+Mam te¿ chyba raka ¿o³¹dka.</i>
+
+452
+00:38:42,322 --> 00:38:44,408
+<i>Ale nie mogê narzekaæ.</i>
+
+453
+00:38:44,908 --> 00:38:46,910
+<i>Cz³owiek jest...</i>
+
+454
+00:38:47,786 --> 00:38:50,247
+<i>... na tyle zdrowy,
+na ile siê czuje.</i>
+
+455
+00:38:51,582 --> 00:38:52,958
+<i>Cz³owiek...</i>
+
+456
+00:38:53,208 --> 00:38:54,877
+<i>... jest na tyle zdrowy...</i>
+
+457
+00:38:55,127 --> 00:38:56,503
+<i>... na ile...</i>
+
+458
+00:38:56,753 --> 00:38:58,297
+<i>... siê...</i>
+
+459
+00:38:58,547 --> 00:38:59,882
+<i>... czuje.</i>
+
+460
+00:39:10,267 --> 00:39:13,854
+- Tylko spokojnie.
+- Czemu ze mn¹ nie rozmawiasz?
+
+461
+00:39:14,062 --> 00:39:16,523
+Dobrze wiem, ¿e tu jesteœ.
+
+462
+00:39:16,773 --> 00:39:18,775
+Myœlisz, ¿e nie wiem?
+
+463
+00:39:18,984 --> 00:39:20,652
+- WyjdŸ.
+- Zabierz ³apy!
+
+464
+00:39:20,861 --> 00:39:23,030
+Chcê, ¿ebyœ wiedzia³a...
+
+465
+00:39:23,238 --> 00:39:26,325
+Proszê.
+To nie jest odpowiednie miejsce.
+
+466
+00:39:27,117 --> 00:39:28,869
+- Zabierz ³apy!
+- WyjdŸ.
+
+467
+00:39:29,119 --> 00:39:32,414
+- Pos³uchaj!
+- Chcê ci powiedzieæ, ...
+
+468
+00:39:32,664 --> 00:39:35,042
+... ¿e jesteœ w piekle i umrzesz tam!
+
+469
+00:39:35,250 --> 00:39:38,003
+- Tam stoi policjant.
+- Jesteœ jak inni.
+
+470
+00:39:38,253 --> 00:39:40,547
+Zaraz go zawo³am.
+Panie w³adzo!
+
+471
+00:39:43,509 --> 00:39:44,927
+Panie w³adzo!
+
+472
+00:39:46,553 --> 00:39:49,890
+Nie przychodŸ tu, bo wezwê policjê!
+
+473
+00:39:50,933 --> 00:39:55,938
+<i>Teraz widzê, ¿e jest jak inni:
+zimna i niedostêpna.</i>
+
+474
+00:39:56,146 --> 00:39:57,814
+<i>Wielu jest takich.</i>
+
+475
+00:39:58,023 --> 00:40:01,318
+<i>Zw³aszcza kobiet.
+Jakby tworzy³y front.</i>
+
+476
+00:40:11,870 --> 00:40:15,749
+Proszê siê tu zatrzymaæ.
+W³aœnie tu.
+
+477
+00:40:17,751 --> 00:40:18,585
+Nie, nie.
+
+478
+00:40:20,003 --> 00:40:22,422
+Co robisz?
+Cholerny licznik.
+
+479
+00:40:22,798 --> 00:40:24,675
+Co zrobi³eœ z licznikiem?
+
+480
+00:40:24,883 --> 00:40:28,053
+Prosi³em o to?
+
+481
+00:40:28,262 --> 00:40:32,140
+W³¹cz go z powrotem.
+Cena nie ma dla mnie znaczenia.
+
+482
+00:40:32,391 --> 00:40:36,019
+Nie wysiadam.
+W³¹cz licznik.
+
+483
+00:40:36,270 --> 00:40:37,229
+W³¹cz.
+
+484
+00:40:38,647 --> 00:40:39,565
+Tak jest.
+
+485
+00:40:39,815 --> 00:40:41,608
+W³¹cz go!
+
+486
+00:40:43,360 --> 00:40:44,736
+Tak jest.
+
+487
+00:40:45,612 --> 00:40:48,115
+Co tam piszesz?
+Nie pisz!
+
+488
+00:40:48,323 --> 00:40:49,825
+Od³ó¿ to.
+
+489
+00:40:53,328 --> 00:40:56,415
+Mia³eœ zaparkowaæ, a nie pisaæ.
+
+490
+00:40:56,665 --> 00:40:59,126
+Zaparkuj i siedŸ.
+
+491
+00:41:01,211 --> 00:41:02,671
+Posiedzimy.
+
+492
+00:41:21,398 --> 00:41:25,402
+Widzisz to œwiat³o w oknie?
+
+493
+00:41:26,862 --> 00:41:29,239
+Na drugim piêtrze.
+
+494
+00:41:32,576 --> 00:41:35,829
+Pierwsze z brzegu.
+
+495
+00:41:36,955 --> 00:41:40,417
+Œwiat³o w oknie, drugie piêtro.
+
+496
+00:41:42,085 --> 00:41:43,795
+Œlepy jesteœ?
+
+497
+00:41:44,004 --> 00:41:45,631
+Widzisz œwiat³o?
+
+498
+00:41:47,341 --> 00:41:49,384
+Widzisz.
+To dobrze.
+
+499
+00:41:51,553 --> 00:41:52,679
+Widzisz kobietê?
+
+500
+00:41:55,307 --> 00:41:58,018
+Widzisz kobietê w oknie?
+
+501
+00:42:00,062 --> 00:42:00,896
+Tak.
+
+502
+00:42:03,357 --> 00:42:06,276
+Chcê, ¿ebyœ j¹ zobaczy³,
+bo to moja ¿ona.
+
+503
+00:42:08,821 --> 00:42:10,656
+Ale nie moje mieszkanie.
+
+504
+00:42:13,617 --> 00:42:16,286
+Wiesz, kto tam mieszka?
+
+505
+00:42:17,287 --> 00:42:20,874
+Niby sk¹d mia³byœ wiedzieæ.
+Powiem ci.
+
+506
+00:42:22,209 --> 00:42:23,794
+Czarnuch.
+
+507
+00:42:24,002 --> 00:42:25,879
+Jak ci siê to podoba?
+
+508
+00:42:33,053 --> 00:42:35,055
+Zabijê go.
+
+509
+00:42:37,391 --> 00:42:40,143
+Po prostu.
+Zabijê go.
+
+510
+00:42:40,352 --> 00:42:42,354
+Co o tym s¹dzisz?
+
+511
+00:42:44,106 --> 00:42:46,316
+Spyta³em, co o tym s¹dzisz?
+
+512
+00:42:46,817 --> 00:42:48,235
+Nie odpowiadaj.
+
+513
+00:42:48,610 --> 00:42:50,696
+Nie musisz odpowiadaæ.
+
+514
+00:42:54,825 --> 00:42:57,619
+Zabijê j¹ magnum .44.
+
+515
+00:42:58,495 --> 00:43:02,374
+Mam magnum .44 i j¹ nim zabijê.
+
+516
+00:43:02,875 --> 00:43:06,587
+Widzia³eœ, co magnum .44 robi
+z twarz¹ kobiety?
+
+517
+00:43:06,837 --> 00:43:10,507
+Ca³kowicie j¹ niszczy.
+Rozwala na kawa³ki.
+
+518
+00:43:10,757 --> 00:43:13,010
+Tak mo¿na za³atwiæ twarz.
+
+519
+00:43:13,302 --> 00:43:16,471
+A widzia³eœ, co mo¿e zrobiæ z cip¹?
+
+520
+00:43:17,890 --> 00:43:21,560
+Powinieneœ zobaczyæ, co magnum .44
+zrobi z jej cip¹.
+
+521
+00:43:28,734 --> 00:43:29,818
+Co?
+
+522
+00:43:30,110 --> 00:43:33,030
+Na pewno myœlisz, ¿e jestem...
+
+523
+00:43:33,238 --> 00:43:36,992
+Musisz myœleæ, ¿e jestem szurniêty.
+
+524
+00:43:37,868 --> 00:43:40,329
+Myœlisz tak?
+
+525
+00:43:44,541 --> 00:43:48,045
+Tak?
+Myœlisz, ¿e jestem szurniêty?
+
+526
+00:43:55,010 --> 00:43:56,595
+Jestem szurniêty?
+
+527
+00:44:00,182 --> 00:44:03,310
+Nie musisz odpowiadaæ.
+P³acê za kurs.
+
+528
+00:44:05,103 --> 00:44:07,231
+Wiecie, wioz³em kar³a.
+
+529
+00:44:07,481 --> 00:44:09,983
+By³ bardzo elegancki,
+w garniturze, ...
+
+530
+00:44:10,234 --> 00:44:12,653
+... przystojny, z piêkn¹ blondyn¹.
+
+531
+00:44:12,903 --> 00:44:15,364
+- Karlic¹?
+- Nie, on by³ kar³em.
+
+532
+00:44:15,614 --> 00:44:17,908
+Zarwa³ tê blondynê.
+
+533
+00:44:18,158 --> 00:44:20,160
+Kar³y s¹ œmieszne.
+
+534
+00:44:21,370 --> 00:44:23,497
+Chcia³bym takiego potrzymaæ.
+
+535
+00:44:23,705 --> 00:44:26,500
+Zawsze chc¹ siedzieæ z przodu.
+
+536
+00:44:28,210 --> 00:44:32,005
+Potem zabieram dwie cioty.
+Jad¹ do œródmieœcia.
+
+537
+00:44:34,132 --> 00:44:38,345
+Maj¹ koszulki z brylancikami.
+Zaczynaj¹ siê k³óciæ.
+
+538
+00:44:38,595 --> 00:44:41,557
+Jeden mówi: "Ty suko"
+i zaczyna biæ drugiego.
+
+539
+00:44:41,765 --> 00:44:44,268
+Mówiê: "Nie obchodzi mnie, ..."
+
+540
+00:44:44,518 --> 00:44:46,854
+"... co robicie w zaciszu swego domu".
+
+541
+00:44:47,062 --> 00:44:48,772
+"To wolny kraj."
+
+542
+00:44:49,022 --> 00:44:53,569
+"Mamy zapis o d¹¿eniu do szczêœcia.
+Jesteœcie doroœli."
+
+543
+00:44:53,819 --> 00:44:58,574
+"Ale w mojej pieprzonej taksówce
+nie bêdziecie sobie rozwalaæ ³bów."
+
+544
+00:44:58,824 --> 00:45:01,785
+- Róbcie, co chcecie.
+- Niech jad¹ do Kalifornii.
+
+545
+00:45:01,994 --> 00:45:06,665
+Gdy peda³y siê tam rozchodz¹,
+jeden p³aci drugiemu alimenty.
+
+546
+00:45:08,500 --> 00:45:12,880
+NieŸle. Kalifornia ze wszystkim
+jest zawsze do przodu.
+
+547
+00:45:13,088 --> 00:45:15,007
+Wiêc ka¿ê im wysiadaæ.
+
+548
+00:45:15,215 --> 00:45:17,843
+Raz glina goni³ faceta z jedn¹ nog¹.
+
+549
+00:45:18,093 --> 00:45:21,180
+- By³ o kulach.
+- Gliniarz?
+
+550
+00:45:21,388 --> 00:45:24,975
+Nie, ten facet.
+Gliniarze wszystkich goni¹.
+
+551
+00:45:26,018 --> 00:45:28,353
+Masz dla mnie pi¹taka?
+
+552
+00:45:30,063 --> 00:45:33,775
+Ktoœ tu jest nadziany.
+
+553
+00:45:34,359 --> 00:45:38,655
+Zbankrutowa³bym, gdybym nie trafi³
+klientów na lotnisku.
+
+554
+00:45:38,864 --> 00:45:42,993
+Zabra³em ich na Manhattan
+przez Long Beach. 5$ napiwku.
+
+555
+00:45:43,243 --> 00:45:45,245
+Jak leci?
+
+556
+00:45:45,454 --> 00:45:47,039
+S³abo.
+
+557
+00:45:48,332 --> 00:45:49,625
+Spadam.
+
+558
+00:45:50,709 --> 00:45:52,169
+Magik, czekaj.
+
+559
+00:45:53,045 --> 00:45:56,423
+- Mo¿emy chwilê pogadaæ?
+- Czeœæ, Zabójco.
+
+560
+00:46:31,708 --> 00:46:34,878
+Niezbyt czêsto ze sob¹ gadamy.
+
+561
+00:46:35,587 --> 00:46:37,506
+Ale ty du¿o widzia³eœ...
+
+562
+00:46:37,756 --> 00:46:40,259
+Dlatego nazywaj¹ mnie Magik.
+
+563
+00:46:40,467 --> 00:46:41,760
+Mam...
+
+564
+00:46:42,553 --> 00:46:44,680
+Chodzi o to...
+
+565
+00:46:46,640 --> 00:46:47,933
+Coœ ciê gnêbi?
+
+566
+00:46:48,725 --> 00:46:51,186
+To zdarza siê najlepszym.
+
+567
+00:46:52,271 --> 00:46:54,898
+Jestem zdo³owany.
+
+568
+00:47:00,529 --> 00:47:01,989
+Chcia³bym...
+
+569
+00:47:02,197 --> 00:47:06,368
+zrobiæ coœ naprawdê wartoœciowego.
+
+570
+00:47:08,412 --> 00:47:10,330
+Masz na myœli pracê?
+
+571
+00:47:14,168 --> 00:47:15,961
+Nie, chodzi o to...
+
+572
+00:47:17,212 --> 00:47:18,463
+Sam nie wiem.
+
+573
+00:47:20,799 --> 00:47:22,843
+Po prostu chcia³bym...
+
+574
+00:47:26,638 --> 00:47:28,098
+Chodzi o to...
+
+575
+00:47:28,432 --> 00:47:31,393
+Przychodz¹ mi do g³owy ró¿ne z³e myœli.
+
+576
+00:47:33,437 --> 00:47:35,647
+Popatrz na to w ten sposób...
+
+577
+00:47:38,484 --> 00:47:40,777
+Cz³owiek podejmuje pracê.
+
+578
+00:47:41,278 --> 00:47:42,905
+I ta praca...
+
+579
+00:47:45,032 --> 00:47:47,451
+... wywiera na niego wp³yw.
+
+580
+00:47:47,743 --> 00:47:49,536
+Rozumiesz?
+
+581
+00:47:51,079 --> 00:47:53,707
+Jesteœ tym, co robisz.
+
+582
+00:47:55,000 --> 00:47:58,754
+Je¿d¿ê taksówk¹ od 17 lat.
+Od 10 lat w nocy.
+
+583
+00:47:59,004 --> 00:48:01,840
+I nadal nie mam w³asnego wozu.
+Dlaczego?
+
+584
+00:48:02,633 --> 00:48:06,803
+Bo nie chcê.
+Muszê byæ tym, kim chcê byæ.
+
+585
+00:48:07,012 --> 00:48:10,182
+Pracowaæ nocami, prowadz¹c cudz¹ taksówkê.
+
+586
+00:48:10,390 --> 00:48:12,059
+Rozumiesz?
+
+587
+00:48:13,185 --> 00:48:16,063
+Podejmujesz pracê i stajesz siê ni¹.
+
+588
+00:48:16,271 --> 00:48:19,817
+Jeden mieszka w Brooklynie,
+inny na Sutton Place.
+
+589
+00:48:20,025 --> 00:48:22,528
+Ten jest prawnikiem, inny lekarzem.
+
+590
+00:48:22,778 --> 00:48:25,864
+Ktoœ umiera, ktoœ wraca do zdrowia.
+
+591
+00:48:26,114 --> 00:48:27,866
+Rodz¹ siê ludzie.
+
+592
+00:48:28,075 --> 00:48:30,202
+Zazdroszczê ci m³odoœci.
+
+593
+00:48:31,328 --> 00:48:34,832
+Przeœpij siê z kimœ.
+Upij siê, zrób cokolwiek.
+
+594
+00:48:37,459 --> 00:48:40,462
+Nie masz wyboru. Ka¿dy ma przesrane.
+
+595
+00:48:42,256 --> 00:48:44,383
+Jeden bardziej, drugi mniej.
+
+596
+00:48:48,303 --> 00:48:52,307
+To najg³upsza rzecz,
+jak¹ w ¿yciu s³ysza³em.
+
+597
+00:48:54,142 --> 00:48:58,605
+Co chcesz? Jestem taksówkarzem,
+a nie Bertrandem Russellem.
+
+598
+00:48:58,856 --> 00:49:01,692
+Nawet nie wiem, o czym mówisz.
+
+599
+00:49:01,900 --> 00:49:04,194
+Ja mo¿e te¿ nie.
+
+600
+00:49:05,404 --> 00:49:10,075
+Nie martw siê tyle. RozluŸnij siê,
+wszystko bêdzie dobrze.
+
+601
+00:49:10,325 --> 00:49:13,162
+Wiem.
+Wiele w ¿yciu widzia³em.
+
+602
+00:49:14,079 --> 00:49:15,455
+Dobrze wiem.
+
+603
+00:49:16,915 --> 00:49:18,584
+Dziêki, stary.
+
+604
+00:49:24,173 --> 00:49:27,134
+Nic ci nie bêdzie.
+
+605
+00:49:45,152 --> 00:49:49,615
+<i>Co pan s¹dzi o kontrkandydacie
+pañskiej partii?</i>
+
+606
+00:49:49,823 --> 00:49:51,408
+<i>Goodman to fachowiec.</i>
+
+607
+00:49:51,617 --> 00:49:54,953
+<i>Gdybym musia³ wybieraæ,
+wola³bym jego...</i>
+
+608
+00:49:55,287 --> 00:49:57,706
+<i>...ni¿ kandydata
+drugiej partii.</i>
+
+609
+00:49:57,956 --> 00:50:01,585
+<i>A jednak, mój program
+jest lepiej przemyœlany.</i>
+
+610
+00:50:01,835 --> 00:50:05,506
+<i>Bardziej interesuj¹cy.
+Mam wiêksze szanse.</i>
+
+611
+00:50:05,714 --> 00:50:08,550
+<i>Zreszt¹ zostawmy teoriê.
+Wygram ja, a nie on.</i>
+
+612
+00:50:08,800 --> 00:50:10,511
+<i>Rozumiem.</i>
+
+613
+00:50:11,220 --> 00:50:14,097
+<i>Jeszcze jedno pytanie.</i>
+
+614
+00:50:14,348 --> 00:50:16,558
+<i>Jak pan widzi swoj¹ kampaniê?</i>
+
+615
+00:50:16,808 --> 00:50:19,937
+<i>Gdy powsta³o has³o:
+"My jesteœmy ludem",</i>
+
+616
+00:50:20,187 --> 00:50:22,439
+<i>"Niech zacznie rz¹dziæ lud", ...</i>
+
+617
+00:50:23,190 --> 00:50:25,526
+<i>... ba³em siê w³asnego optymizmu.</i>
+
+618
+00:50:25,734 --> 00:50:29,321
+<i>Dziœ jestem wiêkszym optymist¹
+ni¿ kiedykolwiek.</i>
+
+619
+00:50:29,571 --> 00:50:33,450
+<i>Ludzie spe³niaj¹ wymagania,
+które im postawi³em.</i>
+
+620
+00:50:33,659 --> 00:50:36,119
+<i>Ludzie zaczynaj¹ rz¹dziæ.</i>
+
+621
+00:50:36,328 --> 00:50:38,956
+<i>Ta wspania³a idea...</i>
+
+622
+00:50:39,164 --> 00:50:43,085
+<i>... da znaæ o sobie podczas
+konwencji i prawyborów...</i>
+
+623
+00:50:43,335 --> 00:50:45,087
+<i>... i zaowocuje...</i>
+
+624
+00:50:45,295 --> 00:50:48,006
+<i>... w pe³ni w listopadzie.</i>
+
+625
+00:52:14,259 --> 00:52:16,512
+Rozwalê tej suce ³eb!
+
+626
+00:52:16,720 --> 00:52:20,849
+Zabijê j¹, kurwa!
+Po prostu j¹ zabijê!
+
+627
+00:52:21,099 --> 00:52:22,392
+Strzelaj!
+
+628
+00:52:28,148 --> 00:52:29,608
+Czeœæ.
+
+629
+00:52:32,152 --> 00:52:35,239
+- Ten facet nas œledzi.
+- Nie patrz na niego.
+
+630
+00:52:51,463 --> 00:52:52,965
+Czeœæ.
+
+631
+00:52:55,926 --> 00:52:57,761
+Przejdziemy siê?
+
+632
+00:53:10,566 --> 00:53:14,153
+<i>Samotnoœæ pod¹¿a za mn¹
+zawsze i wszêdzie.</i>
+
+633
+00:53:14,528 --> 00:53:16,947
+<i>Jest ze mn¹ w barach, sklepach, ...</i>
+
+634
+00:53:17,322 --> 00:53:19,825
+<i>... w samochodach, na ulicach.</i>
+
+635
+00:53:20,951 --> 00:53:22,369
+<i>Nie ma ucieczki.</i>
+
+636
+00:53:23,036 --> 00:53:25,289
+<i>Jestem samotnym dzieckiem Boga.</i>
+
+637
+00:53:29,334 --> 00:53:30,919
+<i>8 czerwca.</i>
+
+638
+00:53:31,420 --> 00:53:33,881
+<i>Rozpoczynam nowy etap ¿ycia.</i>
+
+639
+00:53:34,131 --> 00:53:37,593
+<i>Dni, które mijaj¹ jeden za drugim,</i>
+
+640
+00:53:37,801 --> 00:53:40,345
+<i>s¹ nie do odró¿nienia.</i>
+
+641
+00:53:40,596 --> 00:53:43,056
+<i>D³ugi, nieprzerwany ³añcuch.</i>
+
+642
+00:53:43,265 --> 00:53:45,100
+<i>A¿ tu nagle...</i>
+
+643
+00:53:45,350 --> 00:53:47,394
+<i>... nadchodzi zmiana.</i>
+
+644
+00:54:02,075 --> 00:54:04,912
+To Easy Andy, komiwoja¿er.
+
+645
+00:54:05,120 --> 00:54:07,206
+Jak siê masz, Travis?
+
+646
+00:54:29,895 --> 00:54:32,648
+- Masz magnum .44?
+- To droga broñ.
+
+647
+00:54:32,856 --> 00:54:34,900
+Mam pieni¹dze.
+
+648
+00:54:35,108 --> 00:54:36,819
+To prawdziwy potwór.
+
+649
+00:54:37,861 --> 00:54:41,615
+Z 50 metrów zatrzymuje wóz
+strza³em w silnik.
+
+650
+00:54:52,876 --> 00:54:54,336
+Proszê.
+
+651
+00:54:54,795 --> 00:54:57,381
+Najwy¿sza jakoœæ.
+
+652
+00:55:01,760 --> 00:55:03,095
+Popatrz.
+
+653
+00:55:04,721 --> 00:55:06,431
+Prawdziwe cudo.
+
+654
+00:55:11,228 --> 00:55:14,648
+Móg³bym go sprzedaæ w Harlemie
+za piêæ stów.
+
+655
+00:55:15,607 --> 00:55:18,944
+Ale porz¹dny towar sprzedajê
+w³aœciwym ludziom.
+
+656
+00:55:20,154 --> 00:55:21,446
+A ten?
+
+657
+00:55:22,364 --> 00:55:24,825
+Jego wielkoœæ jest niepraktyczna.
+
+658
+00:55:25,159 --> 00:55:27,286
+Dlatego polecam...
+
+659
+00:55:28,412 --> 00:55:29,496
+... krótkolufow¹ .38-kê.
+
+660
+00:55:31,540 --> 00:55:32,916
+Spójrz.
+
+661
+00:55:35,294 --> 00:55:37,546
+Œliczna ma³a broñ.
+
+662
+00:55:37,754 --> 00:55:42,634
+Niklowany, krótkolufowy.
+Bardzo praktyczny rewolwer.
+
+663
+00:55:42,885 --> 00:55:45,053
+Zatrzyma wszystko, co siê rusza.
+
+664
+00:55:45,262 --> 00:55:48,807
+Magnum u¿ywali w Afryce
+do polowañ na s³onie.
+
+665
+00:55:49,057 --> 00:55:49,933
+Ta .38-ka...
+
+666
+00:55:50,309 --> 00:55:52,102
+... to œwietna broñ.
+
+667
+00:55:57,191 --> 00:55:59,443
+Niektóre wygl¹daj¹ jak zabawki.
+
+668
+00:55:59,651 --> 00:56:02,779
+T¹ .38-k¹ mo¿esz ca³y dzieñ
+wbijaæ gwoŸdzie, ...
+
+669
+00:56:02,988 --> 00:56:06,283
+... a wieczorem
+i tak trafisz w dziesi¹tkê.
+
+670
+00:56:06,700 --> 00:56:10,454
+Pasuje do rêki i potrafi narobiæ
+zamieszania.
+
+671
+00:56:13,123 --> 00:56:14,875
+Mo¿e jakiœ automat?
+
+672
+00:56:15,751 --> 00:56:19,213
+Automatyczny colt .25.
+Mi³e maleñstwo.
+
+673
+00:56:19,421 --> 00:56:20,631
+Naprawdê piêkny.
+
+674
+00:56:20,839 --> 00:56:23,425
+Szeœæ w magazynku, jedna w lufie.
+
+675
+00:56:23,634 --> 00:56:25,719
+O ile j¹ wprowadzisz.
+
+676
+00:56:28,347 --> 00:56:29,640
+Spójrz.
+
+677
+00:56:29,848 --> 00:56:31,350
+.380 walther.
+
+678
+00:56:31,600 --> 00:56:33,811
+Oœmiostrza³owy.
+
+679
+00:56:35,062 --> 00:56:36,939
+Przyjemny.
+
+680
+00:56:37,189 --> 00:56:39,650
+Prawdziwe cudo.
+
+681
+00:56:43,070 --> 00:56:47,366
+W czasie II wojny œwiatowej
+zast¹pi³ P38.
+
+682
+00:56:48,158 --> 00:56:50,410
+U¿ywali go oficerowie.
+
+683
+00:56:56,166 --> 00:56:58,210
+Prawda, ¿e piêkny?
+
+684
+00:57:07,219 --> 00:57:09,972
+- Ile za wszystkie?
+- Wszystkie?
+
+685
+00:57:10,180 --> 00:57:14,268
+Tylko frajer nosi³by tê armatê
+w ten sposób.
+
+686
+00:57:15,352 --> 00:57:18,856
+To rêcznie robiona meksykañska kabura.
+
+687
+00:57:19,106 --> 00:57:20,941
+40 dolców.
+
+688
+00:57:21,692 --> 00:57:24,862
+350 dolców za magnum, 250 za .38-kê.
+
+689
+00:57:25,070 --> 00:57:28,490
+125 za .25-kê, 150 za .380-kê.
+
+690
+00:57:28,866 --> 00:57:31,910
+WeŸ to i poczekaj. Zejdê z tob¹.
+
+691
+00:57:32,828 --> 00:57:35,789
+Mo¿e towarek? Haszysz? Koks?
+
+692
+00:57:35,998 --> 00:57:39,960
+Meskalina? Barbiturany? Nebutal?
+
+693
+00:57:40,210 --> 00:57:43,714
+- Amfetamina?
+- Nie interesuj¹ mnie te rzeczy.
+
+694
+00:57:43,922 --> 00:57:46,592
+Krystaliczna psychedryna,
+podtlenek azotu?
+
+695
+00:57:46,842 --> 00:57:49,219
+A mo¿e nowiuteñki cadillac?
+
+696
+00:57:49,553 --> 00:57:51,263
+Tylko 2000 dolców.
+
+697
+00:57:59,897 --> 00:58:01,398
+<i>29 czerwca.</i>
+
+698
+00:58:02,483 --> 00:58:05,777
+<i>Muszê poprawiæ kondycjê.
+Mam s³abe cia³o.</i>
+
+699
+00:58:05,986 --> 00:58:08,113
+<i>Zbyt d³ugo je zaniedbywa³em.</i>
+
+700
+00:58:08,363 --> 00:58:10,782
+<i>Od dziœ robiê 50 pompek dziennie.</i>
+
+701
+00:58:11,450 --> 00:58:14,119
+<i>I 50 podci¹gniêæ. Koniec tabletek.</i>
+
+702
+00:58:14,369 --> 00:58:18,499
+<i>Koniec z kiepskim ¿arciem,
+które szkodzi mojemu cia³u.</i>
+
+703
+00:58:19,082 --> 00:58:22,794
+<i>Od dziœ dyscyplina.
+Ka¿dy miêsieñ musi byæ zwarty.</i>
+
+704
+00:58:39,853 --> 00:58:42,523
+<i>Spójrz, jaki wielki.</i>
+
+705
+00:58:45,067 --> 00:58:47,277
+<i>Tak, wspania³y.</i>
+
+706
+00:58:52,658 --> 00:58:57,079
+<i>Jest taki twardy i pulsuj¹cy.</i>
+
+707
+00:58:58,622 --> 00:59:02,626
+<i>Od pewnego czasu kie³kuje mi
+w g³owie pewna myœl.</i>
+
+708
+00:59:03,544 --> 00:59:05,003
+<i>Prawdziwa si³a.</i>
+
+709
+00:59:05,212 --> 00:59:09,800
+<i>Wszyscy ludzie króla
+nie zdo³aj¹ go posk³adaæ.</i>
+
+710
+01:01:10,379 --> 01:01:14,299
+- Sk¹d wzi¹æ wiêcej?
+- A jak myœlisz? Z biura.
+
+711
+01:01:14,508 --> 01:01:16,677
+A¿ stamt¹d?
+
+712
+01:01:16,885 --> 01:01:18,095
+Bêdzie dzia³aæ.
+
+713
+01:01:18,345 --> 01:01:21,014
+- Mo¿e to kolumny.
+- Nie. Wiem, co robiê.
+
+714
+01:01:21,265 --> 01:01:23,517
+- Robi³eœ to ju¿?
+- Jasne.
+
+715
+01:01:23,767 --> 01:01:26,645
+- A kiedy ostatni raz?
+- Nigdy.
+
+716
+01:01:29,940 --> 01:01:30,774
+Co?!
+
+717
+01:01:32,526 --> 01:01:34,528
+ChodŸ tutaj!
+
+718
+01:02:32,503 --> 01:02:35,214
+Jesteœ z tajnych s³u¿b, prawda?
+
+719
+01:02:37,382 --> 01:02:39,384
+Czekam tylko na senatora.
+
+720
+01:02:40,260 --> 01:02:42,513
+Czekasz na senatora?
+
+721
+01:02:46,350 --> 01:02:48,602
+Dobra odpowiedŸ.
+
+722
+01:02:48,852 --> 01:02:51,063
+Psiakrew!
+
+723
+01:02:51,939 --> 01:02:54,191
+A ja czekam na s³oñce.
+
+724
+01:02:56,109 --> 01:02:59,822
+Pytam, czy jesteœ z tajnych s³u¿b, bo...
+
+725
+01:03:00,072 --> 01:03:01,615
+Nikomu nie powiem...
+
+726
+01:03:01,865 --> 01:03:03,367
+Widzia³em tam...
+
+727
+01:03:07,329 --> 01:03:09,665
+... jakichœ podejrzanych ludzi.
+
+728
+01:03:09,915 --> 01:03:12,042
+- Naprawdê?
+- Tam stali.
+
+729
+01:03:17,589 --> 01:03:19,842
+Byli tu.
+
+730
+01:03:23,220 --> 01:03:25,347
+Byli bardzo...
+
+731
+01:03:25,556 --> 01:03:27,141
+Podejrzani.
+
+732
+01:03:30,644 --> 01:03:32,938
+Gdzie oni poszli?
+
+733
+01:03:33,188 --> 01:03:36,108
+Trudno jest siê dostaæ do s³u¿b?
+
+734
+01:03:36,316 --> 01:03:37,151
+A dlaczego?
+
+735
+01:03:37,359 --> 01:03:40,320
+Pytam, bo myœlê, ¿e by³bym w tym dobry.
+
+736
+01:03:40,571 --> 01:03:42,364
+Jestem spostrzegawczy.
+
+737
+01:03:42,614 --> 01:03:45,284
+By³em w piechocie morskiej.
+
+738
+01:03:45,576 --> 01:03:47,578
+Umiem dzia³aæ w t³umie.
+
+739
+01:03:49,955 --> 01:03:53,458
+Zauwa¿y³em ten znaczek.
+To taki sygna³, prawda?
+
+740
+01:03:53,709 --> 01:03:54,668
+Mniej wiêcej.
+
+741
+01:03:54,918 --> 01:03:59,047
+Tajny znak dla tajnych s³u¿b.
+
+742
+01:04:02,467 --> 01:04:04,469
+Jak¹ broñ nosicie?
+
+743
+01:04:04,720 --> 01:04:09,725
+.38-ki? .45-ki? Magnum .357?
+Mo¿e coœ wiêkszego?
+
+744
+01:04:09,975 --> 01:04:14,688
+Jeœli jesteœ zainteresowany,
+podaj mi swoje nazwisko i adres.
+
+745
+01:04:14,938 --> 01:04:18,442
+Przyœlemy ci informator.
+Zgoda?
+
+746
+01:04:21,028 --> 01:04:23,655
+- Naprawdê?
+- Jasne.
+
+747
+01:04:24,281 --> 01:04:25,741
+Czemu nie?
+
+748
+01:04:29,328 --> 01:04:31,163
+Nazywam siê Henry Krinkle.
+
+749
+01:04:32,706 --> 01:04:35,542
+K-R-I-N-K-L-E.
+
+750
+01:04:38,754 --> 01:04:42,841
+Hopper Avenue 154.
+
+751
+01:04:43,091 --> 01:04:44,927
+Hopper?
+
+752
+01:04:47,429 --> 01:04:50,140
+Jak "hop, hop".
+
+753
+01:04:53,143 --> 01:04:55,145
+Fair Lawn, New Jersey.
+
+754
+01:04:57,940 --> 01:04:59,024
+A kod?
+
+755
+01:04:59,274 --> 01:05:02,236
+6-1-0-4-5-2.
+
+756
+01:05:04,822 --> 01:05:08,242
+To szeœæ cyfr.
+
+757
+01:05:09,368 --> 01:05:12,037
+To znaczy 6-1-0-4-5.
+
+758
+01:05:14,998 --> 01:05:18,001
+Myœla³em o numerze telefonu.
+
+759
+01:05:18,252 --> 01:05:19,336
+W porz¹dku.
+
+760
+01:05:19,545 --> 01:05:22,297
+Wszystko ci przyœlemy, Henry.
+
+761
+01:05:22,548 --> 01:05:26,009
+To wspaniale. Wielkie dziêki.
+
+762
+01:05:26,218 --> 01:05:28,053
+- Uwa¿ajcie dzisiaj.
+- Jasne.
+
+763
+01:05:28,262 --> 01:05:32,474
+W takich miejscach trzeba byæ
+ostro¿nym. Do zobaczenia.
+
+764
+01:06:09,887 --> 01:06:13,140
+Jestem szybszy, ty zboczeñcu.
+
+765
+01:06:13,348 --> 01:06:16,059
+Widzia³em ciê, sukinsynu.
+
+766
+01:06:16,268 --> 01:06:17,936
+Gnojek!
+
+767
+01:06:21,356 --> 01:06:24,234
+Stojê tu.
+Teraz twój ruch.
+
+768
+01:06:24,485 --> 01:06:26,153
+Twój ruch.
+
+769
+01:06:26,570 --> 01:06:28,280
+Œmia³o.
+
+770
+01:06:31,325 --> 01:06:33,535
+Nawet nie próbuj, dupku!
+
+771
+01:06:40,125 --> 01:06:41,919
+Do mnie mówisz?
+
+772
+01:06:43,879 --> 01:06:46,089
+Do mnie mówisz?
+
+773
+01:06:47,883 --> 01:06:49,843
+Do mnie?
+
+774
+01:06:52,095 --> 01:06:55,474
+Do kogo wiêc mówisz?
+
+775
+01:06:55,974 --> 01:06:57,976
+Nikogo tu nie widzê.
+
+776
+01:06:59,728 --> 01:07:03,190
+Do kogo ty, kurwa, mówisz?!
+
+777
+01:07:03,482 --> 01:07:05,067
+Czy¿by?
+
+778
+01:07:16,161 --> 01:07:18,539
+<i>S³uchajcie, gnojki i sukinsyny.</i>
+
+779
+01:07:18,747 --> 01:07:21,291
+<i>Oto cz³owiek, który mówi "Doœæ".</i>
+
+780
+01:07:21,542 --> 01:07:23,669
+<i>Cz³owiek, który postanowi³...</i>
+
+781
+01:07:23,919 --> 01:07:26,755
+<i>S³uchajcie, gnojki i sukinsyny...</i>
+
+782
+01:07:27,005 --> 01:07:30,425
+<i>Oto cz³owiek, który mówi: "Doœæ".</i>
+
+783
+01:07:30,676 --> 01:07:32,719
+<i>Cz³owiek, który mówi "Nie"</i>
+
+784
+01:07:32,928 --> 01:07:35,347
+<i>zboczeñcom, œmieciom, gównu.</i>
+
+785
+01:07:35,597 --> 01:07:38,559
+<i>Oto cz³owiek, który mówi "Nie".</i>
+
+786
+01:07:39,560 --> 01:07:40,394
+<i>Oto...</i>
+
+787
+01:07:45,399 --> 01:07:46,859
+Nie ¿yjesz.
+
+788
+01:08:13,760 --> 01:08:16,013
+Travis, qué pasa?
+
+789
+01:08:16,263 --> 01:08:18,682
+Czeœæ, Melio.
+
+790
+01:08:28,442 --> 01:08:29,359
+Tak?
+
+791
+01:08:29,610 --> 01:08:33,697
+Stul pysk i wyci¹gaj forsê
+z szuflady! Ruszaj siê!
+
+792
+01:08:33,947 --> 01:08:36,742
+- Dawaj tê pierdolon¹ kasê!
+- Nie strzelaj.
+
+793
+01:08:36,950 --> 01:08:39,161
+Poœpiesz siê.
+
+794
+01:08:39,369 --> 01:08:41,830
+Szybko, dawaj.
+
+795
+01:08:42,039 --> 01:08:43,957
+- Tylko tyle?
+- Tak.
+
+796
+01:08:44,166 --> 01:08:46,126
+To wszystko, co mam.
+
+797
+01:08:46,335 --> 01:08:48,128
+- Wszystko!
+- Nieprawda.
+
+798
+01:08:48,378 --> 01:08:51,507
+- Mówiê prawdê!
+- Siêgnij do skarpety.
+
+799
+01:08:51,715 --> 01:08:53,509
+Dawaj tê pieprzon¹ kasê.
+
+800
+01:08:59,306 --> 01:09:01,517
+- Trafi³eœ go?
+- Tak.
+
+801
+01:09:06,230 --> 01:09:08,440
+Cholera.
+
+802
+01:09:10,484 --> 01:09:13,237
+- Nie ¿yje?
+- Nie wiem. Rusza oczami.
+
+803
+01:09:19,368 --> 01:09:22,663
+Nie mam pozwolenia.
+Co ja teraz zrobiê?
+
+804
+01:09:27,584 --> 01:09:29,169
+Ja siê tym zajmê.
+
+805
+01:09:29,378 --> 01:09:30,254
+Mogê zap³aciæ?
+
+806
+01:09:30,963 --> 01:09:32,297
+Uciekaj st¹d.
+
+807
+01:09:32,506 --> 01:09:35,008
+Poradzê sobie. Znikaj.
+
+808
+01:09:38,804 --> 01:09:41,682
+To ju¿ pi¹ty skurwysyn w tym roku!
+
+809
+01:11:27,371 --> 01:11:29,957
+<i>Walt Whitman, wielki poeta,</i>
+
+810
+01:11:30,207 --> 01:11:32,251
+<i>mówi³ w naszym imieniu:</i>
+
+811
+01:11:32,501 --> 01:11:35,212
+<i>"Jestem cz³owiekiem. Cierpia³em.</i>
+
+812
+01:11:35,420 --> 01:11:38,590
+<i>By³em tam".
+Dzisiaj ja mówiê do was:</i>
+
+813
+01:11:38,841 --> 01:11:42,219
+<i>Jesteœmy ludem. Cierpieliœmy.</i>
+
+814
+01:11:42,469 --> 01:11:44,721
+<i>Byliœmy tam.</i>
+
+815
+01:11:47,057 --> 01:11:50,227
+<i>My, lud, cierpieliœmy w Wietnamie.</i>
+
+816
+01:11:50,477 --> 01:11:53,564
+<i>To my cierpieliœmy.
+I nadal cierpimy...</i>
+
+817
+01:11:53,814 --> 01:11:56,567
+<i>... z powodu bezrobocia,
+inflacji, ...</i>
+
+818
+01:11:56,817 --> 01:11:58,819
+<i>... korupcji i przestêpczoœci.</i>
+
+819
+01:12:02,239 --> 01:12:04,032
+<i>Kochani Mamo i Tato,... </i>
+
+820
+01:12:04,283 --> 01:12:09,997
+<i>Wiem, ¿e w lipcu wypada
+nie tylko Wasza rocznica œlubu, ...</i>
+
+821
+01:12:10,205 --> 01:12:13,417
+<i>... ale równie¿ Dzieñ Ojca
+i urodziny Mamy.</i>
+
+822
+01:12:13,625 --> 01:12:16,545
+<i>Nie pamiêtam niestety
+dok³adnych dat, ...</i>
+
+823
+01:12:16,753 --> 01:12:20,799
+<i>... ale liczê, ¿e ta kartka wystarczy
+na wszystkie te okazje.</i>
+
+824
+01:12:21,049 --> 01:12:24,178
+<i>Wybaczcie, ¿e wbrew
+zesz³orocznej obietnicy, ...</i>
+
+825
+01:12:24,386 --> 01:12:26,972
+<i>... nie podajê wam mojego adresu.</i>
+
+826
+01:12:27,222 --> 01:12:32,311
+<i>Praca, jak¹ wykonujê dla rz¹du,
+wymaga ca³kowitej dyskrecji.</i>
+
+827
+01:12:32,853 --> 01:12:35,606
+<i>Wiem, ¿e to zrozumiecie.</i>
+
+828
+01:12:36,523 --> 01:12:39,193
+<i>Jestem zdrowy i zarabiam kupê forsy.</i>
+
+829
+01:12:39,443 --> 01:12:41,487
+<i>Spotykam siê z dziewczyn¹, ...</i>
+
+830
+01:12:41,695 --> 01:12:44,281
+<i>... z której bylibyœcie
+bardzo dumni.</i>
+
+831
+01:12:44,865 --> 01:12:48,619
+<i>Ma na imiê Betsy.
+Wiêcej nie mogê Wam powiedzieæ.</i>
+
+832
+01:12:48,827 --> 01:12:51,163
+Kolego, tu nie wolno parkowaæ.
+
+833
+01:12:52,873 --> 01:12:56,251
+Jazda! Ruszaj siê!
+
+834
+01:12:58,378 --> 01:13:02,090
+<i>Znosimy cierpienia
+za kilka osób na górze.</i>
+
+835
+01:13:02,299 --> 01:13:05,844
+<i>Nie bêdziemy wiêcej walczyæ
+na ich wojnach, ...</i>
+
+836
+01:13:06,094 --> 01:13:08,138
+<i>... poœwiêcaj¹c ¿ycie.</i>
+
+837
+01:13:11,975 --> 01:13:16,063
+<i>Mam nadziejê, ¿e ta kartka
+zastanie Was w dobrym zdrowiu.</i>
+
+838
+01:13:16,271 --> 01:13:19,650
+<i>Mam nadziejê, ¿e wszyscy ¿yj¹.
+Nie bójcie siê, ...</i>
+
+839
+01:13:19,900 --> 01:13:23,278
+<i>... pewnego dnia ktoœ
+zapuka do drzwi - i to bêdê ja.</i>
+
+840
+01:13:24,071 --> 01:13:26,073
+<i>Ca³ujê, Travis.</i>
+
+841
+01:13:32,788 --> 01:13:34,540
+<i>O co ci chodzi?</i>
+
+842
+01:13:34,748 --> 01:13:36,500
+<i>Ty chcia³aœ rozmawiaæ.</i>
+
+843
+01:13:36,750 --> 01:13:40,754
+<i>Nie wysz³am za niego
+tylko dlatego,</i>
+
+844
+01:13:40,963 --> 01:13:44,842
+<i>¿e nie chcia³am rozbijaæ
+jego ma³¿eñstwa.</i>
+
+845
+01:13:47,553 --> 01:13:50,973
+<i>Ale on i tak siê rozwodzi.</i>
+
+846
+01:13:54,726 --> 01:13:57,146
+<i>Chce, ¿ebym za niego wysz³a.</i>
+
+847
+01:14:00,440 --> 01:14:02,568
+<i>Kocham go.</i>
+
+848
+01:14:06,613 --> 01:14:08,198
+<i>A co z nami, June?</i>
+
+849
+01:14:09,950 --> 01:14:11,535
+<i>Z naszym ma³¿eñstwem?</i>
+
+850
+01:14:14,329 --> 01:14:16,331
+<i>Wiesz, ¿e jest nielegalne.</i>
+
+851
+01:14:16,540 --> 01:14:19,668
+<i>W oczach Boga jesteœmy mê¿em i ¿on¹.</i>
+
+852
+01:14:23,088 --> 01:14:26,175
+<i>Brock, nie rób mi tego.</i>
+
+853
+01:14:28,802 --> 01:14:29,636
+<i>Kocham go.</i>
+
+854
+01:14:38,937 --> 01:14:40,522
+Do diab³a.
+
+855
+01:14:42,065 --> 01:14:44,067
+Do diab³a!
+
+856
+01:15:24,900 --> 01:15:27,444
+- Chcesz siê zabawiæ?
+- Tak.
+
+857
+01:15:30,614 --> 01:15:34,076
+Widzisz tego faceta?
+
+858
+01:15:34,284 --> 01:15:36,411
+Pogadaj z nim. To Matthew.
+
+859
+01:15:36,620 --> 01:15:38,705
+Poczekam na ciebie.
+
+860
+01:15:43,669 --> 01:15:47,047
+Ty jesteœ Matthew?
+Chcê siê zabawiæ.
+
+861
+01:15:47,548 --> 01:15:48,966
+Panie w³adzo, ...
+
+862
+01:15:50,259 --> 01:15:54,179
+... s³owo, jestem czysty.
+Czekam tu na kumpla.
+
+863
+01:15:54,388 --> 01:15:56,640
+Przymknie mnie pan za nic?
+
+864
+01:15:56,890 --> 01:15:59,226
+Nie jestem glin¹.
+
+865
+01:15:59,434 --> 01:16:01,645
+To co tak g³upio pytasz?
+
+866
+01:16:04,231 --> 01:16:06,233
+Ona mnie przys³a³a.
+
+867
+01:16:08,485 --> 01:16:11,280
+I nie masz w bucie .38-ki.
+
+868
+01:16:11,530 --> 01:16:13,115
+.38-ki?
+
+869
+01:16:14,825 --> 01:16:17,578
+Jestem czysty.
+
+870
+01:16:17,828 --> 01:16:20,205
+Jesteœ prawdziwym kowbojem?
+
+871
+01:16:20,706 --> 01:16:24,168
+To mi³o, stary. W porz¹dku.
+
+872
+01:16:24,418 --> 01:16:28,130
+15 dolców za 15 minut.
+25 za pó³ godziny.
+
+873
+01:16:29,756 --> 01:16:31,258
+Cholera...!
+
+874
+01:16:31,633 --> 01:16:32,885
+Kowboj?
+
+875
+01:16:34,553 --> 01:16:36,847
+Mia³em kiedyœ konia.
+
+876
+01:16:37,097 --> 01:16:38,765
+Potr¹ci³ go samochód.
+
+877
+01:16:41,310 --> 01:16:43,145
+Decyduj siê.
+
+878
+01:16:43,353 --> 01:16:46,732
+Chcesz oszczêdzaæ, to jej nie pieprz.
+
+879
+01:16:46,982 --> 01:16:48,358
+Znajdzie siê inny.
+
+880
+01:16:48,609 --> 01:16:52,529
+Ma 12 lat.
+Nigdy nie mia³eœ takiej dupy.
+
+881
+01:16:53,405 --> 01:16:55,449
+Zrobisz z ni¹, co chcesz.
+
+882
+01:16:55,657 --> 01:16:58,577
+W dupê, w usta.
+Spuœcisz siê na twarz.
+
+883
+01:16:58,785 --> 01:17:02,122
+Tak ci poci¹gnie, ¿e ci kutas eksploduje.
+
+884
+01:17:04,208 --> 01:17:07,544
+Ale bez bicia, rozumiemy siê?
+
+885
+01:17:12,382 --> 01:17:14,218
+W porz¹dku.
+
+886
+01:17:14,510 --> 01:17:18,055
+Koleœ, nie wyci¹gaj tu kasy!
+
+887
+01:17:18,263 --> 01:17:19,473
+Mnie chcesz r¿n¹æ?
+
+888
+01:17:19,723 --> 01:17:22,768
+J¹ bêdziesz r¿n¹æ, jej dajesz kasê.
+
+889
+01:17:24,186 --> 01:17:25,771
+Do zobaczenia, glino.
+
+890
+01:17:27,022 --> 01:17:27,940
+Co...?
+
+891
+01:17:28,190 --> 01:17:29,274
+Czeœæ, glino.
+
+892
+01:17:31,527 --> 01:17:32,736
+Nie jestem glin¹.
+
+893
+01:17:34,238 --> 01:17:37,366
+Jeœli jesteœ, to ju¿ po mnie.
+
+894
+01:17:40,786 --> 01:17:41,662
+Jestem swój.
+
+895
+01:17:42,871 --> 01:17:45,082
+Nie wygl¹dasz.
+
+896
+01:17:49,044 --> 01:17:51,547
+Baw siê dobrze.
+
+897
+01:18:00,347 --> 01:18:02,391
+Dziwny z ciebie facet.
+
+898
+01:18:05,519 --> 01:18:07,604
+Wygl¹d to nie wszystko.
+
+899
+01:18:08,021 --> 01:18:09,898
+Zabaw siê.
+
+900
+01:18:59,198 --> 01:19:01,366
+10 dolarów za pokój.
+
+901
+01:19:14,379 --> 01:19:16,298
+Mierzê czas.
+
+902
+01:19:35,275 --> 01:19:36,860
+ChodŸ.
+
+903
+01:19:46,328 --> 01:19:48,038
+Naprawdê masz 12 lat?
+
+904
+01:19:50,290 --> 01:19:54,169
+Szkoda pañskiego czasu.
+15 minut to niedu¿o.
+
+905
+01:19:56,713 --> 01:19:59,591
+Mamy czas do koñca tego papierosa.
+
+906
+01:20:03,804 --> 01:20:05,222
+Ile masz lat?
+
+907
+01:20:07,182 --> 01:20:08,976
+Nie chcesz mi powiedzieæ?
+
+908
+01:20:09,393 --> 01:20:11,061
+Jak masz na imiê?
+
+909
+01:20:11,270 --> 01:20:12,479
+Easy.
+
+910
+01:20:12,688 --> 01:20:14,022
+To nie imiê.
+
+911
+01:20:14,273 --> 01:20:15,607
+£atwo zapamiêtaæ.
+
+912
+01:20:15,816 --> 01:20:18,277
+Jak naprawdê masz na imiê?
+
+913
+01:20:18,652 --> 01:20:20,028
+Brzydko.
+
+914
+01:20:20,279 --> 01:20:22,239
+Jak?
+
+915
+01:20:26,118 --> 01:20:27,536
+Iris.
+
+916
+01:20:28,120 --> 01:20:30,038
+O co chodzi?
+To ³adne imiê.
+
+917
+01:20:30,622 --> 01:20:32,332
+Pana zdaniem.
+
+918
+01:20:39,506 --> 01:20:42,634
+Nie rób tego.
+Nie pamiêtasz mnie?
+
+919
+01:20:43,635 --> 01:20:46,972
+Pamiêtasz, jak wsiad³aœ kiedyœ do taksówki?
+
+920
+01:20:47,222 --> 01:20:49,266
+Ale przyszed³ ten Matthew...
+
+921
+01:20:49,516 --> 01:20:51,977
+...i powiedzia³, ¿e ciê zabiera.
+
+922
+01:20:52,227 --> 01:20:53,312
+Wyci¹gn¹³ ciê.
+
+923
+01:20:55,439 --> 01:20:56,690
+Nic nie pamiêtam.
+
+924
+01:20:58,233 --> 01:20:59,234
+Nie?
+
+925
+01:21:02,446 --> 01:21:04,031
+Zabiorê ciê st¹d.
+
+926
+01:21:04,281 --> 01:21:06,533
+Zróbmy to, bo Sport siê wkurzy.
+
+927
+01:21:06,742 --> 01:21:09,828
+- Jak chcesz to zrobiæ?
+- Nie chcê. Sport...?
+
+928
+01:21:10,037 --> 01:21:12,789
+Matthew. Nazywam go Sport.
+
+929
+01:21:17,878 --> 01:21:19,880
+Chcesz tak?
+
+930
+01:21:25,803 --> 01:21:27,137
+S³uchaj, ja...
+
+931
+01:21:27,346 --> 01:21:28,847
+Nic nie rozumiesz?
+
+932
+01:21:29,097 --> 01:21:30,808
+Wsiad³aœ do mojego wozu.
+
+933
+01:21:31,058 --> 01:21:32,643
+Chcia³aœ st¹d uciec.
+
+934
+01:21:32,893 --> 01:21:34,311
+By³am na haju.
+
+935
+01:21:34,978 --> 01:21:36,522
+Co oni ci daj¹?
+
+936
+01:21:36,730 --> 01:21:38,148
+Daj spokój.
+
+937
+01:21:39,900 --> 01:21:41,777
+Co ty robisz?
+
+938
+01:21:41,985 --> 01:21:43,987
+Nie chcesz?
+
+939
+01:21:47,241 --> 01:21:49,326
+Nie. Chcê ci pomóc.
+
+940
+01:21:50,410 --> 01:21:52,204
+Ja te¿ mogê ci pomóc.
+
+941
+01:21:56,792 --> 01:21:58,085
+Do diab³a!
+
+942
+01:21:58,752 --> 01:22:00,337
+Psiakrew!
+
+943
+01:22:04,383 --> 01:22:07,553
+Co z tob¹ jest, do cholery?
+
+944
+01:22:08,428 --> 01:22:10,222
+Nie musimy tego robiæ.
+
+945
+01:22:10,430 --> 01:22:12,474
+Nie chcesz siê st¹d wydostaæ?
+
+946
+01:22:15,185 --> 01:22:16,895
+Wiesz, czemu tu jestem?
+
+947
+01:22:18,147 --> 01:22:20,357
+Chyba tak.
+
+948
+01:22:22,025 --> 01:22:23,861
+Wsiad³am do twojego wozu, ...
+
+949
+01:22:24,069 --> 01:22:26,613
+... a ty teraz chcesz mnie
+st¹d zabraæ.
+
+950
+01:22:28,031 --> 01:22:29,449
+Zgadza siê?
+
+951
+01:22:29,700 --> 01:22:31,451
+Nie chcesz tego?
+
+952
+01:22:31,702 --> 01:22:33,287
+Odejdê, gdy zechcê.
+
+953
+01:22:33,495 --> 01:22:35,581
+A tamta noc?
+
+954
+01:22:37,666 --> 01:22:39,751
+By³am upalona.
+
+955
+01:22:42,129 --> 01:22:44,339
+Dlatego mnie zatrzymali.
+
+956
+01:22:46,175 --> 01:22:49,052
+Tak naprawdê, nie mam dok¹d pójœæ.
+
+957
+01:22:50,387 --> 01:22:52,306
+Oni broni¹ mnie...
+
+958
+01:22:52,848 --> 01:22:55,017
+... przed mn¹ sam¹.
+
+959
+01:23:02,483 --> 01:23:03,901
+Sam nie wiem.
+
+960
+01:23:06,445 --> 01:23:08,739
+Chcia³em dobrze.
+
+961
+01:23:10,491 --> 01:23:11,992
+Rozumiem to.
+
+962
+01:23:12,242 --> 01:23:14,578
+I doceniam, naprawdê.
+
+963
+01:23:17,873 --> 01:23:19,708
+Spotkamy siê jeszcze?
+
+964
+01:23:19,958 --> 01:23:22,252
+- Nic prostszego.
+- Ale nie tak.
+
+965
+01:23:22,503 --> 01:23:26,256
+Spotkajmy siê normalnie.
+Ludzie tak nie robi¹.
+
+966
+01:23:26,757 --> 01:23:28,467
+Mo¿e jutro na œniadaniu?
+
+967
+01:23:28,842 --> 01:23:30,677
+- Co?
+- Wstajê o 13:00.
+
+968
+01:23:30,886 --> 01:23:32,930
+O 13:00?
+
+969
+01:23:35,849 --> 01:23:37,935
+Mam sprawê...
+
+970
+01:23:38,185 --> 01:23:39,436
+Chcesz czy nie?
+
+971
+01:23:39,686 --> 01:23:41,688
+W porz¹dku.
+
+972
+01:23:41,897 --> 01:23:43,398
+- O 13:00.
+- Tak.
+
+973
+01:23:43,649 --> 01:23:46,276
+To do jutra.
+
+974
+01:23:47,569 --> 01:23:50,489
+Iris, mam na imiê Travis.
+
+975
+01:23:51,698 --> 01:23:53,784
+Dziêki, Travis.
+
+976
+01:23:55,452 --> 01:23:58,789
+Czeœæ, Iris.
+Do jutra.
+
+977
+01:24:00,123 --> 01:24:02,125
+S³odka Iris.
+
+978
+01:24:26,150 --> 01:24:28,026
+To dla ciebie.
+
+979
+01:24:28,277 --> 01:24:29,862
+Wydaj to rozs¹dnie.
+
+980
+01:24:35,242 --> 01:24:37,077
+PrzyjdŸ jeszcze, kowboju.
+
+981
+01:24:37,786 --> 01:24:39,121
+Przyjdê.
+
+982
+01:24:57,890 --> 01:25:00,559
+Czemu chcesz, bym wróci³a do starych?
+
+983
+01:25:00,809 --> 01:25:02,269
+Oni mnie nienawidz¹.
+
+984
+01:25:02,478 --> 01:25:05,772
+Myœlisz, ¿e dlaczego zwia³am?
+Tam nic nie ma.
+
+985
+01:25:06,023 --> 01:25:09,485
+Nie mo¿esz tak ¿yæ. To piek³o.
+
+986
+01:25:09,735 --> 01:25:11,570
+Powinnaœ mieszkaæ w domu.
+
+987
+01:25:12,404 --> 01:25:14,198
+A wyzwolenie kobiet?
+
+988
+01:25:14,448 --> 01:25:16,200
+O czym ty mówisz?
+
+989
+01:25:16,408 --> 01:25:19,286
+Jesteœ dziewczynk¹.
+Powinnaœ mieszkaæ w domu.
+
+990
+01:25:19,495 --> 01:25:21,622
+Mieæ kolegów i ³adne sukienki.
+
+991
+01:25:21,830 --> 01:25:23,373
+Chodziæ do szko³y.
+
+992
+01:25:23,624 --> 01:25:27,336
+- No wiesz.
+- Ale z ciebie frajer.
+
+993
+01:25:27,586 --> 01:25:29,546
+To ty jesteœ frajerk¹.
+
+994
+01:25:29,755 --> 01:25:31,673
+Nie wciskaj mi kitu.
+
+995
+01:25:31,882 --> 01:25:33,050
+O czym ty mówisz?
+
+996
+01:25:33,133 --> 01:25:36,637
+Idziesz z ka¿dym
+degeneratem i œmieciem...
+
+997
+01:25:36,887 --> 01:25:40,307
+... i sprzedajesz siê za nic...
+
+998
+01:25:40,516 --> 01:25:42,434
+... dla jakiegoœ alfonsa, ...
+
+999
+01:25:42,684 --> 01:25:44,728
+... który czeka w korytarzu.
+
+1000
+01:25:46,021 --> 01:25:48,982
+Ja jestem frajerem?
+Prêdzej ty.
+
+1001
+01:25:49,233 --> 01:25:52,611
+Ja siê nie pieprzê
+z ¿ulami i mordercami.
+
+1002
+01:25:53,654 --> 01:25:55,572
+Uwa¿asz, ¿e to fajne?
+
+1003
+01:25:56,448 --> 01:25:58,283
+W jakim œwiecie ¿yjesz?
+
+1004
+01:26:03,205 --> 01:26:04,039
+Mordercy?
+
+1005
+01:26:04,289 --> 01:26:06,250
+Na przyk³ad Sport.
+
+1006
+01:26:06,500 --> 01:26:07,918
+Nikogo nie zabi³.
+
+1007
+01:26:08,168 --> 01:26:09,586
+- Zabi³...
+- Jest Wag¹.
+
+1008
+01:26:09,837 --> 01:26:11,004
+Co?
+
+1009
+01:26:11,213 --> 01:26:14,550
+Ja te¿ jestem Wag¹.
+Dlatego siê rozumiemy.
+
+1010
+01:26:17,010 --> 01:26:19,596
+Wygl¹da na mordercê.
+
+1011
+01:26:19,847 --> 01:26:23,517
+Najlepsi kochankowie to Raki,
+ale moja rodzina...
+
+1012
+01:26:24,059 --> 01:26:25,936
+... to znaki powietrzne.
+
+1013
+01:26:26,145 --> 01:26:27,354
+Jest narkomanem.
+
+1014
+01:26:28,313 --> 01:26:31,525
+Za kogo ty siê masz, ¿e tak mówisz?
+
+1015
+01:26:32,109 --> 01:26:34,903
+Patrzysz czasem w lustro?
+
+1016
+01:26:40,993 --> 01:26:43,328
+A co ze Sportem i tym drugim?
+
+1017
+01:26:43,537 --> 01:26:45,622
+- Kiedy?
+- Gdy odejdziesz.
+
+1018
+01:26:49,334 --> 01:26:50,460
+Zostawiê ich.
+
+1019
+01:26:50,711 --> 01:26:52,546
+- Po prostu?
+- Maj¹ inne.
+
+1020
+01:26:52,754 --> 01:26:55,632
+Nie mo¿esz tego tak za³atwiæ.
+
+1021
+01:26:58,594 --> 01:26:59,970
+Mam wezwaæ gliny?
+
+1022
+01:27:00,220 --> 01:27:02,723
+Wiesz, ¿e gliny nic nie zrobi¹.
+
+1023
+01:27:03,348 --> 01:27:07,060
+Sport dobrze mnie traktuje.
+Nigdy mnie nie uderzy³.
+
+1024
+01:27:07,311 --> 01:27:10,647
+Nie mo¿esz pozwoliæ,
+¿eby wykorzystywa³ inne.
+
+1025
+01:27:10,856 --> 01:27:12,441
+Nie gódŸ siê na to.
+
+1026
+01:27:12,691 --> 01:27:14,860
+To najgorszy rodzaj cz³owieka.
+
+1027
+01:27:15,110 --> 01:27:16,987
+Trzeba coœ z nim zrobiæ.
+
+1028
+01:27:17,237 --> 01:27:18,697
+To pod³a szumowina.
+
+1029
+01:27:18,947 --> 01:27:20,449
+Najgorszy, najohydniejszy...
+
+1030
+01:27:21,742 --> 01:27:24,244
+... drañ, jakiego
+w ¿yciu widzia³em.
+
+1031
+01:27:26,997 --> 01:27:29,416
+Wiesz, co o tobie mówi³?
+
+1032
+01:27:31,710 --> 01:27:35,464
+Obra¿a³ ciê w okropny sposób.
+
+1033
+01:27:38,258 --> 01:27:40,052
+Nie mówi³ na serio.
+
+1034
+01:27:42,387 --> 01:27:45,682
+Zamieszkam w jakiejœ komunie w Vermont.
+
+1035
+01:27:50,062 --> 01:27:53,023
+Nie by³em nigdy w komunie, ...
+
+1036
+01:27:53,273 --> 01:27:57,069
+... ale widzia³em kiedyœ
+zdjêcia w czasopiœmie.
+
+1037
+01:27:57,152 --> 01:27:58,821
+Nie wygl¹da³o to zbyt czysto.
+
+1038
+01:27:59,404 --> 01:28:01,323
+Mo¿e pojedziesz ze mn¹?
+
+1039
+01:28:01,573 --> 01:28:05,118
+Z tob¹? Do komuny? Nie.
+
+1040
+01:28:05,327 --> 01:28:06,745
+Dlaczego?
+
+1041
+01:28:08,622 --> 01:28:11,375
+Nie je¿d¿ê w takie miejsca.
+
+1042
+01:28:11,625 --> 01:28:12,501
+Czemu nie?
+
+1043
+01:28:12,751 --> 01:28:14,753
+Nie lubiê takich ludzi.
+
+1044
+01:28:15,254 --> 01:28:16,755
+Jesteœ Skorpionem?
+
+1045
+01:28:17,381 --> 01:28:20,717
+Oczywiœcie, ¿e tak.
+Nigdy siê nie mylê.
+
+1046
+01:28:21,802 --> 01:28:23,887
+Poza tym muszê tu zostaæ.
+
+1047
+01:28:24,138 --> 01:28:25,013
+Dlaczego?
+
+1048
+01:28:25,222 --> 01:28:26,890
+Mam wa¿ne sprawy.
+
+1049
+01:28:27,099 --> 01:28:28,684
+Niby jakie?
+
+1050
+01:28:30,519 --> 01:28:32,813
+Pracujê dla rz¹du.
+
+1051
+01:28:33,647 --> 01:28:35,899
+Taksówka to tylko pó³ etatu.
+
+1052
+01:28:37,067 --> 01:28:38,569
+Jesteœ z narkotyków?
+
+1053
+01:28:41,029 --> 01:28:42,197
+A wygl¹dam?
+
+1054
+01:28:45,409 --> 01:28:47,202
+Jestem z narkotyków.
+
+1055
+01:28:48,328 --> 01:28:51,790
+Nie wiem, kto jest bardziej
+szurniêty, ja czy ty.
+
+1056
+01:28:58,088 --> 01:29:02,092
+- Na pewno ze mn¹ nie pojedziesz?
+- Dam ci pieni¹dze.
+
+1057
+01:29:02,676 --> 01:29:05,345
+- Nie musisz.
+- Ale dam ci.
+
+1058
+01:29:05,596 --> 01:29:08,348
+Nie chcê, byœ cokolwiek od nich bra³a.
+
+1059
+01:29:08,682 --> 01:29:10,392
+Zreszt¹ chcê ci je daæ.
+
+1060
+01:29:10,726 --> 01:29:13,145
+Nie mam co z nimi robiæ.
+
+1061
+01:29:15,022 --> 01:29:17,316
+Mo¿e wyjadê na jakiœ czas.
+
+1062
+01:29:42,925 --> 01:29:46,345
+Jesteœ trochê spiêta, to wszystko.
+
+1063
+01:29:46,595 --> 01:29:49,056
+Nie lubiê tego robiæ, Sport.
+
+1064
+01:29:49,306 --> 01:29:52,267
+Nigdy ciê nie prosi³em,
+¿ebyœ to lubi³a.
+
+1065
+01:29:52,518 --> 01:29:56,438
+Gdybyœ lubi³a swoj¹ pracê,
+nie by³abyœ moj¹ kobiet¹.
+
+1066
+01:29:58,148 --> 01:30:00,651
+Nie masz dla mnie czasu.
+
+1067
+01:30:00,859 --> 01:30:03,946
+Muszê pilnowaæ interesu.
+
+1068
+01:30:04,988 --> 01:30:07,491
+Têsknisz za mn¹.
+
+1069
+01:30:08,826 --> 01:30:12,246
+Ja te¿ nie lubiê ciê zostawiaæ.
+
+1070
+01:30:12,454 --> 01:30:14,998
+Wiesz, co do ciebie czujê.
+
+1071
+01:30:16,124 --> 01:30:18,126
+Jesteœ mi potrzebna.
+
+1072
+01:30:20,504 --> 01:30:21,713
+Zginê bez ciebie.
+
+1073
+01:30:23,215 --> 01:30:25,634
+Nigdy o tym nie zapomnij.
+
+1074
+01:30:35,060 --> 01:30:37,312
+Bardzo ciê potrzebujê.
+
+1075
+01:30:39,439 --> 01:30:41,275
+ChodŸ tu, kochanie.
+
+1076
+01:30:51,368 --> 01:30:53,162
+Przytul siê.
+
+1077
+01:30:59,710 --> 01:31:04,006
+Tak mi dobrze,
+kiedy jesteœ blisko mnie.
+
+1078
+01:31:08,677 --> 01:31:13,182
+Chcia³bym, ¿eby ka¿dy mê¿czyzna
+by³ tak kochany.
+
+1079
+01:31:18,145 --> 01:31:21,106
+I ¿eby ka¿d¹ kobietê na œwiecie...
+
+1080
+01:31:22,816 --> 01:31:25,903
+... ktoœ tak kocha³,
+jak ja ciebie.
+
+1081
+01:31:29,740 --> 01:31:33,202
+Jak dobrze byæ tak blisko.
+
+1082
+01:31:45,172 --> 01:31:47,174
+W takich chwilach wiem, ...
+
+1083
+01:31:47,674 --> 01:31:50,511
+... ¿e jestem szczêœciarzem.
+
+1084
+01:31:53,263 --> 01:31:56,558
+Mam kobietê,
+która mnie pragnie i potrzebuje.
+
+1085
+01:32:03,023 --> 01:32:05,943
+Tylko ty trzymasz mnie przy ¿yciu.
+
+1086
+01:33:25,481 --> 01:33:28,942
+<i>Droga Iris, to chyba starczy
+na twoj¹ podró¿.</i>
+
+1087
+01:33:29,151 --> 01:33:32,571
+<i>Gdy bêdziesz to czytaæ,
+nie bêdê ju¿ ¿y³. Travis.</i>
+
+1088
+01:33:38,076 --> 01:33:40,871
+<i>Teraz widzê to jasno.
+Ca³e moje ¿ycie... </i>
+
+1089
+01:33:41,121 --> 01:33:44,833
+<i>... zmierza³o w³aœnie
+w tym kierunku.</i>
+
+1090
+01:33:45,083 --> 01:33:48,128
+<i>Nie mia³em innego wyboru.</i>
+
+1091
+01:34:23,205 --> 01:34:24,248
+Panie i panowie, ...
+
+1092
+01:34:24,456 --> 01:34:28,710
+... przed wami przysz³y prezydent USA,
+senator Charles Palantine.
+
+1093
+01:34:35,134 --> 01:34:36,468
+Dziêkujê, Tom.
+
+1094
+01:34:37,761 --> 01:34:38,887
+Panie i panowie, ...
+
+1095
+01:34:39,888 --> 01:34:44,226
+... spotykamy siê dzisiaj
+na Columbus Circle.
+
+1096
+01:34:44,434 --> 01:34:46,562
+To nie jest zwyk³e miejsce.
+
+1097
+01:34:46,812 --> 01:34:51,608
+To miejsce, w którym krzy¿uje siê
+wiele dróg, tak¿e ¿yciowych.
+
+1098
+01:34:52,776 --> 01:34:55,445
+To w³aœciwe miejsce
+na to spotkanie, ...
+
+1099
+01:34:55,696 --> 01:34:58,991
+... bo czasy te¿ s¹ niezwyk³e.
+
+1100
+01:34:59,241 --> 01:35:03,120
+Spotykamy siê na rozstajach historii.
+
+1101
+01:35:03,704 --> 01:35:07,624
+Zbyt d³ugo wybieraliœmy z³e drogi.
+
+1102
+01:35:07,875 --> 01:35:12,129
+Te drogi powiod³y nas
+ku wojnie, biedzie, ...
+
+1103
+01:35:12,379 --> 01:35:15,215
+... bezrobociu i inflacji.
+
+1104
+01:35:16,091 --> 01:35:19,803
+Dzisiaj mówiê wam,
+¿e osi¹gnêliœmy punkt zwrotny.
+
+1105
+01:35:23,557 --> 01:35:27,769
+Nie bêdziemy d³u¿ej cierpieæ
+za kilka osób na górze.
+
+1106
+01:35:35,944 --> 01:35:40,240
+Sk³ama³bym, gdybym powiedzia³,
+¿e nowe drogi bêd¹ ³atwe.
+
+1107
+01:35:40,908 --> 01:35:42,993
+Nie bêd¹.
+
+1108
+01:35:43,243 --> 01:35:46,747
+Nigdy to, co dobre i s³uszne,
+nie by³o ³atwe.
+
+1109
+01:35:46,997 --> 01:35:48,999
+My, lud, wiemy o tym.
+
+1110
+01:35:53,045 --> 01:35:57,216
+My, lud, wiemy, które drogi
+s¹ dobre i s³uszne.
+
+1111
+01:35:58,217 --> 01:36:02,554
+Dziœ mówiê wam:
+My jesteœmy ludem, wy i ja.
+
+1112
+01:36:02,763 --> 01:36:06,058
+Czas, aby lud zacz¹³ rz¹dziæ!
+
+1113
+01:36:06,266 --> 01:36:07,518
+Dziêkujê.
+
+1114
+01:36:23,617 --> 01:36:26,036
+Pozwólcie przejœæ senatorowi.
+
+1115
+01:36:47,266 --> 01:36:48,642
+£ap tego faceta!
+
+1116
+01:36:55,482 --> 01:36:57,401
+Uciek³.
+
+1117
+01:36:57,651 --> 01:36:59,570
+- Widzia³em go.
+- Gdzie?
+
+1118
+01:37:26,180 --> 01:37:27,347
+Czeœæ.
+
+1119
+01:37:27,598 --> 01:37:28,891
+Masz forsê?
+
+1120
+01:37:40,152 --> 01:37:41,612
+Iris u siebie?
+
+1121
+01:38:18,690 --> 01:38:20,609
+Czeœæ, Sport. Jak leci?
+
+1122
+01:38:20,818 --> 01:38:22,903
+Dobrze, stary, dziêki.
+
+1123
+01:38:24,404 --> 01:38:27,324
+- Sk¹d ja ciê znam?
+- Nie wiem.
+
+1124
+01:38:27,533 --> 01:38:29,785
+Jak biznes, alfonsie?
+
+1125
+01:38:30,994 --> 01:38:32,079
+Czy ja ciê znam?
+
+1126
+01:38:32,329 --> 01:38:33,163
+Nie.
+
+1127
+01:38:33,372 --> 01:38:34,790
+Znamy siê?
+
+1128
+01:38:35,082 --> 01:38:36,917
+Spadaj st¹d.
+
+1129
+01:38:37,167 --> 01:38:38,752
+Znamy siê?
+
+1130
+01:38:41,088 --> 01:38:42,506
+Jak tam Iris?
+
+1131
+01:38:42,756 --> 01:38:44,174
+Znasz Iris.
+
+1132
+01:38:44,383 --> 01:38:47,094
+Nie znam ¿adnej Iris.
+
+1133
+01:38:47,302 --> 01:38:49,388
+Iris? Zje¿d¿aj st¹d.
+
+1134
+01:38:49,888 --> 01:38:51,890
+Nie znasz Iris?
+
+1135
+01:38:52,141 --> 01:38:54,601
+Nie znam nikogo takiego.
+
+1136
+01:38:55,102 --> 01:38:56,353
+Nie?
+
+1137
+01:38:56,895 --> 01:38:59,231
+Wracaj do swojego plemienia.
+
+1138
+01:38:59,481 --> 01:39:01,900
+Nie chcê ¿adnych k³opotów.
+
+1139
+01:39:03,402 --> 01:39:04,820
+Masz broñ?
+
+1140
+01:39:06,071 --> 01:39:09,199
+Spieprzaj st¹d, cz³owieku.
+
+1141
+01:39:09,658 --> 01:39:11,285
+Spróbuj tego.
+
+1142
+01:40:25,526 --> 01:40:27,611
+Ty pieprzony skurwielu!
+
+1143
+01:40:27,861 --> 01:40:29,279
+Pieprzony skurwiel!
+
+1144
+01:40:29,530 --> 01:40:31,365
+Zabijê ciê!
+
+1145
+01:40:31,573 --> 01:40:34,159
+Zabijê!
+
+1146
+01:40:35,661 --> 01:40:37,329
+Zabijê ciê, kurwa!
+
+1147
+01:40:37,538 --> 01:40:38,455
+Skurwiel!
+
+1148
+01:40:38,705 --> 01:40:39,665
+Zabijê ciê!
+
+1149
+01:40:58,767 --> 01:41:02,229
+Ty pieprzony draniu!
+Zabijê ciê!
+
+1150
+01:41:02,479 --> 01:41:06,150
+Ty jebniêty sukinsynu!
+Zabijê ciê!
+
+1151
+01:41:27,379 --> 01:41:28,380
+Nie strzelaj!
+
+1152
+01:46:04,990 --> 01:46:07,409
+<i>TAKSÓWKARZ WALCZY Z GANGIEM</i>
+
+1153
+01:46:07,910 --> 01:46:09,411
+<i>Drogi panie Bickle, ...</i>
+
+1154
+01:46:09,661 --> 01:46:13,582
+<i>... ¿ona i ja bardzo siê cieszymy ...</i>
+
+1155
+01:46:13,791 --> 01:46:16,752
+<i>... na wieœæ o tym,
+¿e wraca pan do zdrowia.</i>
+
+1156
+01:46:17,002 --> 01:46:19,838
+<i>Chcieliœmy odwiedziæ pana
+w szpitalu, ...</i>
+
+1157
+01:46:20,088 --> 01:46:22,800
+<i>... gdy pojechaliœmy
+do Nowego Jorku po Iris, ...</i>
+
+1158
+01:46:23,050 --> 01:46:25,636
+<i>... ale by³ pan wtedy
+jeszcze nieprzytomny.</i>
+
+1159
+01:46:25,886 --> 01:46:27,971
+<i>Nigdy siê nie odwdziêczymy...</i>
+
+1160
+01:46:28,180 --> 01:46:31,308
+<i>za to, ¿e zwróci³ pan nam Iris.</i>
+
+1161
+01:46:31,558 --> 01:46:33,227
+<i>Utraciliœmy j¹, ...</i>
+
+1162
+01:46:33,477 --> 01:46:36,605
+<i>... ale teraz nasze ¿ycie
+odzyska³o sens.</i>
+
+1163
+01:46:37,105 --> 01:46:38,440
+<i>Nie trzeba dodawaæ, ...</i>
+
+1164
+01:46:38,690 --> 01:46:43,195
+<i>... ¿e jest pan bohaterem
+w naszym domu.</i>
+
+1165
+01:46:43,904 --> 01:46:47,407
+<i>Na pewno chcia³by pan
+us³yszeæ coœ o Iris.</i>
+
+1166
+01:46:47,616 --> 01:46:51,161
+<i>Wróci³a do szko³y i du¿o siê uczy.</i>
+
+1167
+01:46:51,411 --> 01:46:54,456
+<i>Ta zmiana by³a dla niej
+bardzo trudna, ...</i>
+
+1168
+01:46:54,665 --> 01:46:56,583
+<i>... domyœla siê pan tego.</i>
+
+1169
+01:46:56,792 --> 01:46:59,044
+<i>Ale bardzo siê staramy, ...</i>
+
+1170
+01:46:59,253 --> 01:47:03,423
+<i>... aby nigdy nie mia³a ju¿
+powodu do ucieczki.</i>
+
+1171
+01:47:04,049 --> 01:47:09,388
+<i>Na zakoñczenie chcielibyœmy
+z ¿on¹ raz jeszcze...</i>
+
+1172
+01:47:09,638 --> 01:47:12,307
+<i>... podziêkowaæ panu
+z ca³ego serca.</i>
+
+1173
+01:47:12,558 --> 01:47:16,603
+<i>Wolelibyœmy zrobiæ to osobiœcie,
+ale niestety...</i>
+
+1174
+01:47:16,854 --> 01:47:20,774
+<i>... nie staæ nas na kolejn¹ podró¿
+do Nowego Jorku.</i>
+
+1175
+01:47:21,024 --> 01:47:23,861
+<i>Za to, gdyby pan odwiedzi³
+Pittsburgh...</i>
+
+1176
+01:47:24,111 --> 01:47:28,657
+<i>... by³by pan mile widzianym
+goœciem w naszym domu.</i>
+
+1177
+01:47:28,949 --> 01:47:33,871
+<i>Z najserdeczniejszymi ¿yczeniami,
+Burt i Ivy Steensma.</i>
+
+1178
+01:47:34,788 --> 01:47:39,334
+Przychodzi Eddie i mówi:
+"Chcê siê zamieniæ oponami".
+
+1179
+01:47:39,543 --> 01:47:41,128
+Mówiê mu: "Te s¹ nowe".
+
+1180
+01:47:41,670 --> 01:47:44,548
+"Mo¿e coœ dorzucisz,
+na przyk³ad ¿onê?".
+
+1181
+01:47:44,756 --> 01:47:46,508
+To Miss New Jersey 1957.
+
+1182
+01:47:46,758 --> 01:47:48,802
+I w firmie nie ma opon.
+
+1183
+01:47:49,052 --> 01:47:51,430
+Kasiarz, Magik, Zabójca.
+
+1184
+01:47:51,638 --> 01:47:54,099
+- Charlie T.
+- Co s³ychaæ?
+
+1185
+01:47:54,600 --> 01:47:56,602
+Travis, masz kurs.
+
+1186
+01:47:58,103 --> 01:47:59,354
+Cholera.
+
+1187
+01:48:00,189 --> 01:48:01,607
+Do zobaczenia.
+
+1188
+01:48:01,857 --> 01:48:03,484
+Czeœæ, Travis.
+
+1189
+01:48:24,630 --> 01:48:26,423
+Czeœæ, Travis.
+
+1190
+01:48:27,841 --> 01:48:29,092
+Czeœæ.
+
+1191
+01:48:49,988 --> 01:48:52,699
+S³ysza³em, ¿e Palantine ma nominacjê.
+
+1192
+01:48:53,992 --> 01:48:57,079
+Ju¿ nied³ugo. Zosta³o tylko 17 dni.
+
+1193
+01:48:58,163 --> 01:48:59,998
+Mam nadziejê, ¿e wygra.
+
+1194
+01:49:13,637 --> 01:49:16,723
+Czyta³am o tobie w prasie.
+Jak siê czujesz?
+
+1195
+01:49:19,560 --> 01:49:22,312
+To nic wielkiego.
+Wyszed³em z tego.
+
+1196
+01:49:24,815 --> 01:49:27,317
+Gazety zawsze przesadzaj¹.
+
+1197
+01:49:29,153 --> 01:49:32,406
+Zosta³o tylko lekkie zesztywnienie.
+
+1198
+01:50:08,650 --> 01:50:09,902
+Travis, ...
+
+1199
+01:50:11,403 --> 01:50:12,654
+... chcia³am...
+
+1200
+01:50:16,408 --> 01:50:18,076
+Ile p³acê?
+
+1201
+01:50:27,252 --> 01:50:28,504
+Do zobaczenia.
+
